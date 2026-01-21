@@ -1,0 +1,104 @@
+2025-12-08 19:18:52.088  |[CConnectPage::GetActiveJDBS] [1275]|: Stb_GetStbIniItem(Common, ActiveJDBS) failed
+2025-12-08 19:18:52.816  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: ProxySvrPort) failed
+2025-12-08 19:18:52.824  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr3) failed
+2025-12-08 19:18:52.849  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vmdrm, name: OTTCA_VCISVRPort) failed
+2025-12-08 19:18:52.866  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Appup) failed
+2025-12-08 19:18:52.883  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: GateWayIPV6) failed
+2025-12-08 19:18:52.914  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr4) failed
+2025-12-08 19:18:52.926  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: IQASAddress) failed
+2025-12-08 19:18:52.945  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: EnableCloseCaption) failed
+2025-12-08 19:18:52.983  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr5) failed
+2025-12-08 19:18:52.990  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_PIN) failed
+2025-12-08 19:18:53.015  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: Ipv6ACSAddress) failed
+2025-12-08 19:18:53.035  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr6) failed
+2025-12-08 19:18:53.047  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_EMMSVRAddr) failed
+2025-12-08 19:18:53.073  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Other) failed
+2025-12-08 19:18:53.096  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: DNSIPV6) failed
+2025-12-08 19:18:53.107  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: IpAddrIPV6) failed
+2025-12-08 19:18:53.129  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: AccessPoint) failed
+2025-12-08 19:18:53.184  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Conaxdrm_IMP, name: GetoperatorvalueType) failed
+2025-12-08 19:18:53.191  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: LinkTest) failed
+2025-12-08 19:18:53.213  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr7) failed
+2025-12-08 19:18:53.233  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vmdrm, name: pVksAddrAndPort) failed
+2025-12-08 19:18:53.251  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_EMMSVRPort) failed
+2025-12-08 19:18:53.267  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Drm) failed
+2025-12-08 19:18:53.296  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Dhcp) failed
+2025-12-08 19:18:53.317  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Android, name: ScreenUpdateInterval) failed
+2025-12-08 19:18:53.344  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: Ztemcndpre) failed
+2025-12-08 19:18:53.364  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: Hint) failed
+2025-12-08 19:18:53.376  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: AudioOut) failed
+2025-12-08 19:18:53.391  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr8) failed
+2025-12-08 19:18:53.410  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Wvdrm, name: CA_WV_AUTO_AUTH_SVRAddr) failed
+2025-12-08 19:18:53.435  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Multicast) failed
+2025-12-08 19:18:53.443  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Android, name: MonitorLogUp) failed
+2025-12-08 19:18:53.468  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: AutoOutputFlag) failed
+2025-12-08 19:18:53.476  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: Ztemcndsuf) failed
+2025-12-08 19:18:53.508  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: ResourceSvrDomain) failed
+2025-12-08 19:18:53.516  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: SVR_Num) failed
+2025-12-08 19:18:53.529  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Tr069) failed
+2025-12-08 19:18:53.543  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: LogoPicLoadReportAddr) failed
+2025-12-08 19:18:53.558  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: EncryptionMethod) failed
+2025-12-08 19:18:53.598  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Dhcp) failed
+2025-12-08 19:18:53.610  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Multicast) failed
+2025-12-08 19:18:53.624  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: ManagementDomainBackup) failed
+2025-12-08 19:18:53.668  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: VPPassWord) failed
+2025-12-08 19:18:53.684  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: FccAddIGMPTimeout) failed
+2025-12-08 19:18:53.718  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Wvdrm, name: CA_WV_EMMG_SVRAddr) failed
+2025-12-08 19:18:53.726  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: PrefixLength) failed
+2025-12-08 19:18:53.752  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: CPEPassword) failed
+2025-12-08 19:18:53.781  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: VPUserNo) failed
+2025-12-08 19:18:53.794  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Appup) failed
+2025-12-08 19:18:53.834  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: MainITMSSuportTR111) failed
+2025-12-08 19:18:53.869  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: EncryptionKey) failed
+2025-12-08 19:18:53.887  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: SendVideo) failed
+2025-12-08 19:18:53.908  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vmdrm, name: OTTCA_Company) failed
+2025-12-08 19:18:53.935  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_SProxySVRAddr) failed
+2025-12-08 19:18:53.966  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_DProxySVRAddr) failed
+2025-12-08 19:18:53.991  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Tr069) failed
+2025-12-08 19:18:54.018  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: SubCPEPassword) failed
+2025-12-08 19:18:54.034  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: SubACSPassword) failed
+2025-12-08 19:18:54.053  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Android, name: MonitorLogURL) failed
+2025-12-08 19:18:54.088  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: GroupSvrAddr) failed
+2025-12-08 19:18:54.099  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: CallPort) failed
+2025-12-08 19:18:54.122  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Wvdrm, name: CA_WV_AUTH_SVRAddr) failed
+2025-12-08 19:18:54.149  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_SProxySVRPort) failed
+2025-12-08 19:18:54.165  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Irddrm, name: CA_DProxySVRPort) failed
+2025-12-08 19:18:54.187  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Unicast) failed
+2025-12-08 19:18:54.200  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Drm) failed
+2025-12-08 19:18:54.216  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: Version) failed
+2025-12-08 19:18:54.233  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: WLAN_EncryKeyId) failed
+2025-12-08 19:18:54.266  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: SignalSendTimes) failed
+2025-12-08 19:18:54.300  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: GroupSvrPort) failed
+2025-12-08 19:18:54.311  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: RegSvrAddr) failed
+2025-12-08 19:18:54.330  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: CallIp) failed
+2025-12-08 19:18:54.348  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: CallRate) failed
+2025-12-08 19:18:54.375  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANPBIT_Other) failed
+2025-12-08 19:18:54.393  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vlan, name: VLANID_Unicast) failed
+2025-12-08 19:18:54.413  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: LogoPicSrvAddr) failed
+2025-12-08 19:18:54.430  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: CPEUserName) failed
+2025-12-08 19:18:54.462  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: RegSvrPort) failed
+2025-12-08 19:18:54.474  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr1) failed
+2025-12-08 19:18:54.492  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Android, name: ScreenURL) failed
+2025-12-08 19:18:54.526  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: FccReqRespTimeout) failed
+2025-12-08 19:18:54.540  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: SIP, name: ProxySvrAddr) failed
+2025-12-08 19:18:54.590  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: VideoPhone, name: VideoBitRate) failed
+2025-12-08 19:18:54.628  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Icasdrm, name: CAS_SVRAddr2) failed
+2025-12-08 19:18:54.692  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Vmdrm, name: OTTCA_VCISVRAddr) failed
+2025-12-08 19:18:54.754  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: SubCPEUserName) failed
+2025-12-08 19:18:54.793  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common_ext, name: SubACSUserName) failed
+2025-12-08 19:18:54.825  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: IPV6, name: MLDVersion) failed
+2025-12-08 19:18:54.896  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: WLAN_AuthMode) failed
+2025-12-08 19:18:54.932  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: DvrSTB) failed
+2025-12-08 19:18:54.974  |[CZTE_STB_ToolsApp::GetAllConfigToMap] [2015]|: GetIniItem(section: Common, name: Standbymode) failed
+2025-12-08 19:18:56.649  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2025-12-08 19:18:56.650  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2025-12-08 19:18:56.684  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2025-12-08 19:19:17.338  |[CMediaCtrl::OnBnClickedButtonOpenMediatest] [300]|: failed to send start media test commamd to auto test module!
+2025-12-08 19:19:48.230  |[CAdbPage::OnAdbCmdOpened] [557]|: Open ADB success!
+2025-12-08 19:19:52.511  |[AdbFunctionButtonConnectThreadProc] [755]|: adb connect start!
+2025-12-08 19:20:03.901  |[AdbFunctionButtonConnectThreadProc] [760]|: adb connect is terminated!
+2025-12-08 19:20:03.902  |[CAdbPage::OnAdbConnected] [911]|: Connect failed!
+2025-12-08 19:20:35.872  |[AdbFunctionButtonConnectThreadProc] [755]|: adb connect start!
+2025-12-08 19:20:42.052  |[CZTE_STB_ToolsDlg::IsNotifyStbToRelease] [1154]|: ADB opened, notify STB to close?
+2025-12-08 19:20:42.825  |[CZTE_STB_ToolsDlg::OnBnClickedBtnCls] [678]|: Notice the STB before closing the tool!
+2025-12-08 19:20:43.523  |[AdbFunctionButtonConnectThreadProc] [760]|: adb connect is terminated!

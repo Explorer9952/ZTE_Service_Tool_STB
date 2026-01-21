@@ -1,0 +1,500 @@
+12.861   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.862   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.862   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.862   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.862   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.862   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.862   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.945   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.946   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.957   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.958   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+12.958   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+12.958   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+12.958   E/MCSP_SQM.SQM_ERROR( 4734): Sqm_GetMemRate [5741]:Find over
+
+12.958   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.958   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.958   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xe5df4580, pevt->handle:0xe5df4580, cb:0xea0a8fc0, time:107
+
+12.958   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.958   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.958   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.959   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.959   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.959   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.959   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.959   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.959   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.960   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.960   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.960   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.960   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.960   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.960   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.960   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572aa0, pevt->handle:0xf1572aa0, cb:0xea0a8fc0, time:117
+
+12.960   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+12.961   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.962   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.962   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.962   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.962   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.962   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.962   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+12.962   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+12.963   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.048   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.048   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.048   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.059   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.059   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.059   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xe5df4580, pevt->handle:0xe5df4580, cb:0xea0a8fc0, time:127
+
+13.059   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.059   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.059   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.059   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.060   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.060   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.060   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea03c695, time:131
+
+13.060   E/NetManager.NetManager( 4845): [1403] logcat hide Print
+
+13.060   E/NetManager.NetManager( 4845): [2170] logcat hide Print
+
+13.060   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.060   E/NetManager.AcsAgent( 4845): [407] Fetch timer pevt:0xea211900, pevt->handle:0xea211900, cb:0xe63a574c, time:132
+
+13.060   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSUserName, nRet = -6
+
+13.060   E/NetManager.AcsAgent( 4845): [1355] logcat hide Print
+
+13.060   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSPassword, nRet = -6
+
+13.060   E/NetManager.AcsAgent( 4845): [1364] logcat hide Print
+
+13.060   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEUserName, nRet = -6
+
+13.060   E/NetManager.AcsAgent( 4845): [1373] logcat hide Print
+
+13.060   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEPassword, nRet = -6
+
+13.060   E/NetManager.AcsAgent( 4845): [1382] logcat hide Print
+
+13.060   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, nRet = -1
+
+13.060   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.060   E/NetManager.AcsAgent( 4845): [1243] Get STUNEnable nRet = 0, value = 
+
+13.060   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, nRet = -1
+
+13.060   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.061   E/NetManager.AcsAgent( 4845): [1252] Get STUNServerPort nRet = 0, value = 
+
+13.061   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNUsername, strBuffer=, nRet = -1
+
+13.061   E/NetManager.AcsAgent( 4845): [98] logcat hide Print
+
+13.061   E/NetManager.AcsAgent( 4845): [1262] logcat hide Print
+
+13.061   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNPassword, strBuffer=, nRet = -1
+
+13.061   E/NetManager.AcsAgent( 4845): [93] logcat hide Print
+
+13.061   E/NetManager.AcsAgent( 4845): [1272] logcat hide Print
+
+13.061   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, nRet = -1
+
+13.061   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.061   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, nRet = -1
+
+13.061   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.061   E/NetManager.AcsAgent( 4845): [1335] GetAcsString STUNMiniKeepAlivePer  return value = 60
+
+13.061   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, nRet = -1
+
+13.062   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.062   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.062   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=ManagementDomainBackup, nRet = -6
+
+13.062   E/NetManager.AcsAgent( 4845): [920] STUNServerPort is 0, no need to send udp timely, so return, g_MngServer.mngmntSTUNEnable=, g_MngServer.mngmntSTUNServerPort=
+
+13.062   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.062   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.062   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.062   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.062   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.063   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.063   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.063   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.063   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.063   E/MCSP_SQM.SQM_ERROR( 4734): Sqm_GetMemRate [5741]:Find over
+
+13.063   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.063   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.063   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572aa0, pevt->handle:0xf1572aa0, cb:0xea0a8fc0, time:137
+
+13.068   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.068   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.068   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.102   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.114   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.114   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.114   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.114   I/TVMS_Client.TVMS( 4748):  [tvmstimer.cpp (L190)][Run]:[da62f920]TVMS cursystime:180780 , msg.ullSysTime:120760
+
+13.114   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L111)][ProcessMessage]:[da72e920]The msg type is [7].
+
+13.114   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.114   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.123   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.123   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.123   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.123   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.123   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.124   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.124   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea0a8fc0, time:147
+
+13.124   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.124   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.124   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.124   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.133   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.133   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572aa0, pevt->handle:0xf1572aa0, cb:0xea0a8fc0, time:157
+
+13.149   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.149   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.150   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.150   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.150   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.150   E/MCSP_SQM.SQM_ERROR( 4734): Sqm_GetMemRate [5741]:Find over
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea0a8fc0, time:167
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.150   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.152   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.152   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.152   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.152   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.152   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.152   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.152   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572aa0, pevt->handle:0xf1572aa0, cb:0xea0a8fc0, time:177
+
+13.152   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.189   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.189   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.189   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.190   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.190   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.190   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.190   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.190   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.191   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.191   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea0a8fc0, time:187
+
+13.191   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.191   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xe5df4580, pevt->handle:0xe5df4580, cb:0xea03c695, time:188
+
+13.191   E/NetManager.NetManager( 4845): [1403] logcat hide Print
+
+13.191   E/NetManager.NetManager( 4845): [2170] logcat hide Print
+
+13.192   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.192   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.192   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.192   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.192   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.192   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.192   E/NetManager.AcsAgent( 4845): [407] Fetch timer pevt:0xea211a40, pevt->handle:0xea211a40, cb:0xe63a574c, time:192
+
+13.192   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSUserName, nRet = -6
+
+13.193   E/NetManager.AcsAgent( 4845): [1355] logcat hide Print
+
+13.193   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSPassword, nRet = -6
+
+13.193   E/NetManager.AcsAgent( 4845): [1364] logcat hide Print
+
+13.193   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEUserName, nRet = -6
+
+13.193   E/NetManager.AcsAgent( 4845): [1373] logcat hide Print
+
+13.193   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEPassword, nRet = -6
+
+13.193   E/NetManager.AcsAgent( 4845): [1382] logcat hide Print
+
+13.193   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, nRet = -1
+
+13.193   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.193   E/NetManager.AcsAgent( 4845): [1243] Get STUNEnable nRet = 0, value = 
+
+13.193   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, nRet = -1
+
+13.193   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.193   E/NetManager.AcsAgent( 4845): [1252] Get STUNServerPort nRet = 0, value = 
+
+13.194   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNUsername, strBuffer=, nRet = -1
+
+13.194   E/NetManager.AcsAgent( 4845): [98] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [1262] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNPassword, strBuffer=, nRet = -1
+
+13.194   E/NetManager.AcsAgent( 4845): [93] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [1272] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, nRet = -1
+
+13.194   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.194   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, nRet = -1
+
+13.194   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.194   E/NetManager.AcsAgent( 4845): [1335] GetAcsString STUNMiniKeepAlivePer  return value = 60
+
+13.194   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, nRet = -1
+
+13.194   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+13.194   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.194   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.195   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+13.195   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+13.195   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=ManagementDomainBackup, nRet = -6
+
+13.195   E/NetManager.AcsAgent( 4845): [920] STUNServerPort is 0, no need to send udp timely, so return, g_MngServer.mngmntSTUNEnable=, g_MngServer.mngmntSTUNServerPort=
+
+13.231   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.231   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.232   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.232   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.232   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.232   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.232   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.232   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.232   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+13.232   E/MCSP_SQM.SQM_ERROR( 4734): Sqm_GetMemRate [5741]:Find over
+

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<McspComponents>
+<McspStatisticsNames/>
+<McspComponentStatic>
+<Component Name="*" CheckType="0" Level="D"/>
+</McspComponentStatic>
+<McspComponentAuto>
+<Component Name="*" CheckType="0" Level="E"/>
+<Component Name="MCSP_LogServer" CheckType="0" Level="D">
+<Tag Name="mcsplog_debug" Checked="0"/>
+<Tag Name="syslog_op" Checked="0"/>
+<Tag Name="syslog_run" Checked="0"/>
+<Tag Name="syslog_sec" Checked="0"/>
+<Tag Name="syslog_usr" Checked="0"/>
+</Component>
+<Component Name="mcspcfg" CheckType="0" Level="D">
+<Tag Name="mcspcfg" Checked="0"/>
+</Component>
+<Component Name="MCSP_ServiceMonitor" CheckType="0" Level="D">
+<Tag Name="SrvMonitor" Checked="0"/>
+<Tag Name="MsgQueue" Checked="0"/>
+<Tag Name="LogUpload" Checked="0"/>
+<Tag Name="FileTrans" Checked="0"/>
+</Component>
+<Component Name="MCSP_Dispatcher" CheckType="0" Level="D">
+<Tag Name="srv" Checked="0"/>
+</Component>
+<Component Name="MCSP_KeyManager" CheckType="0" Level="D">
+<Tag Name="KMG" Checked="0"/>
+<Tag Name="wirelesskey" Checked="0"/>
+<Tag Name="libiwirelesskey" Checked="0"/>
+<Tag Name="Hotkey_comp" Checked="0"/>
+</Component>
+<Component Name="NetManager" CheckType="0" Level="D">
+<Tag Name="NetManager" Checked="0"/>
+<Tag Name="HttpServer" Checked="0"/>
+</Component>
+<Component Name="MCSP_SQM" CheckType="0" Level="D">
+<Tag Name="SQM_INFO" Checked="0"/>
+<Tag Name="SQM_UP_INFO" Checked="0"/>
+<Tag Name="SQM_WARN" Checked="0"/>
+<Tag Name="SQM_ERROR" Checked="0"/>
+<Tag Name="SQM_UP_ERR" Checked="0"/>
+</Component>
+<Component Name="sqm" CheckType="0" Level="D">
+<Tag Name="zteprobe" Checked="0"/>
+</Component>
+<Component Name="MainCtrl" CheckType="0" Level="D">
+<Tag Name="MC" Checked="0"/>
+<Tag Name="Porting" Checked="0"/>
+</Component>
+<Component Name="DECODER" CheckType="0" Level="D">
+<Tag Name="DECODER_DEBUG" Checked="0"/>
+<Tag Name="DECODER_ERROR" Checked="0"/>
+<Tag Name="DECODER_INFO" Checked="0"/>
+</Component>
+<Component Name="MCSP_Weston" CheckType="0" Level="D">
+<Tag Name="weston" Checked="0"/>
+</Component>
+<Component Name="MCSP_VOD" CheckType="0" Level="D">
+<Tag Name="VOD_SUB_DEBUG" Checked="0"/>
+<Tag Name="VOD_SUB_ERROR" Checked="0"/>
+<Tag Name="VOD_ERROR_OUT" Checked="0"/>
+<Tag Name="VOD_RTSP_DEBUG" Checked="0"/>
+<Tag Name="VOD_RTP_DEBUG" Checked="0"/>
+<Tag Name="VOD_HTTP_DEBUG" Checked="0"/>
+<Tag Name="VOD_QOSU_DEBUG" Checked="0"/>
+<Tag Name="VOD_ASF_DEBUG" Checked="0"/>
+<Tag Name="VOD_MPEG_DEBUG" Checked="0"/>
+<Tag Name="VOD_MEMP_DEBUG" Checked="0"/>
+<Tag Name="VOD_TIMER_DEBUG" Checked="0"/>
+<Tag Name="VOD_IGMP_DEBUG" Checked="0"/>
+<Tag Name="VOD_DEBUG_OUT" Checked="0"/>
+<Tag Name="VOD_OSD_DEBUG" Checked="0"/>
+<Tag Name="VOD_MEDIACTRL_DEBUG" Checked="0"/>
+<Tag Name="VOD_LOCAL_DEBUG" Checked="0"/>
+<Tag Name="VOD_DRM_OUT" Checked="0"/>
+<Tag Name="VOD_LUNBO_OUT" Checked="0"/>
+<Tag Name="VOD_NETSTAT_OUT" Checked="0"/>
+<Tag Name="VOD_DATA_PROC" Checked="0"/>
+<Tag Name="VOD_SUMMARY_OUT" Checked="0"/>
+<Tag Name="VOD_DVT_OUT" Checked="0"/>
+<Tag Name="VOD_RETRAN_OUT" Checked="0"/>
+<Tag Name="VOD_RTCP_DEBUG" Checked="0"/>
+<Tag Name="VOD_FEC_DEBUG" Checked="0"/>
+<Tag Name="VOD_timeperf" Checked="0"/>
+<Tag Name="HSS_DEBUG" Checked="0"/>
+<Tag Name="HSS_ERROR" Checked="0"/>
+<Tag Name="PLAYREADY_DEBUG_OUT" Checked="0"/>
+<Tag Name="PLAYREADY_ERROR_OUT" Checked="0"/>
+<Tag Name="RTSP_DEBUG_OUT" Checked="0"/>
+<Tag Name="RTP_DEBUG_OUT" Checked="0"/>
+<Tag Name="HTTP_DEBUG_OUT" Checked="0"/>
+<Tag Name="QOSU_DEBUG_OUT" Checked="0"/>
+<Tag Name="ASF_DEBUG_OUT" Checked="0"/>
+<Tag Name="MPEG_DEBUG_OUT" Checked="0"/>
+<Tag Name="MEMP_DEBUG_OUT" Checked="0"/>
+<Tag Name="TIMER_DEBUG_OUT" Checked="0"/>
+<Tag Name="IGMP_DEBUG_OUT" Checked="0"/>
+<Tag Name="OSD_DEBUG_OUT" Checked="0"/>
+<Tag Name="MEDIA_DATA_OUT" Checked="0"/>
+<Tag Name="MDATA_DEBUG_OUT" Checked="0"/>
+<Tag Name="DECODER_DEBUG_OUT" Checked="0"/>
+<Tag Name="LOCAL_DEBUG_OUT" Checked="0"/>
+<Tag Name="RTCP_DEBUG_OUT" Checked="0"/>
+<Tag Name="FEC_DEBUG_OUT" Checked="0"/>
+<Tag Name="IUDP_DEBUG_OUT" Checked="0"/>
+<Tag Name="FCC_DEBUG_OUT" Checked="0"/>
+<Tag Name="FCC_DATA_OUT" Checked="0"/>
+<Tag Name="ZTESC_DEBUG_OUT" Checked="0"/>
+<Tag Name="APPLEHTTP_DEBUG_OUT" Checked="0"/>
+</Component>
+<Component Name="GuiFacade" CheckType="0" Level="D">
+<Tag Name="GUI" Checked="0"/>
+<Tag Name="MC" Checked="0"/>
+<Tag Name="KM" Checked="0"/>
+</Component>
+<Component Name="MCSP_JavaWatch" CheckType="0" Level="D">
+<Tag Name="JAVAWATCH" Checked="0"/>
+</Component>
+<Component Name="MCSP_DIAL_SERVER" CheckType="0" Level="D">
+<Tag Name="server" Checked="0"/>
+</Component>
+<Component Name="MCSP_OSD_LOG" CheckType="0" Level="D">
+<Tag Name="OSD_DEBUG_OUT" Checked="0"/>
+<Tag Name="OSD_ERROR_OUT" Checked="0"/>
+</Component>
+<Component Name="MCSP_DISKMG_LOG" CheckType="0" Level="D">
+<Tag Name="DISKMG_INFO" Checked="0"/>
+</Component>
+<Component Name="stbcfg" CheckType="0" Level="D">
+<Tag Name="StbCfgAgent" Checked="0"/>
+</Component>
+<Component Name="QCS_Client" CheckType="0" Level="D">
+<Tag Name="QCSSDK" Checked="0"/>
+<Tag Name="USERDEF" Checked="0"/>
+<Tag Name="DVB_Client" Checked="0"/>
+<Tag Name="DVR_Client" Checked="0"/>
+<Tag Name="TV_Client" Checked="0"/>
+<Tag Name="TV_FLW" Checked="0"/>
+<Tag Name="QCS_Common" Checked="0"/>
+<Tag Name="CFG_ClientQCS_Client" Checked="0"/>
+<Tag Name="QCS_FLW" Checked="0"/>
+</Component>
+<Component Name="MCSP_Browser" CheckType="0" Level="D">
+<Tag Name="webkit" Checked="0"/>
+</Component>
+<Component Name="LocalServer" CheckType="0" Level="D">
+<Tag Name="LMS_INFOR" Checked="0"/>
+<Tag Name="LMS_WARNN" Checked="0"/>
+<Tag Name="LMS_ERROR" Checked="0"/>
+<Tag Name="LMS_FATAL" Checked="0"/>
+</Component>
+<Component Name="TVMS_Client" CheckType="0" Level="D">
+<Tag Name="TVMS" Checked="0"/>
+<Tag Name="TVMS_FLW" Checked="0"/>
+<Tag Name="TVMS_Client.TVMS" Checked="0"/>
+</Component>
+<Component Name="MCSP_DLNAMANAGER" CheckType="0" Level="D">
+<Tag Name="EVT" Checked="0"/>
+</Component>
+<Component Name="TestProxy" CheckType="2" Level="D">
+<Tag Name="AutoTest_DebugOut" Checked="1"/>
+</Component>
+<Component Name="MSC_IPTV_Plugin" CheckType="0" Level="D">
+<Tag Name="DLNA" Checked="0"/>
+</Component>
+<Component Name="LocalPlayClient" CheckType="0" Level="D">
+<Tag Name="LocalPlayMana" Checked="0"/>
+</Component>
+<Component Name="MCSP_DLNADMP" CheckType="0" Level="D">
+<Tag Name="EVT" Checked="0"/>
+</Component>
+<Component Name="MCSP_DLNADMR" CheckType="0" Level="D">
+<Tag Name="EVT" Checked="0"/>
+</Component>
+<Component Name="MCSP_DLNAGEAPT" CheckType="0" Level="D">
+<Tag Name="DlnaGwApt" Checked="0"/>
+</Component>
+<Component Name="BaseComp" CheckType="0" Level="D">
+<Tag Name="eventmanager" Checked="0"/>
+<Tag Name="mcspcfg" Checked="0"/>
+<Tag Name="dispatcher" Checked="0"/>
+<Tag Name="logsvr" Checked="0"/>
+<Tag Name="mcsplog_debug" Checked="0"/>
+</Component>
+<Component Name="TV_Client" CheckType="0" Level="D">
+<Tag Name="TV_Client.TagTv" Checked="0"/>
+<Tag Name="TV_Client.tagtv_FLW" Checked="0"/>
+<Tag Name="TV_Client.timeperf_FLW" Checked="0"/>
+<Tag Name="TV_Client.TagCommon" Checked="0"/>
+<Tag Name="TV_Client.TAGQCS" Checked="0"/>
+</Component>
+<Component Name="STB_MC" CheckType="0" Level="D">
+<Tag Name="MC_CORE" Checked="0"/>
+</Component>
+<Component Name="MCSP_DLNA" CheckType="0" Level="D">
+<Tag Name="DMR" Checked="0"/>
+<Tag Name="DMS" Checked="0"/>
+<Tag Name="DMP" Checked="0"/>
+</Component>
+</McspComponentAuto>
+</McspComponents>

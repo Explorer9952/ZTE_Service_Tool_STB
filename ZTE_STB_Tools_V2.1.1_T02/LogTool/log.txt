@@ -1,0 +1,84 @@
+checkLicence
+
+curTime:202221820 
+lastTime and dayline:2022218128 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:202221821 
+lastTime and dayline:2021910841 22120
+checkLicence result = 0
+
+checkLicence
+
+curTime:2022218325 
+lastTime and dayline:202221820 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:2022218326 
+lastTime and dayline:202221821 22120
+checkLicence result = 0
+
+checkLicence
+
+curTime:20224115417 
+lastTime and dayline:20224115335 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:20224115417 
+lastTime and dayline:2022218326 22120
+checkLicence result = 0
+
+checkLicence
+
+curTime:202241466 
+lastTime and dayline:2022414522 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:202241466 
+lastTime and dayline:20224135825 22120
+checkLicence result = 0
+
+checkLicence
+
+curTime:20224141118 
+lastTime and dayline:2022414108 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:20224141119 
+lastTime and dayline:202241466 22120
+checkLicence result = 0
+
+checkLicence
+
+curTime:2035105652 
+lastTime and dayline:2035105442 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:2035105653 
+lastTime and dayline:2034171114 22225
+checkLicence result = 0
+
+checkLicence
+
+curTime:20312174956 
+lastTime and dayline:20312174933 24218
+checkLicence result = 0
+
+checkLicence
+
+curTime:20312174957 
+lastTime and dayline:2035105653 22225
+checkLicence result = 0
+

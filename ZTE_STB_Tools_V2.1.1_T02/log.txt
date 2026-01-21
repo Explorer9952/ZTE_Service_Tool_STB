@@ -1,0 +1,1038 @@
+getMachineCode
+
+getMachineCode result ==0
+
+getMachineCode
+
+getMachineCode result ==0
+
+getMachineCode
+
+getMachineCode result ==0
+
+registerLicence
+
+registerLicence rz =0
+checkLicence
+
+curTime:201031212142 
+lastTime and dayline:201031212138 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031212258 
+lastTime and dayline:201031212142 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031212338 
+lastTime and dayline:201031212258 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031212430 
+lastTime and dayline:201031212338 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20103121255 
+lastTime and dayline:201031212430 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031212523 
+lastTime and dayline:20103121255 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031212950 
+lastTime and dayline:201031212523 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031214956 
+lastTime and dayline:201031212950 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201031215011 
+lastTime and dayline:201031214956 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112172046 
+lastTime and dayline:20112165716 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011217210 
+lastTime and dayline:20112172046 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011219223 
+lastTime and dayline:2011218155 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112202352 
+lastTime and dayline:20112192244 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011220249 
+lastTime and dayline:20112202352 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112203814 
+lastTime and dayline:2011220249 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011220412 
+lastTime and dayline:20112203814 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112204111 
+lastTime and dayline:2011220412 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112204123 
+lastTime and dayline:20112204111 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011220420 
+lastTime and dayline:20112204123 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112204215 
+lastTime and dayline:2011220420 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20112204219 
+lastTime and dayline:20112204215 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201122155 
+lastTime and dayline:20112204219 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:2011221513 
+lastTime and dayline:201122155 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20113053 
+lastTime and dayline:2011221513 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:20113056 
+lastTime and dayline:20113053 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201130647 
+lastTime and dayline:20113056 21532
+checkLicence result = 0
+
+checkLicence
+
+curTime:201130650 
+lastTime and dayline:201130647 21532
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+checkLicence
+
+curTime:22619214232 
+lastTime and dayline:22616193650 23831
+checkLicence result = 0
+
+checkLicence
+
+curTime:22619214248 
+lastTime and dayline:22619214232 23831
+checkLicence result = 0
+
+checkLicence
+
+curTime:22620202832 
+lastTime and dayline:22619214248 23831
+checkLicence result = 0
+
+checkLicence
+
+curTime:22620202838 
+lastTime and dayline:22620202832 23831
+checkLicence result = 0
+
+checkLicence
+
+curTime:22623211038 
+lastTime and dayline:22620202838 23831
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+checkLicence
+
+curTime:22623211722 
+lastTime and dayline:22623211038 23831
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+checkLicence
+
+curTime:22623221034 
+lastTime and dayline:22623211722 23831
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+getMachineCode
+
+getMachineCode result ==0
+
+registerLicence
+
+registerLicence rz =0
+checkLicence
+
+curTime:226246438 
+lastTime and dayline:226246435 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:22624193749 
+lastTime and dayline:226246438 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:22626224246 
+lastTime and dayline:22624193749 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:22758554 
+lastTime and dayline:22626224246 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:22714203628 
+lastTime and dayline:22758554 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:22714204743 
+lastTime and dayline:22714203628 251117
+checkLicence result = 0
+
+checkLicence
+
+curTime:2512710334 
+lastTime and dayline:2512710269 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25127103819 
+lastTime and dayline:2512710334 12712
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+registerLicence
+
+registerLicence rz =0
+checkLicence
+
+curTime:251281926 
+lastTime and dayline:25127173738 12712
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+checkLicence
+
+curTime:2512819254 
+lastTime and dayline:251281926 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25128191838 
+lastTime and dayline:2512819254 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25128191847 
+lastTime and dayline:25128191838 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25128205941 
+lastTime and dayline:25128191847 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25128205951 
+lastTime and dayline:25128205941 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2512918415 
+lastTime and dayline:25128205951 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25129184110 
+lastTime and dayline:2512918415 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251210103729 
+lastTime and dayline:25129184110 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251210103740 
+lastTime and dayline:251210103729 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251210135653 
+lastTime and dayline:251210103740 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121013570 
+lastTime and dayline:251210135653 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251210185922 
+lastTime and dayline:25121013570 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121019211 
+lastTime and dayline:251210185922 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121174931 
+lastTime and dayline:25121019211 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121174935 
+lastTime and dayline:25121174931 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251211102659 
+lastTime and dayline:25121174935 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121110275 
+lastTime and dayline:251211102659 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121113488 
+lastTime and dayline:25121110275 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251211134813 
+lastTime and dayline:25121113488 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121117339 
+lastTime and dayline:251211134813 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2512111740 
+lastTime and dayline:25121117339 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251211181919 
+lastTime and dayline:2512111740 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251211181923 
+lastTime and dayline:251211181919 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121216527 
+lastTime and dayline:251211181923 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251212165236 
+lastTime and dayline:25121216527 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121219310 
+lastTime and dayline:25121217752 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121219315 
+lastTime and dayline:25121219310 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251212193954 
+lastTime and dayline:25121219315 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25121219401 
+lastTime and dayline:251212193954 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251213163041 
+lastTime and dayline:25121219401 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251213163048 
+lastTime and dayline:251213163041 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251214111039 
+lastTime and dayline:251213163048 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251214111046 
+lastTime and dayline:251214111039 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25122822178 
+lastTime and dayline:251226201126 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251228221714 
+lastTime and dayline:25122822178 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251229102230 
+lastTime and dayline:251228221714 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25122910248 
+lastTime and dayline:251229102230 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251229164517 
+lastTime and dayline:25122910248 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251229164529 
+lastTime and dayline:251229164517 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123095421 
+lastTime and dayline:251229164529 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2512309552 
+lastTime and dayline:25123095421 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123095611 
+lastTime and dayline:2512309552 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123095617 
+lastTime and dayline:25123095611 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123017590 
+lastTime and dayline:25123095617 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123017598 
+lastTime and dayline:25123017590 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251230181115 
+lastTime and dayline:25123017598 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251230181118 
+lastTime and dayline:251230181115 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251230214036 
+lastTime and dayline:251230181118 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251230214039 
+lastTime and dayline:251230214036 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123021428 
+lastTime and dayline:251230214039 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251230214226 
+lastTime and dayline:25123021428 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231124356 
+lastTime and dayline:251231124310 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:25123112440 
+lastTime and dayline:251231124356 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231162031 
+lastTime and dayline:25123112440 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231162035 
+lastTime and dayline:251231162031 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231214440 
+lastTime and dayline:251231162035 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231214444 
+lastTime and dayline:251231214440 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:251231224549 
+lastTime and dayline:251231214444 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611131710 
+lastTime and dayline:251231224549 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611131721 
+lastTime and dayline:2611131710 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611161723 
+lastTime and dayline:2611131721 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611161729 
+lastTime and dayline:2611161723 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611162112 
+lastTime and dayline:2611161729 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611162116 
+lastTime and dayline:2611162112 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261122404 
+lastTime and dayline:2611162116 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261122409 
+lastTime and dayline:261122404 12712
+checkLicence result = 0
+
+getMachineCode
+
+getMachineCode result ==0
+
+getMachineCode
+
+getMachineCode result ==0
+
+registerLicence
+
+registerLicence rz =0
+checkLicence
+
+curTime:261215100 
+lastTime and dayline:261215957 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2616174243 
+lastTime and dayline:261215100 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2616174252 
+lastTime and dayline:2616174243 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261918944 
+lastTime and dayline:2616174252 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261918950 
+lastTime and dayline:261918944 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2619181230 
+lastTime and dayline:261918950 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2619181237 
+lastTime and dayline:2619181230 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261920238 
+lastTime and dayline:2619181237 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2619202328 
+lastTime and dayline:261920238 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110104234 
+lastTime and dayline:2619202328 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110104239 
+lastTime and dayline:26110104234 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110121848 
+lastTime and dayline:26110104239 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110121854 
+lastTime and dayline:26110121848 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110191725 
+lastTime and dayline:26110121854 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26110191730 
+lastTime and dayline:26110191725 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26111153944 
+lastTime and dayline:26110191730 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26111153951 
+lastTime and dayline:26111153944 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26111191935 
+lastTime and dayline:26111153951 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26111191949 
+lastTime and dayline:26111191935 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26112215211 
+lastTime and dayline:26111191949 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26112215216 
+lastTime and dayline:26112215211 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611318727 
+lastTime and dayline:26112215216 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611318733 
+lastTime and dayline:2611318727 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26114142221 
+lastTime and dayline:2611318733 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26114142228 
+lastTime and dayline:26114142221 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26114174341 
+lastTime and dayline:26114142228 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26114174346 
+lastTime and dayline:26114174341 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611519715 
+lastTime and dayline:26114174346 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611519723 
+lastTime and dayline:2611519715 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26115204716 
+lastTime and dayline:2611519723 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26115204727 
+lastTime and dayline:26115204716 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611618231 
+lastTime and dayline:26115204727 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611618239 
+lastTime and dayline:2611618231 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117171243 
+lastTime and dayline:2611618239 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117171257 
+lastTime and dayline:26117171243 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117174813 
+lastTime and dayline:26117171257 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117174816 
+lastTime and dayline:26117174813 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117203132 
+lastTime and dayline:26117174816 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117203137 
+lastTime and dayline:26117203132 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611721594 
+lastTime and dayline:26117203137 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26117215914 
+lastTime and dayline:2611721594 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611722428 
+lastTime and dayline:26117215914 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2611722441 
+lastTime and dayline:2611722428 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26118122458 
+lastTime and dayline:2611722441 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26118122550 
+lastTime and dayline:26118122458 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26118122645 
+lastTime and dayline:26118122550 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26119203929 
+lastTime and dayline:26118122645 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26119203947 
+lastTime and dayline:26119203929 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26120171134 
+lastTime and dayline:26119203947 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26120171142 
+lastTime and dayline:26120171134 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:261201889 
+lastTime and dayline:26120171142 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:2612018814 
+lastTime and dayline:261201889 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26120205923 
+lastTime and dayline:26120195724 12712
+checkLicence result = 0
+
+checkLicence
+
+curTime:26120205927 
+lastTime and dayline:26120205923 12712
+checkLicence result = 0
+

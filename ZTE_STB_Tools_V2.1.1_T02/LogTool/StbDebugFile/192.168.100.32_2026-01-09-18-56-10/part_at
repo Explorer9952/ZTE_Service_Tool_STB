@@ -1,0 +1,500 @@
+
+16.343   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.343   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.362   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.362   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.362   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.362   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.362   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.362   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.362   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.362   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.444   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.444   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.444   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.444   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.444   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.446   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.446   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.446   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.446   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.446   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.446   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.544   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.545   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.545   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.550   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.550   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.550   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.550   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.550   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.550   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.550   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.550   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.622   I/MCSP_SQM.SQM_INFO( 4734): SQMStaticsTimerCallback [1850]:[Sqm_Timer]SQMStaticsTimerCallback
+
+16.622   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6372]:g_SqmLastTime = 263800 uiNowTime = 337960
+
+16.622   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6376]:uiTimeRemain = 74160 uiQFileInformTime= 300000 IsPostTime:0
+
+16.647   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.647   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.647   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.650   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.650   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.650   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.650   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.650   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.650   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.650   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.650   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.703   E/MCSP_Browser.webkit( 4877): #LoadListener# Error_Download: url:https://itvepg177.tv.zala.by/iptvepg/function/funcportalauth.jsp, Error id:190, description:open connection time out!!!
+
+16.748   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.748   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.748   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.753   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.753   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.753   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.753   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.753   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.753   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.753   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.753   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.784   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+16.849   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.850   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.850   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.850   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.850   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.850   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.850   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.850   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.850   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.850   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.850   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+16.949   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+16.949   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+16.950   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+16.955   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.964   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+16.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+16.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.965   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+16.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+16.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.050   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.050   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.052   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.057   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.057   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.057   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.057   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.057   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.057   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.057   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.057   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.152   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.152   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.152   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.154   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.155   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.155   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.155   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.160   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.160   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.160   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.160   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.254   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.254   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.254   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.257   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.257   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.257   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.257   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.257   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.257   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.257   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.257   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.305   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+17.355   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.355   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.356   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.358   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.358   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.363   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.363   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.363   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.363   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.363   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.363   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.456   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.456   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.456   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.459   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.462   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.462   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.462   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.462   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.462   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.462   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.464   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.557   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.557   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.557   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.563   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.563   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.563   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.563   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.563   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.563   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.563   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.563   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.624   I/MCSP_SQM.SQM_INFO( 4734): SQMStaticsTimerCallback [1850]:[Sqm_Timer]SQMStaticsTimerCallback
+
+17.624   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6372]:g_SqmLastTime = 263800 uiNowTime = 338960
+
+17.624   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6376]:uiTimeRemain = 75160 uiQFileInformTime= 300000 IsPostTime:0
+
+17.658   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.659   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.660   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.667   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.667   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.667   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.667   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.668   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.673   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.673   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.673   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.760   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.760   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.760   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.766   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.766   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.767   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.767   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.767   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.767   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.767   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.767   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.861   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.861   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.861   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.861   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.861   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.861   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.862   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.862   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.862   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.862   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.862   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+17.962   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+17.962   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+17.962   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+17.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.965   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+17.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+17.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.965   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+17.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+17.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+18.064   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+18.064   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+18.064   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+18.069   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.069   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+18.069   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.069   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+18.069   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.069   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+18.069   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.069   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+18.164   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+18.164   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+18.164   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+18.168   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.168   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+18.168   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.168   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+18.168   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.168   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+18.168   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.168   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+18.266   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+18.266   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+18.266   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+18.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.266   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+18.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.266   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+18.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.266   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+18.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.266   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+18.317   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+18.366   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+18.366   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+18.370   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+18.371   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.371   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+18.371   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.371   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+18.371   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.371   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+18.374   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.374   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+18.469   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+18.469   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+18.469   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+18.469   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.469   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+18.469   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.469   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+18.469   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+18.469   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+18.470   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!

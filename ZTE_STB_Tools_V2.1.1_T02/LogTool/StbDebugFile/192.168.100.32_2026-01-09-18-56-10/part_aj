@@ -1,0 +1,500 @@
+13.708   I/TV_Client.TagTv( 4819):  [4838][prehandle.cpp (L1215)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT,l_strRtnJson is [{"cmd":"ztebw_http_rrt","lpUrl":"https://itvepg177.tv.zala.by/iptvepg/function/index.jsp?UserGroupNMB=2000174&EPGGroupNMB=2000174&UserToken=QBfUrHgAtPcznIXfW@pg@Pj146030922&UserID=220101086720001&STBID=DD100299007042000000AC00D010E78A&easip=82.209.237.219&networkid=103","dRRT":0.100000,"totalTime":0.120000,"isMainResource":1}],url[https://itvepg177.tv.zala.by/iptvepg/function/index.jsp?UserGroupNMB=2000174&EPGGroupNMB=2000174&UserToken=QBfUrHgAtPcznIXfW@pg@Pj146030922&UserID=220101086720001&STBID=DD100299007042000000AC00D010E78A&easip=82.209.237.219&networkid=103]
+
+13.708   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+13.708   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+13.708   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+13.708   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+13.708   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+13.708   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'SelfServiceSTBInfo'} ][25185708][59]RL[10240]
+
+13.708   I/TV_Client.TagTv( 4819):  [5353][tvsetinfo.cpp (L2729)][GetEncryInStr]:start to get EntryIn string
+
+13.709   I/TV_Client.TagTv( 4819):  [5353][tvsetinfo.cpp (L2684)][ZteEncryptString]:get EntryIn string, the string is QBfUrHgAtPcznIXfW@pg@Pj146030922
+
+13.709   I/TV_Client.TagTv( 4819):  [5353][tvutil.cpp (L1357)][Changto16]:end Changto16 str = 6B7292D9C7FE347208BF65AC38C72156D1930DC0797B2D03EF13365F04CC46A2735D3BEB566619DC839D5FF7FA0B52EAA572665CC9FBC0201B40F606D4772D571FD2BCD5C1D407F96E18D62EF36D07691A5B4AE94040DCA7C72ADE0F76DEF959415718369B3527B7E67E26E48FCD9F3F0BA3CAE912CB0F656A33A8B7C6FD894B
+
+13.709   I/TV_Client.TagTv( 4819):  [5353][tvsetinfo.cpp (L2723)][ZteEncryptString]:we get the entried str = 6B7292D9C7FE347208BF65AC38C72156D1930DC0797B2D03EF13365F04CC46A2735D3BEB566619DC839D5FF7FA0B52EAA572665CC9FBC0201B40F606D4772D571FD2BCD5C1D407F96E18D62EF36D07691A5B4AE94040DCA7C72ADE0F76DEF959415718369B3527B7E67E26E48FCD9F3F0BA3CAE912CB0F656A33A8B7C6FD894B
+
+13.709   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L3975)][GetInfo]:<[296170]> TvSetInfo::GetInfo: strFiledName[SelfServiceSTBInfo],strFiledValue=[6B7292D9C7FE347208BF65AC38C72156D1930DC0797B2D03EF13365F04CC46A2735D3BEB566619DC839D5FF7FA0B52EAA572665CC9FBC0201B40F606D4772D571FD2BCD5C1D407F96E18D62EF36D07691A5B4AE94040DCA7C72ADE0F76DEF959415718369B3527B7E67E26E48FCD9F3F0BA3CAE912CB0F656A33A8B7C6FD894B]
+
+13.709   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'SelfServiceSTBInfo'} ][25185708][261]RCT[6B7292D9C7FE347208BF65AC38C72156D1930DC0797B2D03EF13365F04CC46A2735D3BEB566619DC839D5FF7FA0B52EAA572665CC9FBC0201B40F606D4772D571FD2BCD5C1D407F96E18D62EF36D07691A5B4AE94040DCA7C72ADE0F76DEF959415718369B3527B7E67E26E48FCD9F3F0BA3CAE912CB0F656A33A8B7C6FD894B]iReply[0]
+
+13.709   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+13.709   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'GetDrmkeyForConax'} ][25185708][58]RL[10240]
+
+13.709   I/TV_Client.TagTv( 4819):  [4849][tvsetinfo.cpp (L3610)][GetInfo]:GetDrmkeyForConax
+
+13.709   I/TV_Client.TagTv( 4819):  [4849][playermgr.cpp (L11031)][GetDrmIdFromVod]:GetDrmIdFromVod
+
+13.709   I/TV_Client.TagTv( 4819):  [4849][player.cpp (L7073)][GetDrmId]:Enter  
+
+13.709   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodServiceCallBack][993]:iMsgType=0x424000, datalen=1024,playerId = 0, command = 2031.
+
+13.709   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodSynServiceProc][1342]:[McspVodSynServiceProc] Got a command=2031, uiLen=0 ReplayLen = 1024.
+
+13.709   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.709   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.710   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.710   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.710   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.717   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.717   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.717   I/TVMS_Client.TVMS( 4748):  [tvmstimer.cpp (L190)][Run]:[da62f920]TVMS cursystime:300800 , msg.ullSysTime:240800
+
+13.717   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L111)][ProcessMessage]:[da72e920]The msg type is [7].
+
+13.717   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+13.717   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.717   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.718   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.718   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.718   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.718   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+13.718   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.718   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.719   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.719   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+13.719   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.719   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvbasepro.cpp (L2061)][OnTimerDoubleAuth]:TvBasePro::OnTimerDoubleAuth
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvbasepro.cpp (L2068)][OnDoubleAuthErr]:TvBasePro::OnDoubleAuthErr
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L4883)][StopAllLoginTimer]:TvLogin::StopAllLoginTimer
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L1875)][StopLoginResultTimer]:TvLogin::StopLoginResultTimer
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L373)][SetState]:TvLogin::SetState: tLoginState=7,oldLoginState=1
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L2076)][IsLogin]:TvLogin::IsLogin: 0
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.IptvLoginState][0]!!
+
+13.719   W/TV_Client.syslog_run( 4819):  [11704][tvlogin.cpp]:login stop
+
+13.719   E/TV_Client.tagtv_FLW( 4819):  [11704][tvloginmsgpro.cpp (L1901)][PostEvt]:<[305530]> TvLoginMsgPro::PostEvt: iType=4
+
+13.719   I/TV_Client.TagTv( 4819):  [11704][tvsetinfo.cpp (L5303)][GetEpgErroCode]:GetEpgErroCode:[].
+
+13.720   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L5885)][GetSubErrorCode]:mstrSubErrorCode 002
+
+13.720   I/TV_Client.TagTv( 4819):  [11704][tvloginmsgpro.cpp (L1854)][CreateLoginFail]:iErrorCodeEx=1302,strErrMsg=,strSubErrCode=002
+
+13.727   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+13.727   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.727   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+13.728   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea0a8fc0, time:267
+
+13.728   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+13.728   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+13.728   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+13.728   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+13.728   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+13.729   E/TV_Client.TagCommon( 4819):  [4849][mcspproxy.cpp (L1455)][InvokeServiceEx]:ServiceCallError MCSP_Media 0x424000 0x7ef iRet[-1]
+
+13.729   I/TV_Client.TagTv( 4819):  [4849][player.cpp (L7107)][GetDrmId]:Enter  
+
+13.729   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L3975)][GetInfo]:<[307010]> TvSetInfo::GetInfo: strFiledName[GetDrmkeyForConax],strFiledValue=[]
+
+13.729   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'GetDrmkeyForConax'} ][25185708][4]iReply[0]
+
+13.729   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L582)][AddLoginCount]:AddLoginCount m_iLoginCount[3]
+
+13.729   I/BaseComp.EventManager( 4654): No component subscribe event [0x1805fd5]!
+
+13.729   E/TV_Client.TagTv( 4819):  [11704][tvbaseconfigs.cpp (L471)][GetConfig]:nokey[Android][MonitorLogUp], RET[4]
+
+13.729   E/TV_Client.TagTv( 4819):  [11704][tvbaseconfigs.cpp (L4312)][GetMonitorLogUp]:TvBaseConfigs::MonitorLogUp Error
+
+13.729   I/TV_Client.TagTv( 4819):  [11704][tvbaseconfigs.cpp (L4314)][GetMonitorLogUp]:MonitorLogUp::strFieldValue is [0]
+
+13.729   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+13.729   I/TV_Client.TagTv( 4819):  [11704][tv2apk.cpp (L983)][postEvtJni]:End  msgType[7300], cmdType[7305], nRet=[0]
+
+13.729   I/TV_Client.TagTv( 4819):  [11704][tvbasepro.cpp (L2079)][OnDoubleAuthErr]:start show errpage!
+
+13.729   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+13.729   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L905)][OnEvent]:[4838]:--->>> dlnaplugin recv tvclient login fail!!!
+
+13.730   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[4838]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+13.730   E/NetManager.NetManager( 4845): [834] logcat hide Print
+
+13.730   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=ErrorCodeSwitch, nRet = -1
+
+13.730   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+13.730   D/MCSP_Browser.webkit( 4877): #Connection# get controlTimeout=15000ms
+
+13.730   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+13.730   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=ErrorCodeSwitch, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+13.730   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=ErrorCodeInterval, nRet = -1
+
+13.730   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+13.730   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=ErrorCodeInterval, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+13.730   E/NetManager.NetManager( 4845): [823] no need send Errorcode,iErrorCodeSwitch=0,iErrorCodeInterval=0
+
+13.730   I/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L4059)][DealLoginOsd]:TvLogin::DealLoginOsd: close osd now
+
+13.730   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188308
+
+13.730   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][80]RL[10240]
+
+13.730   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][4]iReply[-1]
+
+13.740   I/BaseComp.EventManager( 4654): process 4819 check service Disp_From_MCSP_Browser, found at index [57], handle = 0xe8a32e80
+
+13.740   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0597920]tvms receive event, begin to process
+
+13.740   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L893)][OnEvent]:[f0597920]--->>> tvms recv tvclient login fail!!!
+
+13.740   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0597920]MsgType=[25188304]!
+
+13.740   I/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [ztebw_getenv]: quest cmdJson :{"cmd":"ztebw_getenv","name":"GetEpgMode"}; return : 4
+
+13.880   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][80]RL[10240]
+
+13.883   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][4]iReply[-1]
+
+13.884   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+13.890   I/TV_Client.TagTv( 4819):  [11704][tvutil.cpp (L977)][ConvertEpgModeToIntValue]:End: strEpgMode=4, strOut=4, nEpgMode=4
+
+13.890   I/TV_Client.TagTv( 4819):  [11704][tvutil.cpp (L1056)][GetStrEpgMode]:End: nEpgMode=4, strEpgMode=720P
+
+13.892   I/TV_Client.TagTv( 4819):  [11704][tvbasepro.cpp (L1375)][GetConfigEpgModeStr]:strEpgMode=720P, nEpgMode=4
+
+13.901   E/TV_Client.TagTv( 4819):  [11704][tvlogin.cpp (L3941)][ShowErrPage]:TvLogin::ShowErrPage,iType[2],url[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1]
+
+13.901   I/TV_Client.TagTv( 4819):  [11704][tvmainpage.cpp (L425)][OpenMainPage]:#TV#==>OpenHomePage:cmd : ztebw_open_url;handle : [174936731];url : [file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html];!bCloseFloatWin[0], bclearScreen[0]
+
+13.901   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][80]RL[10240]
+
+13.903   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":13,"keyMode":0}][0][4]iReply[-1]
+
+13.910   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [browserOpenURL]: not get clearscreen and set clearscreen to default value: false; InBWSceneChange: false
+
+13.910   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [browserOpenURL]: not get recordHistoryIndex and set recordHistoryIndex to default value:false; InBWSceneChange: false
+
+13.914   D/MCSP_Browser.webkit( 4877): ## clearScreen:false
+
+13.924   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{MarketCode}; returnvalue{1201}; defaultvalue{fail}.
+
+13.926   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][79]RL[10240]
+
+13.931   I/TV_Client.TagTv( 4819):  [4849][tvkeymgr.cpp (L1519)][GetHotKeyInfo]:strReply[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+13.931   I/BaseComp.EventManager( 4654): No component subscribe event [0x1805fdd]!
+
+13.936   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{OperatorsCode}; returnvalue{1}; defaultvalue{fail}.
+
+13.936   D/MCSP_Browser.webkit( 4877): #Controller# [loadUrl]:send HANDLE_SEND_OPENURL Message mIsOpenUrls=false,mIsOnNewIntented=false,tab.GetHeartBit=0,isTopTab_=true
+
+13.936   I/TV_Client.TagTv( 4819):  [4849][tvkeymgr.cpp (L1566)][PostADEvent]:json[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+13.936   I/TV_Client.TagTv( 4819):  [4849][tvkeymgr.cpp (L577)][CloseDlnaLocalPage]:QueryPageHandler:l_acReq={'cmd':'query_browser_window','name':'dlnapluginpage'}
+
+13.942   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# QueryHandleByWinName: winName(dlnapluginpage), found handle(0), found tab(null).
+
+13.952   I/TV_Client.TagTv( 4819):  [4849][tvkeymgr.cpp (L597)][CloseDlnaLocalPage]:Query dlna local page handle=0
+
+13.952   I/TV_Client.TagTv( 4819):  [4849][tvkeymgr.cpp (L636)][CloseDlnaLocalPage]:Query dlna local page have not been created,handle=0
+
+13.954   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][48]RL[2048]
+
+13.962   I/TV_Client.TagTv( 4819):  [4849][playermgr.cpp (L1200)][PPStop_OnPreAsyncSrv]:Enter CMD_TV_PROTOCOL_PROCESSOR(STOP) OnPreAsyncSrv
+
+13.962   I/TV_Client.TagTv( 4819):  [4849][tvplugin.cpp (L1208)][OnService]:ServicePreTra immediately [999], return!!!
+
+13.972   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][21]RCT[{"returncode":0}]iReply[0]
+
+13.972   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][4]iReply[0]
+
+13.972   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+13.972   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+13.982   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+13.982   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+13.984   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+13.985   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+13.986   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+13.992   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+13.992   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+13.994   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+13.997   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.009   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.033   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][40]RL[10240]
+
+14.033   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][46]RCT[{"returncode":"0", "stbsystem":"Android"}]iReply[0]
+
+14.037   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+14.043   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][52]RL[10240]
+
+14.044   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L3975)][GetInfo]:<[307130]> TvSetInfo::GetInfo: strFiledName[IsAndroidTV],strFiledValue=[0]
+
+14.044   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][6]RCT[0]iReply[0]
+
+14.046   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"}][25185708][160]RL[10240]
+
+14.049   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5429)][IsEqualsLoginUrl]:return false
+
+14.054   E/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L3257)][CheckDataComeMsg]:local page[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html]! return -4
+
+14.054   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"}][25185708][4]iReply[0]
+
+14.064   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+14.069   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+14.074   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.074   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+14.074   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.076   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+14.084   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.084   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+14.086   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.086   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.089   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+14.095   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+14.104   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.104   E/BaseComp.dispatcher( 4654): [FindSectionFromCfgDispList](347) FindSectionFromCfgDispList error, none registered pKey is SetEpgMode, when sec is Common
+
+14.107   E/BaseComp.dispatcher( 4654): [DispatcherCfgWrite](630) DispatcherCfgWrite error, search can not find key = SetEpgMode, section = Common
+
+14.112   E/MCSP_Browser.libdispatcher( 4877): [CfgWrite](433) [DispLib] CfgWrite, MCSP_InvokeService error
+
+14.115   E/MCSP_Browser.webkit( 4877): Error_CfgWrite: section Common,name SetEpgMode, value 720P, retVal -1!
+
+14.124   D/MCSP_Browser.webkit( 4877): #WebView# [setScaleXY]: currentwinname: DefaultFirstTab;need to set: scaleX:1.5,scaleY:1.5;bModifyImmediatelyAndFlush: false
+
+14.124   D/MCSP_Browser.webkit( 4877): #WebView# setScaleXY scale don't change,so do nothting! scaleX:1.5 scaleY:1.5
+
+14.127   D/MCSP_Browser.webkit( 4877): #TabControl# Finish SetEPGMode: CurrentEpgMode:4(1:PAL;2:NTSC;4:720P;6:1080I;8:1080P)
+
+14.130   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+14.135   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[ea48f920]tvms receive event, begin to process
+
+14.137   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[ea48f920]MsgType=[12599298]!
+
+14.145   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+14.146   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ][25185708][57]RL[10240]
+
+14.148   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L3975)][GetInfo]:<[307190]> TvSetInfo::GetInfo: strFiledName[ErrpageReConFlag],strFiledValue=[0]
+
+14.151   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ][25185708][6]RCT[0]iReply[0]
+
+14.154   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+14.156   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][52]RL[10240]
+
+14.157   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L3975)][GetInfo]:<[307190]> TvSetInfo::GetInfo: strFiledName[IsAndroidTV],strFiledValue=[0]
+
+14.160   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][6]RCT[0]iReply[0]
+
+14.167   D/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L1873)][OnEvent]:Recive MC_COMP_EVT_SET_EGP_MODE Event!!
+
+14.171   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][40]RL[10240]
+
+14.174   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][46]RCT[{"returncode":"0", "stbsystem":"Android"}]iReply[0]
+
+14.174   I/TV_Client.TagTv( 4819):  [5074][tv2vodcmd.cpp (L131)][SendEpgMode]:>>>--- MCSP_Media: CMD_VOD_PLAY_CTRL(0x424000) VOD_EPGSIZE_SET(0x44) nEpgMode=4
+
+14.178   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodServiceCallBack][993]:iMsgType=0x424000, datalen=24,playerId = 255, command = 68.
+
+14.184   I/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L7543)][SetEpgModeAction_OnEvent]:strReply[{"EpgMode":4}]
+
+14.185   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+14.187   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+14.192   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+14.194   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==4
+
+14.232   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xd09e2be0,not registered func!!
+
+14.237   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'ReportErrCode','pszFieldValue':'1302'} ][25185708][85]RL[10240]
+
+14.237   E/TV_Client.TagTv( 4819):  [5353][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+14.238   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L410)][SetInfoPre]:<[307240]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=ReportErrCode
+
+14.243   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'ReportErrCode','pszFieldValue':'1302'} ][25185708][6]RCT[0]iReply[0]
+
+14.252   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+14.252   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L1480)][SetInfo]:<[307250]> TvSetInfo::SetInfo: strFiledName=ReportErrCode
+
+14.254   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L2111)][ReportErrCode]:ReportErrCode:strErrCode[1302]
+
+14.270   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html"}][25185708][169]RL[10240]
+
+14.279   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5429)][IsEqualsLoginUrl]:return false
+
+14.284   E/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L3257)][CheckDataComeMsg]:local page[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html]! return -4
+
+14.284   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html"}][25185708][4]iReply[0]
+
+14.295   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+14.300   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = false
+
+14.300   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = true
+
+14.304   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.304   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+14.305   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.309   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+14.310   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+14.310   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][79]RL[10240]
+
+14.310   I/TV_Client.TagTv( 4819):  [4838][tvkeymgr.cpp (L1519)][GetHotKeyInfo]:strReply[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+14.310   I/TV_Client.TagTv( 4819):  [4838][tvkeymgr.cpp (L1566)][PostADEvent]:json[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+14.310   I/TV_Client.TagTv( 4819):  [4838][tvkeymgr.cpp (L577)][CloseDlnaLocalPage]:QueryPageHandler:l_acReq={'cmd':'query_browser_window','name':'dlnapluginpage'}
+
+14.310   I/BaseComp.EventManager( 4654): No component subscribe event [0x1805fdd]!
+
+14.310   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# QueryHandleByWinName: winName(dlnapluginpage), found handle(0), found tab(null).
+
+14.315   I/TV_Client.TagTv( 4819):  [4838][tvkeymgr.cpp (L597)][CloseDlnaLocalPage]:Query dlna local page handle=0
+
+14.315   I/TV_Client.TagTv( 4819):  [4838][tvkeymgr.cpp (L636)][CloseDlnaLocalPage]:Query dlna local page have not been created,handle=0
+
+14.315   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][48]RL[2048]
+
+14.315   I/TV_Client.TagTv( 4819):  [4838][playermgr.cpp (L1200)][PPStop_OnPreAsyncSrv]:Enter CMD_TV_PROTOCOL_PROCESSOR(STOP) OnPreAsyncSrv
+
+14.315   I/TV_Client.TagTv( 4819):  [4838][tvplugin.cpp (L1208)][OnService]:ServicePreTra immediately [999], return!!!
+
+14.315   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][21]RCT[{"returncode":0}]iReply[0]
+
+14.315   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][4]iReply[0]
+
+14.315   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+14.317   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+14.317   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+14.325   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+14.330   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+14.334   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+14.334   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+14.334   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][79]RL[10240]
+
+14.334   I/TV_Client.TagTv( 4819):  [5353][tvkeymgr.cpp (L1519)][GetHotKeyInfo]:strReply[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+14.334   I/TV_Client.TagTv( 4819):  [5353][tvkeymgr.cpp (L1566)][PostADEvent]:json[{"handler":"174936731","interval":"0","keyval":"8","type":"back"}]
+
+14.334   I/BaseComp.EventManager( 4654): No component subscribe event [0x1805fdd]!
+
+14.334   I/TV_Client.TagTv( 4819):  [5353][tvkeymgr.cpp (L577)][CloseDlnaLocalPage]:QueryPageHandler:l_acReq={'cmd':'query_browser_window','name':'dlnapluginpage'}
+
+14.356   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# QueryHandleByWinName: winName(dlnapluginpage), found handle(0), found tab(null).
+
+14.356   I/TV_Client.TagTv( 4819):  [5353][tvkeymgr.cpp (L597)][CloseDlnaLocalPage]:Query dlna local page handle=0
+
+14.356   I/TV_Client.TagTv( 4819):  [5353][tvkeymgr.cpp (L636)][CloseDlnaLocalPage]:Query dlna local page have not been created,handle=0
+
+14.356   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][48]RL[2048]
+
+14.356   I/TV_Client.TagTv( 4819):  [5353][playermgr.cpp (L1200)][PPStop_OnPreAsyncSrv]:Enter CMD_TV_PROTOCOL_PROCESSOR(STOP) OnPreAsyncSrv
+
+14.356   I/TV_Client.TagTv( 4819):  [5353][tvplugin.cpp (L1208)][OnService]:ServicePreTra immediately [999], return!!!
+
+14.356   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'ztebw_protocol_processor_stop'}][25185708][21]RCT[{"returncode":0}]iReply[0]
+
+14.356   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][4]iReply[0]
+
+14.356   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+14.356   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+14.358   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.358   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+14.358   I/MCSP_Browser.webkit( 4877): #Tab# getEnableBack: Win{DefaultFirstTab}, m_iEnableBack{0}
+
+14.358   D/MCSP_Browser.webkit( 4877): #WebView# dispatchwirelose KeyEvent.ACTION_DOWN:0,event.getRepeatCount():0
+
+14.358   I/MCSP_Browser.webkit( 4877): #WebView# onKeyDown, keyCode=4, keyName=KEYCODE_BACK, scanCode=0, metaState=0, repeatCount=0
+
+14.358   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"ztebw_key_handler","handle":174936731,"keyValue":8,"keyMode":0}][0][79]RL[10240]
+

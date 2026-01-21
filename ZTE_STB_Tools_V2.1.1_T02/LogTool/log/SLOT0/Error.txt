@@ -1,0 +1,4 @@
+线程:9460l	19日 20时42分42秒	|[CTcp::TcpConnect] [212]| :  连接超时
+线程:9460l	19日 20时42分43秒	|[CTcp::TcpConnect] [212]| :  连接超时
+线程:9460l	19日 20时42分44秒	|[CTcp::TcpConnect] [212]| :  连接超时
+线程:9460l	19日 20时42分44秒	Connect STB failed

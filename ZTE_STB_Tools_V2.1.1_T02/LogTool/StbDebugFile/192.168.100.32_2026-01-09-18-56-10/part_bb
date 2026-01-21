@@ -1,0 +1,500 @@
+
+32.647   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.648   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+32.650   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.650   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+32.652   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.652   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+32.652   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.652   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+32.653   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+32.656   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+32.658   I/MCSP_Browser.webkit( 4877): #WebView# onKeyUp, keyCode=66, keyName=KEYCODE_ENTER, scanCode=0, metaState=2097152, repeatCount=0
+
+32.658   I/MCSP_Browser.webkit( 4877): JS alert: <localchannel>:login----empty.html 
+
+32.658   D/MCSP_Browser.webkit( 4877): DOMTimer: remove time id: 5.
+
+32.658   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"login","session":0};Len:35
+
+32.659   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"login","session":0}][0][35]RL[10240]
+
+32.660   E/TV_Client.TagTv( 4819):  [4838][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184209
+
+32.667   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"login","session":0}][0][35]RCT[{"returncode":"0","errmsg":""}]iReply[0]
+
+32.667   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"login","session":0};Len:35,Reply<{"returncode":"0","errmsg":""}, 31> imsgType:0x0
+
+32.671   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184209]
+
+32.671   E/TV_Client.TagTv( 4819):  [5074][tvutil.cpp (L389)][GetDataStrFromIhash]:TvUtil::GetDataFromInputHash: can't find platform in hash
+
+32.671   E/TV_Client.TagTv( 4819):  [5074][tvutil.cpp (L389)][GetDataStrFromIhash]:TvUtil::GetDataFromInputHash: can't find useParam in hash
+
+32.673   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L427)][ReadyForLogin]:<[353660]> #TV#==>TvLoginMsgPro::ReadyForLogin
+
+32.673   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3515)][ClearTVChannelini]:strChannelPath[]
+
+32.674   I/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3522)][ClearTVChannelini]:fail to open file[]
+
+32.679   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3538)][DelTVChanneliniDir]:strChannelPathPre[]
+
+32.690   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[IsStopLoginState], nRet=0, strRet=false
+
+32.690   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser)
+
+32.690   I/BaseComp.EventManager( 4654): process 4819 check service MCSP_Browser, found at index [56], handle = 0xf153bf40
+
+32.692   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser) finish!!!!
+
+32.692   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ShowFirstUpFlag]
+
+32.739   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-6
+
+32.742   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L471)][GetConfig]:nokey[Common][ShowFirstUpFlag], RET[4]
+
+32.744   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3034)][GetShowFirstUpFlag]:TvBaseConfigs::GetShowFirstUpFlag not exist
+
+32.745   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.747   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Android, Key:FirstSettingUI, Value:0
+
+32.750   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.752   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.752   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.754   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+32.754   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.754   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.757   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.759   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:GWType, Value:0
+
+32.759   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.759   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.760   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+32.760   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+32.761   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+32.763   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.763   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+32.763   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.763   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+32.763   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.765   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+32.769   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.769   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+32.773   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.773   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+32.773   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.775   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+32.804   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7001], key[], nRet=0, strRet=ETHERNET
+
+32.804   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L4937)][getNetMode]:<[353670]> getNetMode, property_get [net.zte.netmode] is[ETHERNET],len [8]
+
+32.804   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.804   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:GWType, Value:0
+
+32.807   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.812   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.825   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7003], key[], nRet=0, strRet=CONNECTED
+
+32.853   I/TV_Client.TagTv( 4819):  [5074][tvconfigitemadaptive.cpp (L530)][AuthPlatformOptionDataCheck]:not MorePlatformOperMarket, doing nothing!!!
+
+32.856   I/TV_Client.TagTv( 4819):  [5074][tvconfigitemadaptive.cpp (L562)][MD5DataCheck]:getMD5EncodeFlag[0]!!!
+
+32.862   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.863   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:GWType, Value:0
+
+32.865   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.865   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.868   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.868   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+32.868   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.868   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+32.869   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7001], key[], nRet=0, strRet=ETHERNET
+
+32.872   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L4937)][getNetMode]:<[353690]> getNetMode, property_get [net.zte.netmode] is[ETHERNET],len [8]
+
+32.873   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.873   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+32.873   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.873   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+32.875   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.875   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:GWType, Value:0
+
+32.875   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.875   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.892   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.893   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:VLanSupplier, Value:0
+
+32.894   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.897   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+32.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.899   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+32.900   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+32.900   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+32.929   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7010], key[], nRet=0, strRet=192.168.100.32
+
+32.932   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L200)][isIpEmpty]:return false!strSTBIp=192.168.100.32
+
+32.935   I/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2152)][PostEvtNetConnect]:strNetMode=0, m_strReq={"NetModeType":0}
+
+33.055   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L983)][postEvtJni]:End  msgType[7300], cmdType[7307], nRet=[0]
+
+33.072   I/STB_MC.STB_MC( 4861): 6003[COMP_NotifyCallBack]: notify 0x18057d0!
+01-09 30.459 I/STB_MC.STB_MC( 4861): 
+
+33.082   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.082   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.084   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.084   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.155   I/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2632)][queryUpdateService]:reply=, iResult = 0
+
+33.199   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.212   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.217   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.238   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.241   I/NetManager.NetManager( 4845): [1262] Tr069EventCallBack ,ptMsg->iMsgType = 0x18057d0 
+
+33.256   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[5353]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+33.259   E/TV_Client.tagtv_FLW( 4819):  [5074][tvlogin.cpp (L1702)][Login]:<[353710]> TvLogin::Login: iType=5
+
+33.263   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0597920]tvms receive event, begin to process
+
+33.263   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0597920]MsgType=[25188304]!
+
+33.263   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188321
+
+33.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.284   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:System, Key:AreaMatchFlag, Value:0
+
+33.286   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.290   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+33.292   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+33.293   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L156)][LoginInit]:TvLogin::LoginInit
+
+33.293   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L568)][ResetLoginNum]:TvLogin::ResetLoginNum
+
+33.294   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L373)][SetState]:TvLogin::SetState: tLoginState=1,oldLoginState=7
+
+33.294   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2076)][IsLogin]:TvLogin::IsLogin: 1
+
+33.297   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.IptvLoginState][2]!!
+
+33.297   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L587)][ResetStartTime]:TvLogin::ResetStartTime
+
+33.297   I/TV_Client.TagTv( 4819):  [5074][tvztehearbeat.cpp (L59)][stopHeartBeatTimer]:HeartBeatTimer stop 
+
+33.297   I/TV_Client.TagTv( 4819):  [5074][tvhwhearbeat.cpp (L111)][stopHeartBeatTimer]:dont supportHeartBeat ,return
+
+33.298   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.300   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+33.300   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.300   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+33.303   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[DoubleIPVer_MainLoginMode_Reset], nRet=0, strRet=false
+
+33.308   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[DoubleIPVer_MainLoginMode], nRet=0, strRet=false
+
+33.311   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5385)][SupportEdgeEpgMarket]:SupportEdgeEpgMarket:[0]
+
+33.311   W/TV_Client.TagTv( 4819):  [5074][tvfilemanager.cpp (L240)][getIniItem]:not find keyname[EPGDomainForLogin] in ini, user default[]
+
+33.311   W/TV_Client.TagTv( 4819):  [5074][tvfilemanager.cpp (L240)][getIniItem]:not find keyname[EPGDomainBackupForLogin] in ini, user default[]
+
+33.331   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.331   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:ConfigServer, Value:http://SlaveEas.tv.zala.by:8080/iptvepg/platform/index.jsp
+
+33.334   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.334   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=http://SlaveEas.tv.zala.by:8080/iptvepg/platform/index.jsp --MCSP_Pref_GetString OK
+
+33.334   W/TV_Client.TagTv( 4819):  [5074][tvfilemanager.cpp (L240)][getIniItem]:not find keyname[MainIPURL] in ini, user default[]
+
+33.336   W/TV_Client.TagTv( 4819):  [5074][tvfilemanager.cpp (L240)][getIniItem]:not find keyname[BkIPURL] in ini, user default[]
+
+33.344   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[CSLoginState], nRet=0, strRet=false
+
+33.347   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[DoubleIPVer_MainLoginMode], nRet=0, strRet=false
+
+33.347   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4603)][GetURLandSetTimeInterVal]:m_tLoginInterVal =64,count=2
+
+33.347   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[0]!
+
+33.347   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.IptvLoginState][0]!!
+
+33.348   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.UserGroupNMB][]!!
+
+33.349   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.EpgGroupNMB][]!!
+
+33.350   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.FrameLoadFinish][]!!
+
+33.352   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.epgerror][0]!!
+
+33.353   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.iptv.gd.userType][0]!!
+
+33.354   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.epgbaishitongv7][0]!!
+
+33.356   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.BigVedio3_EPG][0]!!
+
+33.357   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4938)][GetReLogin]:m_bIsRelogin[1]!
+
+33.359   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L1901)][PostEvt]:<[353730]> TvLoginMsgPro::PostEvt: iType=12
+
+33.378   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L983)][postEvtJni]:End  msgType[7300], cmdType[7302], nRet=[0]
+
+33.378   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L1901)][PostEvt]:<[353740]> TvLoginMsgPro::PostEvt: iType=3
+
+33.379   I/STB_MC.STB_MC( 4861): 6003[COMP_NotifyCallBack]: notify 0x18057d0!
+01-09 30.493 I/STB_MC.STB_MC( 4861): 
+
+33.380   I/NetManager.NetManager( 4845): [1262] Tr069EventCallBack ,ptMsg->iMsgType = 0x18057d0 
+
+33.381   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188316
+
+33.384   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0597920]tvms receive event, begin to process
+
+33.384   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0597920]MsgType=[25188304]!
+
+33.384   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[4849]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+33.385   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.385   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.386   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.392   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.393   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+33.411   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.412   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.415   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.415   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.418   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L983)][postEvtJni]:End  msgType[7300], cmdType[7301], nRet=[0]
+
+33.423   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4932)][SetReLogin]:bReLogin[1]!
+
+33.423   I/STB_MC.STB_MC( 4861): 6003[COMP_NotifyCallBack]: notify 0x18057d0!
+01-09 30.507 I/STB_MC.STB_MC( 4861): 
+
+33.426   I/NetManager.NetManager( 4845): [1262] Tr069EventCallBack ,ptMsg->iMsgType = 0x18057d0 
+
+33.438   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.453   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.456   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.458   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.458   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.458   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.458   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.461   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.461   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[4838]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+33.462   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188307
+
+33.464   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0498920]tvms receive event, begin to process
+
+33.464   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0498920]MsgType=[25188304]!
+
+33.464   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[DoubleIPVer_MainLoginMode], nRet=0, strRet=false
+
+33.464   I/TV_Client.TagTv( 4819):  [5074][tvmainpage.cpp (L1503)][SetConnecttimeout]:SetConnecttimeout:l_acReq={'cmd':'ztebw_set_connecttimeout','iMaxConnectTimeout':15000,'retryRequestLimit':1}
+
+33.467   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.469   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.469   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.469   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.469   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+33.470   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.470   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.471   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.473   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.473   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# TV set RetryRequestLimit:1
+
+33.473   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# TV set ConnectTimeOut:15000 ms,mRetryRequestLimit= 1
+
+33.474   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# ztebw_set_connecttimeout finish! connecttimeout= 15000,retryrequestlimit= 1
+
+33.476   D/MCSP_Browser.webkit( 4877): [OperationService]:mcspReportJsonCmd:{'cmd':'ztebw_set_connecttimeout','iMaxConnectTimeout':15000,'retryRequestLimit':1};len:512;Reply:<true, 2048>
+
+33.479   I/TV_Client.TagTv( 4819):  [5074][tvmainpage.cpp (L1537)][SetDownloadtimeout]:SetDownloadtimeout:l_acReq={'cmd':'ztebw_set_timeout','iMaxTimeout':15000}
+
+33.479   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# TV set TimeOut:15000 ms
+
+33.491   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# ztebw_set_timeout finish! timeout= 15000
+
+33.493   D/MCSP_Browser.webkit( 4877): [OperationService]:mcspReportJsonCmd:{'cmd':'ztebw_set_timeout','iMaxTimeout':15000};len:512;Reply:<true, 2048>
+
+33.493   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.493   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-6
+
+33.495   I/TV_Client.TagTv( 4819):  [5074][tvplugin.cpp (L2592)][GetIsLoginDone]:GetIsLoginDone[0]
+
+33.496   E/TV_Client.tagtv_FLW( 4819):  [5074][tvlogin.cpp (L2403)][MiniLogin]:<[353760]> TvLogin::MiniLogin: iType is 1
+
+33.499   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.499   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:HomePage, Value:http://tv.zala.by:8080/iptvepg/platform/index.jsp
+
+33.500   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.500   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=http://tv.zala.by:8080/iptvepg/platform/index.jsp --MCSP_Pref_GetString OK
+
+33.534   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L275)][MiniLoginInit]:TvLogin::MiniLoginInit
+
+33.539   I/TV_Client.TagTv( 4819):  [5074][tvsetinfo.cpp (L4088)][ResetCfgSetFlag]:TvSetInfo::ResetCfgSetFlag
+
+33.541   I/TV_Client.TagTv( 4819):  [5074][tvsetinfo.cpp (L3988)][ResetWriteInfo]:TvSetInfo::ResetWriteInfo
+
+33.541   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[areaid], nRet=0, strRet=
+
+33.543   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.mainedgeurlserver][]!!
+
+33.543   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.backupedgeurlserver][]!!
+
+33.550   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5410)][GetSwitchModeState]:GetLoginFlag:0
+
+33.554   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L3003)][ClearLocalLogoFlag]:Clear all local flag
+
+33.557   I/TV_Client.TagTv( 4819):  [5074][tvsetinfo.cpp (L4450)][ResetSetInfoHash]:TvSetInfo::ResetWriteChCountFlag
+
+33.557   I/TV_Client.TagTv( 4819):  [5074][tvsetinfo.cpp (L4456)][ResetCommonInfo]:TvSetInfo::ResetCommonInfo
+
+33.557   I/TV_Client.TagTv( 4819):  [5074][tvsetinfo.cpp (L4444)][ResetWriteChCountFlag]:TvSetInfo::ResetWriteChCountFlag
+
+33.557   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[0]!
+
+33.558   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.558   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:DoubleAuthFlag, Value:1
+
+33.560   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.560   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1 --MCSP_Pref_GetString OK
+
+33.561   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.563   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.563   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.565   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L2040)][StartDoubleAuthTimer]:TvBasePro::StartDoubleAuthTimer
+
+33.566   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L4449)][SetDataComeFlag]:SetDataComeFlag[0]!
+
+33.566   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2799)][GetUrl]:TvLogin::GetUrl: iType=1
+
+33.567   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.568   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:HomePage, Value:http://tv.zala.by:8080/iptvepg/platform/index.jsp
+
+33.569   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.569   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=http://tv.zala.by:8080/iptvepg/platform/index.jsp --MCSP_Pref_GetString OK
+
+33.570   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[DoubleIPVer_MainLoginMode], nRet=0, strRet=false
+
+33.570   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L3167)][ComposeLoginUrl]:iType=1,strUrl=http://tv.zala.by:8080/iptvepg/platform/index.jsp
+
+33.572   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+33.572   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+33.572   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+

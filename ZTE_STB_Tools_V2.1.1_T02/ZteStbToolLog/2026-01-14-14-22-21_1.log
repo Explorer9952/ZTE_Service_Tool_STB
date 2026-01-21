@@ -1,0 +1,10 @@
+2026-01-14 14:22:36.063  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2026-01-14 14:22:36.095  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2026-01-14 14:22:36.107  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2026-01-14 14:22:36.131  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2026-01-14 14:22:56.416  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2026-01-14 14:23:15.185  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2026-01-14 14:26:22.648  |[CConfigInfoPage::OnReadConfig] [1029]|: Read config success!
+2026-01-14 14:26:27.365  |[WriteConfigThreadProc] [1108]|: Start to write cfg Section: Common/|Common, name: ServiceUser/|ServicePwd, value: 100/|100
+2026-01-14 14:26:39.179  |[CConfigInfoPage::OnWriteConfig] [1157]|: write config success!
+2026-01-14 14:26:55.004  |[CConfigInfoEdit::OnReadConfig] [225]|: Read config success!

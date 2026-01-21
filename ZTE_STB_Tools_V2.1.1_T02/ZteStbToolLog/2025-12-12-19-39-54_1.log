@@ -1,0 +1,23 @@
+2025-12-12 19:40:11.001  |[ConnectStbProc] [323]|: Failed to Connect to Stb
+2025-12-12 19:40:20.816  |[CConnectPage::OnConnectToStb] [720]|: connect failed!
+2025-12-12 19:40:28.905  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2025-12-12 19:40:28.905  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2025-12-12 19:40:28.918  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2025-12-12 19:40:28.953  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2025-12-12 19:40:47.956  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2025-12-12 19:41:00.949  |[CConfigInfoPage::OnReadConfig] [1029]|: Read config success!
+2025-12-12 19:41:39.121  |[CConfigInfoEdit::OnReadConfig] [225]|: Read config success!
+2025-12-12 19:41:46.547  |[WriteConfigInfoThreadProc] [306]|: Failed to load stbconfig
+2025-12-12 19:41:47.990  |[WriteConfigInfoThreadProc] [315]|: Failed to read stbconfig
+2025-12-12 19:41:51.312  |[CConfigInfoEdit::OnWriteConfig] [361]|: write config failed!
+2025-12-12 19:41:55.711  |[CMediaCtrl::OnBnClickedButtonOpenMediatest] [287]|: failed to start AutoTest commamd!
+2025-12-12 19:42:01.224  |[CMediaCtrl::OnBnClickedButtonOpenMediatest] [320]|: failed to close AutoTest commamd!
+2025-12-12 19:42:12.329  |[CScreenShotPage::showpic] [793]|: Screen shot failed! Maybe STB does not support, Please check Control panel for detail !
+2025-12-12 19:42:15.786  |[CScreenShotPage::showpic] [793]|: Screen shot failed! Maybe STB does not support, Please check Control panel for detail !
+2025-12-12 19:42:21.961  |[OpenAdbThreadProc] [425]|: Failed to Send Open ADB_ZTE
+2025-12-12 19:42:22.886  |[CAdbPage::OnAdbCmdOpened] [567]|: Open ADB failed
+2025-12-12 19:42:38.353  |[CZTE_STB_ToolsDlg::IsNotifyStbToRelease] [1154]|: SSH opened, notify STB to close?
+2025-12-12 19:42:39.337  |[CConnectPage::OnBnClickedConnectButtonDisconnect] [460]|: Notice the stb before disconnecting!
+2025-12-12 19:42:39.662  |[CZTE_STB_ToolsDlg::OnDisConnectToStb] [1027]|: Disconnect!
+2025-12-12 19:42:39.691  |[CMedias::OnDisConnectToStb] [85]|: success to send unlink commamd to auto test module!
+2025-12-12 19:42:42.832  |[CZTE_STB_ToolsDlg::OnBnClickedBtnCls] [684]|: Do not notice the STB before closing the tool!

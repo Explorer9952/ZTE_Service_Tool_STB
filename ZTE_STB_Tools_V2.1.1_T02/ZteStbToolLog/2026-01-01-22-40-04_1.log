@@ -1,0 +1,18 @@
+2026-01-01 22:56:10.664  |[ConnectStbProc] [323]|: Failed to Connect to Stb
+2026-01-01 22:56:19.019  |[CConnectPage::OnConnectToStb] [720]|: connect failed!
+2026-01-01 22:56:26.287  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2026-01-01 22:56:26.287  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2026-01-01 22:56:26.303  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2026-01-01 22:56:26.335  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2026-01-01 22:56:44.828  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2026-01-01 22:58:09.546  |[CConfigInfoPage::OnReadConfig] [1029]|: Read config success!
+2026-01-01 22:58:52.252  |[CConfigInfoEdit::OnReadConfig] [225]|: Read config success!
+2026-01-01 23:00:29.745  |[CMediaCtrl::OnBnClickedButtonOpenMediatest] [287]|: failed to start AutoTest commamd!
+2026-01-01 23:00:37.358  |[CMediaCtrl::OnBnClickedButtonOpenMediatest] [320]|: failed to close AutoTest commamd!
+2026-01-01 23:00:43.296  |[CScreenShotPage::showpic] [793]|: Screen shot failed! Maybe STB does not support, Please check Control panel for detail !
+2026-01-01 23:04:41.840  |[CTerminate::OnCbnSelchangeTerminateComboConnectType] [768]|: Switch to telnet terminate
+2026-01-01 23:04:43.354  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2026-01-01 23:07:26.754  |[CZTE_STB_ToolsDlg::IsNotifyStbToRelease] [1154]|: SSH opened, notify STB to close?
+2026-01-01 23:07:28.204  |[CConnectPage::OnBnClickedConnectButtonDisconnect] [460]|: Notice the stb before disconnecting!
+2026-01-01 23:07:28.778  |[CZTE_STB_ToolsDlg::OnDisConnectToStb] [1027]|: Disconnect!
+2026-01-01 23:07:28.800  |[CMedias::OnDisConnectToStb] [85]|: success to send unlink commamd to auto test module!

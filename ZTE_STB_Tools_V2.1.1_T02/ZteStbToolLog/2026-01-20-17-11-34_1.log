@@ -1,0 +1,14 @@
+2026-01-20 17:11:51.304  |[ConnectStbProc] [323]|: Failed to Connect to Stb
+2026-01-20 17:12:10.292  |[CConnectPage::OnConnectToStb] [720]|: connect failed!
+2026-01-20 17:12:20.003  |[ConnectStbProc] [323]|: Failed to Connect to Stb
+2026-01-20 17:12:21.268  |[CConnectPage::OnConnectToStb] [720]|: connect failed!
+2026-01-20 17:13:03.923  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2026-01-20 17:13:03.924  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2026-01-20 17:13:03.935  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2026-01-20 17:13:03.965  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2026-01-20 17:32:14.422  |[CConfigInfoEdit::OnReadConfig] [225]|: Read config success!
+2026-01-20 17:32:16.229  |[WriteConfigInfoThreadProc] [306]|: Failed to load stbconfig
+2026-01-20 17:32:17.621  |[WriteConfigInfoThreadProc] [315]|: Failed to read stbconfig
+2026-01-20 17:32:20.467  |[CConfigInfoEdit::OnWriteConfig] [361]|: write config failed!
+2026-01-20 17:32:41.972  |[CScreenShotPage::showpic] [793]|: Screen shot failed! Maybe STB does not support, Please check Control panel for detail !
+2026-01-20 17:32:53.878  |[CZTE_STB_ToolsDlg::OnBnClickedBtnCls] [684]|: Do not notice the STB before closing the tool!

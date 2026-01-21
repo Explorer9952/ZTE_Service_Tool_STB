@@ -1,0 +1,114 @@
+常见命令指引：
+ping IP （如 ping 192.168.1.1） ——可以确认机顶盒与该IP之间网络是否联通
+traceroute IP  ( 如 traceroute 192.168.1.1) —— 查看机顶盒到IP所经过的跃点，可以定位网络在哪个节点有问题，还有每个节点响应速度。
+df —— 查看机顶盒各FLASH分区使用情况，重点关注 /cache，/data 目录空余空间
+ps  ——查看正在运行的进程，可以通过“ps |grep 关键字”来查看要查找的进程
+kill 进程号 —— 杀掉正在运行的进程，也可以通过 “killall -9 进程名”来停止
+top ——查看CPU等占用信息
+screencap 文件名.png （如screencap yingyong.png）—— 屏幕画面截图（非视频），其中文件名要是“.png”后缀。还有截图的文件保存目录要进入 “cd /data”等有写权限的目录
+tftp –pl 文件名 IP （如tftp -pl yingyong.png 172.18.86.123）—— 将机顶盒当前目录的yingyong.png文件上传到IP为172.18.86.123的电脑，文件保存在TFTP服务器目录。
+tftp –gr 文件名 IP （如tftp -gr yingyong.png 172.18.86.123）—— 将IP为172.18.86.123的电脑TFTP服务器目录的yingyong.png文件获取到机顶盒本地当前目录。
+am start -n com.zte.newlauncher.appslistapi/com.zte.newlauncher.appslistapi.AppsList; ——打开机顶盒的应用列表，这样可以在电视屏幕看到所安装的程序。
+chmod 777  文件名（如chmod 777 Settings.apk）—— 如果将某个文件替换到机顶盒时，需要赋予执行权限，这样才不会运行异常。如要在 /data目录安装某个APK，先赋予权限。
+pm install  APK文件名（如pm install  youku.apk） ——手动安装APK，一般要cp文件到/data目录操作。
+
+如果局方提供APK需要现网调试，而不需要出版本，可以按照下面方法处理。
+1、一般来说，局点都会禁用文件管理器去限制U盘安装APK功能，所以不好通过U盘来安装APK。但可以通过手动命令方式安装，并且调出来测试。运维工具的控制台/ADB工具，进入root下，以B860A的端口命令演示，将APK放到U盘根目录
+root@n200:/ # df —— 找出U的路径，因为不同型号路径可能不一样，aml芯片是如下（注意#号后面才是命令）
+/storage/external_storage/sda1     7.2G     1.9G     5.3G   32768
+root@n200:/ # cd /storage/external_storage/sda1 ——进入APK所在U盘目录
+root@n200:/storage/external_storage/sda1 # cp Tools.apk /data/  ——将要测试的APK（如Tools.apk ）拷贝到/data，这样才不容易安装失败。
+root@n200:/storage/external_storage/sda1 # cd /data/ ——进入apk目录data
+root@n200:/data # pm install Tools.apk ——通过pm install命令安装要测试的Tools.apk ，如下为成功。PS：有系统权限的APK需要找研发签名
+      pkg: Tools.apk
+Success  —— 如果失败的话，可以试着 chmod 777 Tools.apk  给足权限试一下。如果还失败，就要联系研发确认是否做了限制。
+root@n200:/data # am start -n com.zte.newlauncher.appslistapi/com.zte.newlauncher.appslistapi.AppsList; ——调出应用列表，然后找到你安装的APK图标打开就可以测试了。如果知道包名/类名，也可以手动调起，如 am start -n com.amlogic/com.amlogic.ToolsActivity
+
+2、如果机顶盒已经安装此APK，替换APK，可以按照下面的步骤操作。将附件的APK放到U盘，然后插入U盘，可以通过df看U盘路径
+mount -o remount,rw /system ——将system改为可写
+cd /system/app ——进入机顶盒预置的APK目录也有可能是/system/priv-app/，有疑问到时跟研发确定。
+mv auth_hncu.apk  auth_hncuapk_bk——将机顶盒原来的APK（如auth_hncu.apk ）改名去掉.后缀，这样就不是APK文件了，做备份
+cp U盘路径文件  /system/app —— 将U盘文件拷贝到机顶盒
+chmod 644 auth_hncu.apk ——改权限，然后重启
+中兴盒子备份至U盘命令如下
+adbd 打开ADB
+
+
+获取设备的ROOT权限
+adb remount
+中兴2.1系列版本备份及恢复命令
+cd /dev/block
+dd if=/dev/block/logo of=/storage/external_storage/sda1/logo.img
+dd if=/dev/block/recovery of=/storage/external_storage/sda1/recovery.img
+dd if=/dev/block/rsv of=/storage/external_storage/sda1/rsv.img
+dd if=/dev/block/tee of=/storage/external_storage/sda1/tee.img
+dd if=/dev/block/crypt of=/storage/external_storage/sda1/crypt.img
+dd if=/dev/block/misc of=/storage/external_storage/sda1/misc.img
+dd if=/dev/block/boot of=/storage/external_storage/sda1/boot.img
+dd if=/dev/block/system of=/storage/external_storage/sda1/system.img
+dd if=/dev/block/cache of=/storage/external_storage/sda1/cache.img
+dd if=/dev/block/data of=/storage/external_storage/sda1/data.img
+dd if=/dev/block/env of=/storage/external_storage/sda1/env.img
+dd if=/dev/block/reserved of=/storage/external_storage/sda1/reserved.img
+dd if=/dev/block/bootloader of=/storage/external_storage/sda1/bootloader.img
+dd if=/dev/dtb of=/storage/external_storage/sda1/dtb.img
+回写命令
+cd /dev/block
+dd if=/storage/external_storage/sda1/system修改.img of=/dev/block/system
+dd if=/storage/external_storage/sda1/logo.img of=/dev/block/logo
+dd if=/storage/external_storage/sda1/recovery.img of=/dev/block/recovery
+dd if=/storage/external_storage/sda1/rsv.img of=/dev/block/rsv
+dd if=/storage/external_storage/sda1/tee.img of=/dev/block/tee
+dd if=/storage/external_storage/sda1/crypt.img of=/dev/block/crypt
+dd if=/storage/external_storage/sda1/misc.img of=/dev/block/misc
+dd if=/storage/external_storage/sda1/boot.img of=/dev/block/boot
+dd if=/storage/external_storage/sda1/system修改.img of=/dev/block/system
+dd if=/storage/external_storage/sda1/data.img of=/dev/block/data
+dd if=/storage/external_storage/sda1/env.img of=/dev/block/env
+dd if=/storage/external_storage/sda1/reserved.img of=/dev/block/reserved
+dd if=/storage/external_storage/sda1/bootloader.img of=/dev/block/bootloader
+破解只需要回写system跟logo 分区
+中兴B860AV1.1备份及回写命令
+cd /dev/block/platform/mstar_mci.0/by-name
+备份：
+dd if=/dev/block/mmcblk0p1 of=/mnt/usb/sda1/MBOOT.img
+dd if=/dev/block/mmcblk0p2 of=/mnt/usb/sda1/MPOOL.img
+dd if=/dev/block/mmcblk0p3 of=/mnt/usb/sda1/misc.img
+dd if=/dev/block/mmcblk0p4 of=/mnt/usb/sda1/config.img
+dd if=/dev/block/mmcblk0p5 of=/mnt/usb/sda1/logo.img
+dd if=/dev/block/mmcblk0p6 of=/mnt/usb/sda1/recovery.img
+dd if=/dev/block/mmcblk0p7 of=/mnt/usb/sda1/boot.img
+dd if=/dev/block/mmcblk0p8 of=/mnt/usb/sda1/cache.img
+dd if=/dev/block/mmcblk0p9 of=/mnt/usb/sda1/tvconfig.img
+dd if=/dev/block/mmcblk0p10 of=/mnt/usb/sda1/tvservice.img
+dd if=/dev/block/mmcblk0p11 of=/mnt/usb/sda1/tvdatabase.img
+dd if=/dev/block/mmcblk0p12 of=/mnt/usb/sda1/tvcustomer.img
+dd if=/dev/block/mmcblk0p13 of=/mnt/usb/sda1/system.img
+dd if=/dev/block/mmcblk0p14 of=/mnt/usb/sda1/userdata.img
+回机顶盒
+dd if=/mnt/usb/sda1/MBOOT.img of=/dev/block/mmcblk0p1
+dd if=/mnt/usb/sda1/MPOOL.img of=/dev/block/mmcblk0p2
+dd if=/mnt/usb/sda1/misc.img of=/dev/block/mmcblk0p3
+dd if=/mnt/usb/sda1/config.img of=/dev/block/mmcblk0p4
+dd if=/mnt/usb/sda1/logo.img of=/dev/block/mmcblk0p5
+dd if=/mnt/usb/sda1/recovery.img of=/dev/block/mmcblk0p6
+dd if=/mnt/usb/sda1/boot.img of=/dev/block/mmcblk0p7
+dd if=/mnt/usb/sda1/cache.img of=/dev/block/mmcblk0p8
+dd if=/mnt/usb/sda1/tvconfig.img of=/dev/block/mmcblk0p9
+dd if=/mnt/usb/sda1/tvservice.img of=/dev/block/mmcblk0p10
+dd if=/mnt/usb/sda1/tvdatabase.img of=/dev/block/mmcblk0p11
+dd if=/mnt/usb/sda1/tvcustomer.img of=/dev/block/mmcblk0p12
+dd if=/mnt/usb/sda1/system.img of=/dev/block/mmcblk0p13
+dd if=/mnt/usb/sda1/userdata.img of=/dev/block/mmcblk0p14
+
+B860A 分区备份命令
+dd if=/dev/block/bootloader of=/storage/external_storage/sda1/bootloader.img
+dd if=/dev/block/reserved of=/storage/external_storage/sda1/reserved.img
+dd if=/dev/block/cache of=/storage/external_storage/sda1/cache.img
+dd if=/dev/block/env of=/storage/external_storage/sda1/env.img
+dd if=/dev/block/logo of=/storage/external_storage/sda1/logo.img
+dd if=/dev/block/recovery of=/storage/external_storage/sda1/recovery.img
+dd if=/dev/block/misc of=/storage/external_storage/sda1/misc.img
+dd if=/dev/block/boot of=/storage/external_storage/sda1/boot.img
+dd if=/dev/block/system of=/storage/external_storage/sda1/system.img
+dd if=/dev/block/data of=/storage/external_storage/sda1/data.img

@@ -1,0 +1,195 @@
+线程:1300l	31日 20时13分13秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1300l	31日 20时13分18秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4228l	31日 20时13分22秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2168l	31日 20时14分23秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2820l	31日 21时22分44秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:2168l	31日 21时22分44秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:352l	31日 21时22分58秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2184l	31日 21时23分34秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:352l	31日 21时23分34秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4624l	31日 21时23分38秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2020l	31日 21时23分48秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4624l	31日 21时23分48秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4592l	31日 21时24分30秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2580l	31日 21时24分35秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4592l	31日 21时24分35秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4068l	31日 21时25分05秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:3252l	31日 21时25分17秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4068l	31日 21时25分17秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4500l	31日 21时25分23秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4288l	31日 21时29分46秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4500l	31日 21时29分46秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4556l	31日 21时29分50秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2936l	31日 21时29分55秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4556l	31日 21时29分55秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:2208l	31日 21时49分56秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4920l	31日 21时50分08秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:2208l	31日 21时50分08秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4424l	31日 21时50分11秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4860l	31日 21时50分40秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4172l	02日 17时20分46秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4484l	02日 19时22分03秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4824l	02日 19时22分09秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4484l	02日 19时22分09秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:5076l	02日 20时23分52秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4408l	02日 20时38分14秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4708l	02日 20时38分20秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4408l	02日 20时38分20秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:3636l	02日 20时41分02秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1880l	02日 20时41分08秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:3636l	02日 20时41分08秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:1124l	02日 20时41分11秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4704l	02日 20时42分00秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4704l	02日 20时42分05秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:4628l	02日 20时42分15秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4524l	02日 21时05分05秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4232l	02日 21时05分10秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:4524l	02日 21时05分10秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:3520l	02日 21时05分13秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:636l	02日 21时05分20秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:3520l	02日 21时05分20秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:5680l	03日 00时05分03秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5380l	03日 00时06分47秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:268l	06日 22时10分46秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:268l	06日 22时10分53秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:60124l	19日 21时42分32秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:56676l	20日 20时28分32秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:108656l	23日 21时10分38秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:100908l	23日 21时11分36秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:127540l	23日 21时17分22秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:144320l	23日 21时18分51秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:127540l	23日 21时18分51秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:146964l	23日 22时10分34秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:89416l	23日 22时10分42秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:3852l	23日 22时39分12秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5260l	24日 06时03分42秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1888l	24日 06时04分49秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:5260l	24日 06时04分49秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:6108l	24日 19时37分50秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5540l	24日 19时37分57秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:6108l	24日 19时37分57秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:6976l	26日 22时42分46秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4692l	05日 08时55分04秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4688l	05日 08时56分31秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:2316l	14日 20时36分28秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1756l	14日 20时36分33秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:5548l	14日 20时47分43秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2964l	14日 20时47分54秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:5548l	14日 20时47分54秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:6360l	07日 10时33分04秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:14620l	07日 10时33分15秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:6360l	07日 10时33分15秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:17160l	07日 10时38分19秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11664l	07日 11时15分55秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:17160l	07日 11时15分55秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:13868l	08日 19时02分06秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2356l	08日 19时02分50秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:13868l	08日 19时02分50秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:11572l	08日 19时02分54秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:14512l	08日 19时03分41秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:11572l	08日 19时03分41秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:5080l	08日 19时18分38秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:16476l	08日 20时59分41秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:18256l	09日 18时41分05秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11288l	10日 10时37分29秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:31196l	10日 13时56分53秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2468l	10日 18时59分21秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:19300l	11日 07时49分31秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:13532l	11日 10时26分59秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:7500l	11日 13时48分08秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2076l	11日 17时03分39秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:12984l	11日 18时19分19秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:664l	12日 16时52分07秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4276l	12日 16时52分27秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:664l	12日 16时52分27秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:15032l	12日 16时52分36秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10468l	12日 16时53分22秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:15032l	12日 16时53分22秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:13560l	12日 19时31分00秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:18596l	12日 19时39分54秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10300l	13日 16时30分41秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:3196l	14日 11时10分39秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:9120l	28日 22时17分08秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:7444l	29日 10时22分30秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:9264l	29日 16时45分16秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10080l	30日 09时54分21秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:6160l	30日 09时56分11秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11940l	30日 17时59分00秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11864l	30日 18时11分15秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:9296l	30日 21时40分35秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4996l	30日 21时42分08秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:15100l	31日 12时43分56秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2876l	31日 16时20分31秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:6436l	31日 21时44分40秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:15944l	31日 22时45分49秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:6872l	31日 22时46分52秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:15944l	31日 22时46分52秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:15144l	01日 13时17分10秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10792l	01日 16时17分23秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:15184l	01日 16时21分12秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11712l	01日 22时40分04秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1428l	02日 15时07分30秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1428l	02日 15时08分01秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:1572l	02日 15时08分18秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5076l	02日 15时10分13秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:1572l	02日 15时10分13秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:11040l	06日 17时42分43秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1896l	09日 18时09分44秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10384l	09日 18时12分30秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:12264l	09日 20时23分08秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:3944l	10日 10时42分33秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1752l	10日 12时18分48秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5668l	10日 19时17分25秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10152l	11日 15时39分44秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1356l	11日 19时19分35秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2736l	12日 21时52分11秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:1808l	13日 18时07分27秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2340l	14日 14时22分21秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4488l	14日 17时43分41秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:11936l	15日 19时07分15秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:7008l	15日 20时47分16秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:9896l	16日 18时23分01秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2052l	17日 17时12分43秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:4540l	17日 17时48分13秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:8620l	17日 20时31分32秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:13612l	17日 21时59分04秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:2092l	17日 22时04分28秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:3680l	18日 12时24分58秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:5836l	18日 12时25分39秒	|[StbInterface_Ex::Stb_GSetStbInfo] [748]| :  CMD = cmdtype=Telnetd,cmdparams=Close 发送命令 STBCFG_CMD_GET_CTRL/STBCFG_CMD_SET_CTRL 失败
+
+线程:3680l	18日 12时25分39秒	|[CTcp::ListenReverseConnect] [912]|:  10042 accept sock_remote failed: 10004
+线程:10576l	18日 12时25分50秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:12972l	19日 20时39分29秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:9640l	20日 17时11分34秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:10360l	20日 18时08分09秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042
+线程:14908l	20日 20时59分23秒	|[CTcp::ListenReverseConnect] [891]|: begin listening 10042

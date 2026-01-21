@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidateRules>
+<section name="Common">
+	<key name="AutoStartIptv" type="enum_int"  range="{0,1}" />
+	<key name="Standbymode" type="num_int"  range="[0,1]" />
+	<key name="DRMSupplier"  type="num_int"  range="[0,255]" />
+	<key name="TVStandard"  type="enum_int"  range="{1,2,3,4,5,6,7,8,9,10,11}"/> 
+	<key name="NetType"     type="enum_int"  range="{0,1,3,4}"/>
+	<key name="Language"     type="num_int"  range="[0,35]"/>
+	<key name="Em10Mode"     type="enum_int"  range="{0,1}"/>
+	<key name="ConTimeout"     type="num_int" /> 
+	<key name="ProductID" type="string" maxlen="64" />
+	<key name="PppoeUser" type="string" maxlen="32" />
+	<key name="PppoePwd"  type="string" maxlen="32" />
+	<key name="DHCPPUser" type="string" maxlen="32" />
+	<key name="DHCPPPw"   type="string" maxlen="32" />	
+	<key name="IpAddr"    type="ipaddr_v4" />
+	<key name="NetMask"   type="ipaddr_v4" />
+	<key name="GateWay"   type="ipaddr_v4" />
+	<key name="DNS"       type="ipaddr_v4" />
+	<key name="MacAddr"   type="mac" />
+	<key name="Volume"	type="num_int"  range="[0,100]" />
+	<key name="StandbyIRCode"	type="string" maxlen="32" />
+	<key name="TimeZone"   type="num_int"  range="[0,78]" />
+	<key name="AcceptCookie"    type="num_int" />
+	<key name="TrsfForm"	   type="enum_int"  range="{0,1,2,3,4}"/>
+	<key name="RtrTime"     type="num_int"  range="[1,10]" />
+	<key name="ErrorRecoveryMode"     type="enum_int"  range="{0,1,2,3}" />
+	<key name="DetectNetFlag"     type="enum_int"  range="{0,1,2}" />
+	<key name="VersionServer"   type="string" maxlen="128" pattern="{(http:\/\/(.)*)|(igmp:\/\/(.)*)}"/>  
+	<key name="TimeServer"      type="string" maxlen="128" />
+	<key name="ProxyFTPPort"     type="enum_int"  range="{0,1,2}" />
+	<key name="ProxySecurePort"  type="enum_int"  range="{0,1}"/>
+	<key name="ProxyHttpIP"      type="ipaddr_v4" />
+	<key name="ProxyExcept"     type="string" maxlen="256" />
+	<key name="Version"         type="string" maxlen="32" />
+	<key name="UsingWLAN"   type="enum_int"  range="{0,1}"/>
+	<key name="EncryptionMethod" type="num_int"  range="[0,6]"/>
+	<key name="AccessPoint" type="string" maxlen="32" />
+	<key name="EncryptionKey" type="string" maxlen="32" />
+	<key name="ACSAddress"                type="string" maxlen="64" />
+	<key name="ACSUserName"               type="string" maxlen="32" />
+	<key name="ACSPassword"               type="string" maxlen="32" />
+	<key name="WLAN_EncryKeyId"   type="num_int"  />
+	<key name="WLAN_AuthMode"     type="enum_int"  range="{0,1,2,3}"/>
+	<key name="WLAN_RFMode"       type="enum_int"  range="{1,2,3,5,6}"/>
+	<key name="Aspectratio"  type="enum_int" range="{0,1,2,3}" />
+	<key name="MD5EncodeFlag"             type="enum_int" range="{0,1,2}" />
+	<key name="EraseLastFrame"    type="enum_int" range="{0,1}" />
+	<key name="KeyControlTime"  type="num_int"  range="[0,1440]" />
+	<key name="JftCardCharge"      type="enum_int"  range="{0,1}"/>
+	<key name="TfGameHandle"       type="enum_int"  range="{0,1}"/>
+	<key name="NetLoopTest"        type="num_int" />
+	<key name="NoFEC"               type="enum_int" range="{0,1}" />
+	<key name="LSPriority"                        type="enum_int" range="{0,1}" />
+	<key name="IgmpVersion"                       type="enum_int" range="{2,3}" />
+	<key name="IPConflictSupplier"         type="enum_int"  range="{0,1}"  />
+	<key name="HaierSupplier"          type="enum_int"   range="{0,1}"   />
+	<key name="LSRecordTime"                      type="num_int" range="[30,120]" /> 
+	<key name="RFOutput"                  type="enum_int"  range="{0,1}"/> 
+	<key name="bPPPOnly"                  type="enum_int"  range="{0,1}" /> 
+	<key name="DuplexMode"      type="enum_int"  range="{0,1,2,3,4}" />
+	<key name="Ztemcndplus"      type="enum_int"  range="{0,1,2}"/>
+	<key name="Ztemcndpre"      type="string" maxlen="16" />
+	<key name="Ztemcndsuf"      type="string" maxlen="16" />
+	<key name="X_MSG_SwitchCfg" type="enum_int" range="{0,1}"/>
+	<key name="SegmentPlay"               type="enum_int" range="{0,1}" />
+	<key name="QosMon"                    type="enum_int" range="{0,1,2,3,4,5}" />
+	<key name="RecvTimeOutLen"    type="num_int" range="[3,240]" />
+	<key name="QOSFileFormat"             type="enum_int" range="{0,1,2,3,4,5,6,7}" />
+	<key name="ScreenTopOffset" type="num_int" />
+	<key name="ScreenLeftOffset" type="num_int" />
+	<key name="EpgWidth" type="num_int" />
+	<key name="EpgHeight" type="num_int" />
+	<key name="PvrSaveLen"       type="num_int"   range="[1,999]" />
+	<key name="Dhcp125Mode"     type="string" maxlen="32" />
+	<key name="VPHSupplier"  type="enum_int" range="{0,1,2}" />
+	<key name="TVMSSupplier" type="enum_int" range="{0,1,2,3}" />
+	<key name="VLanSupplier" type="enum_int" range="{0,1,2}" />
+	<key name="SwitchSupplier" type="enum_int" range="{0,1}"/>
+	<key name="MoCASupplier" type="enum_int"  range="{0,1}"/>
+	<key name="DlnaSupplier" type="enum_int" range="{0,1}" />
+	<key name="AcsSupplier"  type="enum_int" range="{0,1}"/>
+	<key name="ScanFreq"                  type="enum_int"  range="{0,1,2,3,4}"/>
+	<key name="DCPFlag"                   type="enum_int"  range="{0,1,2}"/>
+	<key name="ACPFlag"                   type="enum_int"  range="{0,1,2,3}"/>
+	<key name="AC3OutputMode"		type="enum_int"  range="{0,1,2,3,4,5,6,7,8,9,10,99}"/>
+	<key name="LocalplaySupplier"         type="enum_int"  range="{0,1}"/>
+	<key name="Option60_PT"   type="string" maxlen="32" />
+	<key name="FecPortPlus"               type="enum_int"  range="{0,127}"/>
+	<key name="ArqBurstMode"  type="enum_int"  range="{0,1,2}"/>
+	<key name="DisableHDMIAudio"   type="enum_int"  range="{0,1}"/>
+	<key name="LogoType"      type="enum_int"  range="{0,1,2}"/>
+	<key name="OperatorsCode"  type="num_int" />
+	<key name="MarketCode"     type="string"  maxlen="8"/>
+	<key name="EPGSizeType"    type="num_int"  range="[1,11]"/>
+	<key name="RecTimeBefore"    type="num_int" />
+	<key name="RecTimeAfter"    type="num_int" />
+	<key name="NoRecTimeOut"    type="num_int" />
+	<key name="RecSchShowTime"    type="num_int" />
+	<key name="DisableFlickerFilter"   type="enum_int"  range="{0,1}" />
+	<key name="MacAddr2"   type="mac" />
+	<key name="ManuFactureFlag" type="string" maxlen="16" />
+	<key name="FPTimeFormat" type="enum_int"  range="{0,1}"/>
+	<key name="CallerIdSwitch" type="enum_int" range="{0,1}"/>
+	<key name="EnableCloseCaption"   type="enum_int"  range="{0,1}"/>
+	<key name="LogoDisplayModel" type="num_int"  range="[0,9]" />
+	<key name="FccSwitch"   type="enum_int"  range="{0,1,2,3}" />
+	<key name="ucConfigState" type="enum_int"  range="{0,1,2,3}"/>
+	<key name="IPVersion" type="enum_int"  range="{0,1,2}"/>
+	<key name="IPVersionPriority" type="enum_int"  range="{4,6}"/>
+	<key name="SlowSync"   type="enum_int"  range="{0,1}"/>
+	<key name="SoftStretchFlag"   type="enum_int"  range="{0,1}"/>
+	<key name="MultoUni"   type="enum_int"  range="{0,1}"/>
+	<key name="DisableDHCPCheckMac"   type="enum_int"  range="{0,1}" />
+	<key name="AudioTrackFlag"   type="num_int"  range="[0,12]"/>
+	<key name="STUNServAddr" type="string" maxlen="32" />
+	<key name="UpdateDefChannelNo" type="num_int"  range="[0,1999]"/>
+	<key name="STUNServPort" type="num_int" />
+	<key name="StreamManagement"   type="enum_int"  range="{0,1}"/>
+	<key name="UpCheckInterval" type="num_int" range="[0,1000]"/>
+	<key name="TimeServer2" type="string" maxlen="128" />
+	<key name="HaierDownloadServer" type="string" maxlen="128" />
+	<key name="Tvmsdomain" type="string" maxlen="128" />
+	<key name="SettingPwd"  type="string"  maxlen="16" />
+	<key name="ACSToken"  type="num_int"  range="[0,100]"/>
+	<key name="IQASAddress"  type="string"  maxlen="64"  /> 
+	<key name="CPEUserName"  type="string"  maxlen="64"  />   
+	<key name="CPEPassword"  type="string"  maxlen="32"  />   
+	<key name="SqmEnable"  type="enum_int" range="{0,1}" />
+	<key name="ServiceProvider"  type="enum_int"  range="{0,1,2,3,4,5,6,7}" />
+	<key name="MTU"  type="num_int"   range="[500,1500]"  /> 
+	<key name="NetRate_Url"  type="string"  maxlen="64"  />
+	<key name="AutoOutputFlag"  type="enum_int"  range="{0,1}"  />    
+	<key name="URGUrl" type="string"   maxlen="256"/>
+	<key name="ZcState" type="enum_int" range="{0,1,2,3,4}" /> 
+	<key name="UsingEth" type="enum_int"  range="{0,1}" />
+	<key name="PromptBoxFlag" type="enum_int"  range="{0,1,2}" /> 	
+	<key name="ubootenv.var.cvbsmode" type="string" maxlen="32" />
+	<key name="STopOffsetNTSC" type="num_int" /> 
+	<key name="SLeftOffsetNTSC" type="num_int" /> 
+	<key name="WidthNTSC" type="num_int" /> 
+	<key name="HeightNTSC" type="num_int" /> 
+	<key name="STopOffsetPAL" type="num_int" /> 
+	<key name="SLeftOffsetPAL" type="num_int" /> 
+	<key name="WidthPAL" type="num_int" /> 
+	<key name="HeightPAL" type="num_int" /> 
+	<key name="STopOffset1080" type="num_int" /> 
+	<key name="SLeftOffset1080" type="num_int" /> 
+	<key name="Width1080" type="num_int" /> 
+	<key name="Height1080" type="num_int" />
+	<key name="OTTDRMSupplier"  type="enum_int"  range="{0,1,2,3,4,5}"  />
+	<key name="LinkTimeOut" type="num_int" />
+	<key name="Pppoeperfection"  type="enum_int"  range="{0,1}"  />
+	<key name="AdpBitrate"  type="enum_int"  range="{0,1,2,3}"  />	 
+	<key name="RouteTable" type="string" maxlen="256" /> 
+	<key name="HDMIAdaptiveMode" type="enum_int"  range="{0,1,2}" />
+	<key name="USBInstallCtrl" type="num_int" /> 
+	<key name="HDMIAdaptive" type="enum_int"  range="{0,1}" />
+	<key name="STopOffset4K" type="num_int" /> 
+    <key name="SLeftOffset4K" type="num_int" /> 
+    <key name="Width4K" type="num_int" /> 
+    <key name="Height4K" type="num_int" />
+    <key name="STopOffset4096" type="num_int" />
+    <key name="SLeftOffset4096" type="num_int" />
+    <key name="Width4096" type="num_int" />
+    <key name="Height4096" type="num_int" />
+	<key name="CountryCodes"   type="string" maxlen="2" />
+	<key name="ITVInfoServer" type="string" maxlen="128" />
+	<key name="UnicastBreakElapse" type="num_int"  />
+	<key name="SubtitleTrackFlag"  type="num_int" />
+	<key name="DetectAddIgmpFlag"  type="enum_int"  range="{0,1}"  />
+	<key name="LoginMode"   type="enum_int"  range="{0,1}"  />
+	<key name="CodeRateShowFlag"   type="enum_int"  range="{0,1}"  />
+	<key name="OttSupplier"  type="enum_int"  range="{0,1}"  /> 
+	<key name="StbPopPrompt"  type="enum_int"  range="{0,1}"  />	
+	<key name="FccAddIGMPTimeout"  type="num_int"  />
+	<key name="SignalSendTimes"  type="num_int"  />
+	<key name="FccReqRespTimeout"  type="num_int"  />
+	<key name="AlctelQosEnable"  type="enum_int"  range="{0,1}" />
+	<key name="JVMKeyType"  type="enum_int" range="{0,1}" />
+	<key name="GWType"  type="enum_int" range="{0,1,2}" />
+	<key name="VodTcpConTimeout"  type="num_int"  range="[2,8]"  /> 
+	<key name="ActiveJDBS"  type="num_int" />
+	<key name="AC3Control"  type="enum_int" range="{0,1}" />
+	<key name="ShowFirstUpFlag"  type="enum_int"  range="{0,1}"  />
+	<key name="WifiMacaddr" type="mac" />
+	<key name="WLAN_Mode"      type="string"  maxlen="32"  />
+	<key name="WLAN_Essid"     type="string"  maxlen="32" />
+	<key name="WLAN_Channel"  type="num_int" />
+	<key name="WLAN_RTS"      type="num_int" />
+	<key name="WLAN_Frag"     type="num_int" />
+	<key name="WLAN_EncryOnOff"  type="enum_int"  range="{0,1}"/>
+	<key name="WLAN_keyVector0"   type="string"  maxlen="32"  />
+	<key name="WLAN_keyVector1"   type="string"  maxlen="32" />
+	<key name="WLAN_keyVector2"   type="string"  maxlen="32" />
+	<key name="WLAN_keyVector3"   type="string"  maxlen="32" />
+	<key name="WLAN_APMac"        type="string"  maxlen="20" />
+	<key name="ProxyFlag"       type="num_int" />
+	<key name="SerialNo" type="string" maxlen="32" /> 
+	<key name="AutoNetaccess" type="enum_int" range="{0,1,2}"/>
+	<key name="ubootenv.var.480ioutputx" type="num_int" />
+	<key name="ubootenv.var.480ioutputy" type="num_int" />
+	<key name="ubootenv.var.480ioutputwidth" type="num_int" />
+	<key name="ubootenv.var.480ioutputheight" type="num_int" /> 
+	<key name="ubootenv.var.576ioutputx" type="num_int" />
+	<key name="ubootenv.var.576ioutputy" type="num_int" />
+	<key name="ubootenv.var.576ioutputwidth" type="num_int" />
+	<key name="ubootenv.var.576ioutputheight" type="num_int" />  
+	<key name="ubootenv.var.720poutputx" type="num_int" />
+	<key name="ubootenv.var.720poutputy" type="num_int" />
+	<key name="ubootenv.var.720poutputwidth" type="num_int" />
+	<key name="ubootenv.var.720poutputheight" type="num_int" /> 
+	<key name="ubootenv.var.1080ioutputx" type="num_int" />
+	<key name="ubootenv.var.1080ioutputy" type="num_int" />
+	<key name="ubootenv.var.1080ioutputwidth" type="num_int" />
+	<key name="ubootenv.var.1080ioutputheight" type="num_int" />  
+	<key name="ubootenv.var.1080poutputx" type="num_int" />
+	<key name="ubootenv.var.1080poutputy" type="num_int" />
+	<key name="ubootenv.var.1080poutputwidth" type="num_int" />
+	<key name="ubootenv.var.1080poutputheight" type="num_int" />
+	<key name="SubtitleEnable" type="num_int" /> 
+	<key name="SubtitleLang" type="string" maxlen="32" />
+	<key name="ARPSendInterval" type="num_int" range="[0,10000]"/>
+	<key name="EdgeEpg" type="string" maxlen="128" />
+    <key name="DeviceId" type="string" maxlen="16" />
+    <key name="DualIPSupplier"  type="enum_int" range="{0,1}" />
+	<key name="Option125Enable"  type="enum_int" range="{0,1}" />
+    <key name="BTMacAddr" type="string" maxlen="20" />
+    <key name="SurportFingerprinting"  type="enum_int"  range="{0,1}"  />
+    <key name="ServiceType"  type="enum_int"  range="{0,1,2}"  />
+    <key name="StartupLog"  type="enum_int"  range="{0,1,2,3,4,5,6,7,8,9,10}" />
+    <key name="DataReportUrl" type="string" maxlen="64" />
+    <key name="CXEICode" type="string" maxlen="32" />
+    <key name="RouteVer" type="string" maxlen="8" />
+    <key name="RouteConfigURL" type="string" maxlen="1024" />
+	<key name="WakeReboot"  type="enum_int"  range="{0,1}"  />
+	<key name="SHteleQos"     type="num_int" />
+    <key name="SN" type="string"  maxlen="64" />
+	<key name="RetryPlayFlag"  type="enum_int"  range="{0,1}"  />
+    <key name="DownloadSpeedLimit"  type="num_int"  range="[0,51200]" />
+    <key name="CDNSignKey" type="string"  maxlen="32" />
+</section>
+
+<section name="Common_ext">
+	<key name="ManagementDomainBackup"  type="string" maxlen="128" />
+	<key name="DmrSupplier"  type="enum_int" range="{0,1}" />
+	<key name="DmpSupplier"  type="enum_int" range="{0,1}" />
+	<key name="DmsSupplier"  type="enum_int" range="{0,1}" />
+	<key name="SubMarketCode"  type="string" maxlen="5" />
+	<key name="AgentInfo"  type="string" maxlen="16" />
+	<key name="DNSBakServer"  type="string" maxlen="20" />
+	<key name="ACSBakAddress"  type="string" maxlen="64" />
+	<key name="RenewCounts"  type="enum_int" range="{2,4}" />
+	<key name="AirplaySupplier"  type="enum_int" range="{0,1}" />
+	<key name="SetFirstUpFlag"  type="enum_int" range="{0,1}" />
+	<key name="IpLocalPortRange" type="string" maxlen="12" pattern="{[1-9][0-9]?[0-9]?[0-9]?[0-9]?-[1-9][0-9]?[0-9]?[0-9]?[0-9]?}"/>
+	<key name="LiveStartNO"     type="num_int"  range="[3,10]" />
+	<key name="HlsLiveMode"     type="enum_int"  range="{0,1,2,3}" />
+	<key name="ACSType"     type="enum_int"  range="{0,1,2,3,4,5}" />
+	<key name="ANRdelaytime" type="num_int" range="[5,20]"/>
+	<key name="SubCPEUserName"  type="string" maxlen="64" />
+	<key name="SubCPEPassword"  type="string" maxlen="64" />
+	<key name="SubACSUserName"  type="string" maxlen="64" />
+	<key name="SubACSPassword"  type="string" maxlen="64" />
+	<key name="DlnaNetInterface"  type="enum_int" range="{0,1}" />
+	<key name="HlsNoRateSwitch"  type="enum_int" range="{0,1}" />
+	<key name="SDTVMode"  type="enum_int" range="{1,2,3}" />
+	<key name="WaitModemFlag" type="enum_int" range="{0,1}"/>
+	<key name="NetCoexistMode" type="enum_int" range="{0,1,2,3}"/>
+	<key name="BrowserRefreshFlag"     type="enum_int"  range="{0,1}" />
+	<key name="HlsConMode" type="enum_int" range="{0,1}"/>
+	<key name="VbrBigmodeSwitch" type="enum_int" range="{0,1}"/>
+	<key name="HlsBufSwitch" type="enum_int" range="{0,1}"/>
+    <key name="NmgProvider" type="num_int" range="[0,3]"/>
+	<key name="MainITMSSuportTR111"  type="enum_int" range="{0,1}" />
+	<key name="QosMonVersionServer" type="string" maxlen="128"/>
+    <key name="HDMIAutoStandby"  type="num_int"/>
+    <key name="COMControlFlag"  type="enum_int" range="{0,1}" />
+    <key name="DefaultGwPriority"  type="enum_int" range="{0,1}" />
+    <key name="LogoPicSrvAddr" type="string" maxlen="128"/>
+    <key name="HDMI_CEC"  type="enum_int" range="{0,1}" />
+	<key name="LogoPicLoadReportAddr" type="string" maxlen="128"/>
+	<key name="TargetArea" type="string" maxlen="35"/>
+	<key name="DlnagwaptSupplier"  type="enum_int" range="{0,1}" />
+    <key name="MultiQosMon"  type="string" maxlen="32" />
+    <key name="VODADDomain"  type="string" maxlen="128" />
+    <key name="VODAD_PLAYURL"  type="string" maxlen="128" />
+    <key name="AdInterval"     type="num_int" />
+    <key name="APanelNetType"  type="enum_int" range="{0,1,3,4,10}" />
+    <key name="APanelPppoeUser"  type="string" maxlen="32" />
+    <key name="APanelPppoePwd"  type="string" maxlen="32" />
+    <key name="UpgradeFromNMOnly"  type="enum_int"  range="{0,1}"  />
+    <key name="IptvDhcpUser"  type="string" maxlen="32" />
+    <key name="IptvDhcpPwd"  type="string" maxlen="32" />
+    <key name="OttDhcpUser"  type="string" maxlen="32" />
+    <key name="OttDhcpPwd"  type="string" maxlen="32" />
+    <key name="STBToolConnect"     type="num_int" />
+    <key name="FirstSettingFlag" type="enum_int"  range="{0,1}" />
+    <key name="KeyType" type="num_int" range="[0,1]"/>
+    <key name="LoginEnterChannel"  type="string" maxlen="8" />
+    <key name="VSTBManagerSvr"  type="string" maxlen="128" />
+    <key name="AutoClearCtrl"      type="num_int" />  
+    <key name="RestartTime"      type="num_int" range="[0,720]"/>  
+    <key name="OptimizeFreeze"  type="enum_int"  range="{0,1}"  />
+    <key name="BlockChannel"  type="enum_int"  range="{0,1}"  />
+    <key name="BlockChannelList"  type="string" maxlen="1024" />   
+    <key name="ProbeOptimize"  type="string" maxlen="256" />
+    <key name="MultiPlayCtrl" type="enum_int"  range="{0,1}" />
+    <key name="Igmp2RtspTimeOut" type="num_int"  range="[1,60]" />
+    <key name="RedirCacheEnable" type="enum_int"  range="{0,1}" />
+    <key name="ApkWhiteList"  type="string" maxlen="1024" />
+    <key name="AppstoreWhiteList"  type="string" maxlen="1024" />
+</section>
+
+<section name="ott">
+	<key name="ottUser" type="string" maxlen="40"/>
+	<key name="ottPwd" type="string" maxlen="20"/>
+	<key name="ottHomePage" type="string" maxlen="128" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+	<key name="MobilePhoneNumber" type="string" maxlen="12"/>
+	<key name="ServicePassword" type="string" maxlen="8"/>
+	<key name="PlatformURL" type="string" maxlen="256"/>
+	<key name="PlatformURLBackup" type="string" maxlen="256"/>
+	<key name="HDCURL" type="string" maxlen="256"/>
+	<key name="AuthURL" type="string" maxlen="256"/>
+	<key name="EPGAddress" type="string" maxlen="512"/>
+	<key name="CDNAddress" type="string" maxlen="512"/>
+	<key name="BackupCDNAddress" type="string" maxlen="512"/>
+	<key name="TVID" type="string" maxlen="128"/>
+	<key name="PlatformName" type="string" maxlen="32"/>
+	<key name="RegistServer" type="string" maxlen="256"/>
+    <key name="ottHomePageBackup" type="string" maxlen="128" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+    <key name="CDNType" type="string" maxlen="32"/>
+    <key name="PlatformURLZTE" type="string" maxlen="256"/>
+    <key name="PlatformURLBackupZTE" type="string" maxlen="256"/>
+    <key name="CDNDispatchURL" type="string" maxlen="256"/>
+    <key name="CDNDispatchURLBackup" type="string" maxlen="256"/>
+    <key name="Launcher" type="string" maxlen="256" />
+</section>
+
+<section name="Android">
+	<key name="AppInstallCtrl" type="string" maxlen="12"/>
+	<key name="UpdateType" type="enum_int"  range="{0,1}" />  
+	<key name="FirstSettingUI" type="enum_int"  range="{0,1}" />
+	<key name="ScreenURL" type="string" maxlen="128"/>  
+	<key name="ScreenUpdateInterval" type="num_int" range="[30,99999]"/>
+	<key name="ShowApkStopDialog" type="enum_int"  range="{0,1}" />
+	<key name="FashionMode" type="enum_int"  range="{0,1}" />
+	<key name="CTSEnable" type="enum_int"  range="{0,1}" />
+	<key name="SysTimeZone" type="string" maxlen="64" />
+	<key name="ScreenMode" type="enum_int"  range="{1,2}" />
+	<key name="BootVideoCtrl" type="enum_int"  range="{0,1}" />
+	<key name="BootPicTime" type="num_int"  range="[0,60]" />
+	<key name="StartPicTime" type="num_int"  range="[0,999]" />
+	<key name="AuthenPicTime" type="num_int"  range="[0,60]" />
+    <key name="LauncherMode" type="enum_int"  range="{0,1,2}" />
+    <key name="WiFiSettingsHide" type="enum_int"  range="{0,1}" />
+    <key name="WiFiApSettingsHide" type="enum_int"  range="{0,1}" />    
+	<key name="ADapkMode" type="enum_int"  range="{0,1}" />
+    <key name="RouteTableServer" type="string" maxlen="128" />
+	<key name="SelinuxStatus"  type="enum_int" range="{0,1}" />
+	<key name="MonitorLogUp"  type="enum_int" range="{0,1,2,3}" />
+	<key name="MonitorLogURL" type="string" maxlen="128" />
+</section>
+
+<section name="Irddrm">
+	<key name="CA_EMMSVRPort"            type="num_int" />
+	<key name="CA_DProxySVRPort"         type="num_int" />
+	<key name="CA_SProxySVRPort"         type="num_int" />
+	<key name="CA_EMMSVRAddr"            type="string" maxlen="20" />
+	<key name="CA_DProxySVRAddr"         type="string" maxlen="20" />
+	<key name="CA_SProxySVRAddr"         type="string" maxlen="20" />
+	<key name="CA_PIN"                   type="string" maxlen="20" />
+</section>
+
+<section name="Vmdrm">
+	<key name="CA_Company"               type="string" maxlen="18" />
+	<key name="CA_VCISVRPort"            type="num_int" />
+	<key name="CA_VCISVRAddr"            type="string" maxlen="48" />
+	<key name="pVksAddrAndPort"          type="string" maxlen="128"/>
+	<key name="OTTCA_Company"               type="string" maxlen="20" />
+	<key name="OTTCA_VCISVRAddr"            type="string" maxlen="64" />
+	<key name="OTTCA_VCISVRPort"            type="num_int" />
+</section>
+
+<section name="Wvdrm">
+	<key name="CA_WV_AUTH_SVRAddr"       type="string" maxlen="48" />
+	<key name="CA_WV_AUTO_AUTH_SVRAddr"  type="string" maxlen="48" />
+	<key name="CA_WV_EMMG_SVRAddr"       type="string" maxlen="48" />
+</section>
+
+<section name="Icasdrm">
+	<key name="CAS_SVRAddr1"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr2"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr3"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr4"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr5"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr6"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr7"             type="string" maxlen="48" />
+	<key name="CAS_SVRAddr8"             type="string" maxlen="48" />
+	<key name="SVR_Num"                  type="num_int" />
+</section>
+
+<section name="SIP">
+	<key name="VPUserNo"             type="string" maxlen="64" />
+	<key name="VPPassWord"             type="string" maxlen="32" />
+	<key name="ProxySvrAddr"             type="string" maxlen="64" />
+	<key name="ProxySvrPort"             type="num_int" />
+	<key name="RegSvrAddr"             type="string" maxlen="64" />
+	<key name="RegSvrPort"             type="num_int" />
+	<key name="GroupSvrAddr"             type="string" maxlen="64" />
+	<key name="GroupSvrPort"             type="num_int" />
+	<key name="ResourceSvrDomain"                  type="string" maxlen="64" />
+	<key name="ResourceSvrAddr"             type="string" maxlen="64" />
+	<key name="ResourceSvrPort"             type="num_int" />
+</section>
+
+<section name="VideoPhone">
+	<key name="Brightness"             type="num_int"  range="[0,15]"/>
+	<key name="Whiteness"             type="num_int"  range="[0,15]"/>
+	<key name="Contrast"             type="num_int"  range="[0,15]"/>
+	<key name="Saturation"             type="num_int"  range="[0,15]"/>
+	<key name="SendVideo"             type="enum_int"  range="{0,1}"/>
+	<key name="AudioOut"             type="enum_int"  range="{0,1}"/>
+	<key name="CallPort"             type="num_int" />
+	<key name="CallRate"             type="num_int" />
+	<key name="LinkTest"                  type="enum_int"  range="{0,1}"/>
+	<key name="CallIp"             type="enum_int"  range="{0,1}"/>
+	<key name="Hint"             type="enum_int"  range="{0,1,2}"/>
+	<key name="VideoBitRate"             type="num_int" />
+</section>
+
+<section name="Acs">
+	<key name="QFileUploadType" type="enum_int" range="{1,2,3}"/> 
+	<key name="QFileInformTime" type="num_int" />
+	<key name="LogRecordInterval" type="num_int" /> 
+	<key name="LogServerUrl" type="string" maxlen="256" />
+	<key name="LogUploadInterval" type="num_int" /> 
+	<key name="QFileUploadURL" type="string" maxlen="256" />
+	<key name="LogServerUrlOne" type="string" maxlen="256" />
+	<key name="LogUploadIntervalOne" type="num_int" />
+	<key name="LogRecordIntervalOne" type="num_int" />
+	<key name="LogServerUrlTwo" type="string" maxlen="256" />
+	<key name="LogUploadIntervalTwo" type="num_int" />
+	<key name="LogRecordIntervalTwo" type="num_int" />
+	<key name="EnableOne" type="enum_int"  range="{0,1}"/>
+	<key name="EnableTwo" type="enum_int"  range="{0,1}"/>
+</section>
+	
+<section name="Vlan">
+	<key name="VLANID_Appup" type="num_int" /> 
+	<key name="VLANID_Dhcp" type="num_int" /> 
+	<key name="VLANID_Drm" type="num_int" />
+	<key name="VLANID_Multicast" type="num_int" />
+	<key name="VLANID_Other" type="num_int" /> 
+	<key name="VLANID_Tr069" type="num_int" /> 
+	<key name="VLANID_Unicast" type="num_int" />
+	<key name="VLANPBIT_Appup" type="num_int" />
+	<key name="VLANPBIT_Dhcp" type="num_int" /> 
+	<key name="VLANPBIT_Drm" type="num_int" />
+	<key name="VLANPBIT_Multicast" type="num_int" />
+	<key name="VLANPBIT_Other" type="num_int" /> 
+	<key name="VLANPBIT_Tr069" type="num_int" />
+	<key name="VLANPBIT_Unicast" type="num_int" />
+</section>
+
+<section name="IPV6">
+    <key name="IpAddrIPV6"     	type="ipaddr_v6" />
+    <key name="GateWayIPV6"     type="ipaddr_v6" />
+    <key name="DNSIPV6"     		type="ipaddr_v6" />
+    <key name="MLDVersion" 			type="enum_int"  range="{1,2}" />
+    <key name="PrefixLength" 		type="num_int"   range="[0,128]" />
+    <key name="Ipv6ACSAddress"  type="string" maxlen="128" />
+    <key name="NetTypeIPV6"         type="enum_int" range="{0,1,3,4,10}" />
+    <key name="DNSBakServerIPV6"    type="string"   maxlen="48" />
+    <key name="MOValue"         type="enum_int" range="{0,1,2,3,4}" />
+</section>
+
+<section name="Version">
+	<key name="CfgVersion" type="string" maxlen="16" />
+</section>
+
+<section name="QOS">
+	<key name="ErrorCodeStr" type="string" maxlen="307" />
+</section>
+
+<section name="Other">
+	<key name="AutoIp" type="num_int" />
+	<key name="DLNA_OTTRR_Svr"  type="string" maxlen="128" />
+</section>
+
+<section name="NetWork_wlan">
+  <key name="NetType"     type="enum_int"  range="{0,1,3,4}" />
+  <key name="ConTimeout"  type="num_int" />
+  <key name="RtrTime"     type="num_int"  range="[1,5]" />
+  <key name="IgmpVersion"			type="enum_int" range="{2,3}" /> 
+  <key name="DuplexMode"      type="enum_int"  range="{0,1,2,3,4}" />
+  <key name="IPConflictSupplier" type="enum_int"  range="{0,1}" />
+  <key name="DetectNetFlag"     type="enum_int"  range="{0,1,2}" />
+  <key name="PppoeUser"     type="string" maxlen="32" />
+  <key name="PppoePwd"      type="string" maxlen="32" />
+  <key name="DHCPPUser"     type="string" maxlen="32" />
+  <key name="DHCPPPw"       type="string" maxlen="32" />
+  <key name="ProxyExcept"     type="string" maxlen="256" />
+  <key name="Ztemcndplus"     type="enum_int"  range="{0,1,2}" /> 
+  <key name="Ztemcndpre"      type="string" maxlen="16" />
+  <key name="Ztemcndsuf"      type="string" maxlen="16" />
+  <key name="Dhcp125Mode"     type="string" maxlen="32" />
+  <key name="Option60_PT"     type="string" maxlen="32" />
+  <key name="IpAddr"     	type="ipaddr_v4" />
+  <key name="NetMask"     type="ipaddr_v4" />
+  <key name="GateWay"     type="ipaddr_v4" />
+  <key name="DNS"     		type="ipaddr_v4" />
+</section>
+
+<section name="Unicom">
+	<key name="PPPoeID2"  type="string" maxlen="64" />
+	<key name="PPPoePwd2"  type="string" maxlen="64" />
+	<key name="USERID2"  type="string" maxlen="36" />
+	<key name="USERPWD2"  type="string" maxlen="16" />
+	<key name="DNSServer2"  type="string" maxlen="256" />
+	<key name="BwURL2"  type="string" maxlen="256" />
+	<key name="BwTagURL"  type="string" maxlen="256" />
+	<key name="OperatorsInfo"  type="string" maxlen="32" />
+	<key name="Adminpwd"  type="string" maxlen="64" />
+	<key name="Usbpwd1"  type="string" maxlen="256" />
+	<key name="Usbpwd2"  type="string" maxlen="256" />
+	<key name="Provincecity"  type="string" maxlen="36" />
+</section>
+
+<section name="Pltm_option">
+	<key name="ZTENMG2ACSAddr"  type="string" maxlen="64" />
+	<key name="HWNMG2ACSAddr"  type="string" maxlen="64" />
+	<key name="ZTENMG3ACSAddr"  type="string" maxlen="64" />
+	<key name="HWNMG3ACSAddr"  type="string" maxlen="64" />
+	<key name="ZTENMG2ACSUserName"  type="string" maxlen="32" />
+	<key name="ZTENMG2ACSPassword"  type="string" maxlen="32" />
+	<key name="HWNMG2ACSUserName"  type="string" maxlen="32" />
+	<key name="HWNMG2ACSPassword"  type="string" maxlen="32" />
+	<key name="ZTENMG3ACSUserName"  type="string" maxlen="32" />
+	<key name="ZTENMG3ACSPassword"  type="string" maxlen="32" />
+	<key name="HWNMG3ACSUserName"  type="string" maxlen="32" />
+	<key name="HWNMG3ACSPassword"  type="string" maxlen="32" />	
+	<key name="ZTEVersionServer" type="string" maxlen="128" />
+	<key name="HWVersionServer" type="string" maxlen="128" />		
+    <key name="OTTVersionServer" type="string" maxlen="128" />
+	<key name="ZTETimeServer" type="string" maxlen="128" />
+	<key name="ZTETimeServer2" type="string" maxlen="128" />
+	<key name="OTTTimeServer" type="string" maxlen="128" />
+	<key name="OTTACSAddress" type="string" maxlen="64" />	
+    <key name="HWTimeServer" type="string" maxlen="128" />
+    <key name="HWTimeServer2" type="string" maxlen="128" />	
+    <key name="ZTENMG2CPEUserName" type="string" maxlen="64" />	
+    <key name="ZTENMG2CPEPassword" type="string" maxlen="32" /> 
+    <key name="HWNMG2CPEUserName" type="string" maxlen="64" />
+    <key name="HWNMG2CPEPassword" type="string" maxlen="32" /> 
+    <key name="HWNMG3CPEUserName" type="string" maxlen="64" /> 
+    <key name="HWNMG3CPEPassword" type="string" maxlen="32" />
+    <key name="FHEPGHomePage" type="string" maxlen="128" />  
+    <key name="FHNMGACSAddr" type="string" maxlen="64" /> 
+    <key name="FHNMGACSUserName" type="string" maxlen="32" /> 
+    <key name="FHNMGACSPassword" type="string" maxlen="32" /> 
+    <key name="FHNMGCPEUserName" type="string" maxlen="64" /> 
+    <key name="FHNMGCPEPassword" type="string" maxlen="32" /> 
+    <key name="FHVersionServer" type="string" maxlen="128" /> 
+    <key name="FHTimeServer" type="string" maxlen="128" /> 
+    <key name="HWNMG3PeriodicInformInterval"  type="num_int" /> 
+    <key name="FHNMGPeriodicInformInterval"  type="num_int" />  
+    <key name="HWNMG2PeriodicInformInterval"  type="num_int" />   
+    <key name="FHOTTHomePage" type="string" maxlen="128" /> 
+    <key name="HWNetRate_Url" type="string" maxlen="128" />  
+    <key name="ZTENetRate_Url" type="string" maxlen="128" />
+    <key name="OTTHomepageBackup" type="string" maxlen="128" />
+    <key name="OTTNetRate_Url" type="string" maxlen="128" />
+    <key name="OTTACSUserName" type="string" maxlen="64" />
+    <key name="OTTACSPassword" type="string" maxlen="32" />
+    <key name="OTTCPEUserName" type="string" maxlen="64" />
+    <key name="OTTCPEPassword" type="string" maxlen="32" />
+    <key name="ZTEWiFiSettingsHide" type="string" maxlen="4" />
+    <key name="OTTWiFiSettingsHide" type="string" maxlen="4" />
+    <key name="HWWiFiSettingsHide" type="string" maxlen="4" />
+</section>
+<section name="Conaxdrm_IMP">
+    <key name="CA_PVSAddr" type="string" maxlen="128" />
+    <key name="CA_DVSAddr"  type="string" maxlen="128" />
+    <key name="CA_GetoperatorvalueAddr" type="string" maxlen="128" />
+    <key name="GetoperatorvalueType"  type="enum_int"  range="{0,1}" />
+</section>
+
+<section name="qcs">
+    <key name="TelkomStandard"  type="enum_int"  range="{0,1}" />
+</section>
+
+
+
+
+<section name="Common">
+  <key name="HomePage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="ConfigServer" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)|(^$)}"/>
+  <key name="ServiceUser" type="string" maxlen="64"/>
+  <key name="ServicePwd" type="string" maxlen="64"/>
+  <key name="AudioTrackLocalProc" type="enum_int" range="{0,1}"/>
+  <key name="DiskQuota" type="num_int" range="[0,100]"/>
+  <key name="DiskAgingMode" type="enum_int" range="{0,1}"/>
+  <key name="DvrSTB" type="enum_int" range="{0,1}"/>
+  <key name="IPTVVersion"   type="enum_int" range="{0,1}"/>
+  <key name="ScreenProtection" type="num_int" range="[0,300]"/>
+  <key name="EnableScreenSaver" type="enum_int" range="{0,1}"/>
+  <key name="VendorID"      type="enum_int" range="{0,1,2,3,4,9,10}"/>
+  <key name="ErrpageReConFlag"  type="enum_int" range="{0,1}"/>
+  <key name="DoubleAuthFlag"  type="enum_int" range="{0,1}"/>
+ </section>
+ <section name="Common_ext">
+  <key name="HotelMode"   type="enum_int" range="{0,1}"/>
+ </section>
+ <section name="qcs">
+  <key name="clienttype"  type="enum_int" range="{0,1}"/>
+  <key name="showwebchannelno"  type="enum_int" range="{0,1}"/>
+  <key name="AbiPfEmgSwitch" type="enum_int"  range="{0,1}"/>
+  <key name="StartClientCFG" type="string" maxlen="15" pattern="{[0,1],[0,1],[0,1],[0,1],[0,1],[0,1],[0,1],[0,1]}"/>
+  <key name="IsSupportBaseServ"   type="enum_int"  range="{0,1}"/>
+  <key name="BaseServValidTime"   type="num_int"  range="[0,20]"/>
+  <key name="TvLoginOsdSwitch"   type="enum_int"  range="{0,1,2}"/>
+  <key name="MenuRespBound"   type="num_int"  range="[1,1000]"/>
+  <key name="StandByLogOut"   type="enum_int"  range="{0,1}"/>
+  <key name="LimitSourcePort"   type="enum_int"  range="{0,1}"/>
+  <key name="ChannelFileExpTime"   type="num_int"  range="[1,20]"/>
+  <key name="checkbandwidth"   type="enum_int"  range="{0,1}"/>
+  <key name="checkability"   type="enum_int"  range="{0,1}"/>
+  <key name="showchannelcaption"   type="enum_int"  range="{0,1}"/>
+  <key name="maxplayer"   type="num_int"  range="[1,20]"/>
+  <key name="SupportUTCRecord"   type="enum_int"  range="{0,1}"/>
+  <key name="DefaultPlatform"   type="enum_int"  range="{0,1}"/>
+  <key name="StartPlayInterval"   type="num_int"  range="[1,100]"/> 
+  <key name="SupportOttMulti"   type="enum_int"  range="{0,1}"/>
+  <key name="HomePageBackupEnable"   type="enum_int"  range="{0,1}"/>
+  <key name="CheckFacHomePageSwitch"   type="enum_int"  range="{0,1}"/>
+  <key name="AuthTimeOut"   type="num_int"  range="[1,20]"/>
+  <key name="AuthResCnt"   type="num_int"  range="[0,16]"/>
+  <key name="IPTVEPG5.0"   type="enum_int"  range="{0,1}"/>
+  <key name="JITPMediaType" type="string" maxlen="64"/>
+  <key name="FloatPIP"   type="num_int"  range="[0,99999]"/>
+  <key name="ChipID_Flag"   type="enum_int"  range="{0,1}"/>
+</section>
+<section name="DVB">
+  <key name="svrDVBHomePage" type="string" maxlen="1024"/>
+  <key name="BGBrightness" type="enum_int"  range="{1,2,3}"/>
+  <key name="VolumeControl" type="enum_int"  range="{1,2}"/>
+</section>
+<section name="Pltm_option">
+  <key name="ZTEEPG2HomePage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="HWEPG2HomePage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="ZTEEPG3HomePage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="HWEPG3HomePage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="ZTEEPG2ConfigServer" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="HWEPG2ConfigServer" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="ZTEEPG3ConfigServer" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="HWEPG3ConfigServer" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="HomePagePltmMarker" type="string" maxlen="256"/>
+  <key name="ThirdPartyIPTVHomepage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+  <key name="ThirdPartyOTTHomepage" type="string" maxlen="256" pattern="{(http(s)?:\/\/(.)*)|(file:\/\/(.)*)}"/>
+ </section>
+</ValidateRules>

@@ -1,0 +1,500 @@
+
+11.460   E/NetManager.NetManager( 4845): [1629] Get STUNEnable nRet = 0, value = 0
+
+11.460   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerAddress, nRet = -1
+
+11.464   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+11.464   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+11.464   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+11.464   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+11.464   E/TV_Client.in_FLW( 4819):  [5074][tvloginmsgpro.cpp (L815)][OnEvent]:--->[IN]  [4358146][0],In OnEvent
+
+11.465   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5385)][SupportEdgeEpgMarket]:SupportEdgeEpgMarket:[0]
+
+11.465   E/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2449)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT:not care this evt
+
+11.465   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xd09e22e8,not registered func!!
+
+11.465   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ][25185708][84]RL[10240]
+
+11.471   E/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+11.471   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L410)][SetInfoPre]:<[45280]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=EPGConnectState
+
+11.471   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ][25185708][6]RCT[0]iReply[0]
+
+11.471   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetAuthInfo','name':'@@000000020260109185121138254746'}][25185708][74]RL[10240]
+
+11.471   I/TV_Client.TagTv( 4819):  [4838][loginpro.cpp (L122)][LoginPro]:CMD_TV_LOGIN_GETAUTHINFO encrytoken=[@@000000020260109185121138254746] CLoginPro::LoginPro
+
+11.471   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+11.471   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L1480)][SetInfo]:<[45280]> TvSetInfo::SetInfo: strFiledName=EPGConnectState
+
+11.471   E/TV_Client.TagTv( 4819):  [4838][tvutil.cpp (L389)][GetDataStrFromIhash]:TvUtil::GetDataFromInputHash: can't find type in hash
+
+11.471   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L3384)][GetAuthInfo]:strEncryToken=@@000000020260109185121138254746
+
+11.471   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2106)][IsAbilityLogin]:TvLogin::IsAbilityLogin: 0
+
+11.471   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.471   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.471   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.474   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.474   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.481   I/TV_Client.TagTv( 4819):  [4838][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7001], key[], nRet=0, strRet=ETHERNET
+
+11.481   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L4937)][getNetMode]:<[45290]> getNetMode, property_get [net.zte.netmode] is[ETHERNET],len [8]
+
+11.481   I/TV_Client.TagTv( 4819):  [4838][tvbasepro.cpp (L1731)][isNetRefactor]:Net refactor version! retrun true
+
+11.484   I/TV_Client.TagTv( 4819):  [4838][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7005], key[], nRet=0, strRet=192.168.100.32
+
+11.484   I/TV_Client.TagTv( 4819):  [4838][tvbasepro.cpp (L243)][GetNetParam]:GetNetParam: succ, value is: strIp[192.168.100.32]
+
+11.484   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L3433)][GetAuthInfo]:strIpBw=192.168.100.32
+
+11.484   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.484   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerAddress, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.486   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, nRet = -1
+
+11.487   E/TV_Client.TagTv( 4819):  [4838][tvbaseconfigs.cpp (L471)][GetConfig]:nokey[qcs][ChipID_Flag], RET[4]
+
+11.490   E/TV_Client.TagTv( 4819):  [4838][tvbaseconfigs.cpp (L4299)][GetChipID_Flag]:TvBaseConfigs::GetChipID_Flag Error
+
+11.490   I/TV_Client.TagTv( 4819):  [4838][tvbaseconfigs.cpp (L4301)][GetChipID_Flag]:GetChipID_Flag::strFieldValue is [0]
+
+11.491   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L195)][GetAuthInfo]:EnDecrypt::GetAuthInfo
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L847)][GenerateRandInfo]:EnDecrypt:GenerateRandInfo ,MD5 Encrytoken=[DFE0DD2C95E2B043E2544B1D088683A3]!
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L925)][GenerateRandInfo]:EnDecrypt:GenerateRandInfo ,RandInfoOut=[46504423]!
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L457)][GenerateEPGAuthInfo]:GenerateEPGAuthInfo: success, l_szcRandStr:46504423 pcToken:@@000000020260109185121138254746 pcProductID:DD100299007042000000AC00D010E78A pcIpAddr:192.168.100.32 pcMacAddr:AC:00:D0:10:E7:8A pcCustomer:CTC
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L465)][Encrypt]:EnDecrypt::Encrypt
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L499)][Encrypt]:Encrypt: success !
+
+11.494   I/TV_Client.TAGQCS( 4819):  [4838][endecrypt.cpp (L360)][GetAuthInfo]:GetAuthInfo: success to GetAuthInfo, pcAuthenticator = B65FE1786BFE1ABB4AA64D66F8126F42A663CD8B3502F34150079D13189976D011707636A467636601A6BC743E3DE762ABD11B71D97DCEEC27D0F039B893E7333E7F95BF4309E613D7CDBB3211E2A19E4EA2900297AF04E0FFA2B7594EE888EF4233E3611C5FF86D07EB2EBA05999F9F02021D489EF1BBCC6F8FF1DEED8E2ABAAD30581EBE3EF669
+
+11.495   I/TV_Client.TagTv( 4819):  [4838][tvplugin.cpp (L1659)][ReturnValuePro]:CMD_TV_LOGIN_GETAUTHINFO strAuthInfo=[B65FE1786BFE1ABB4AA64D66F8126F42A663CD8B3502F34150079D13189976D011707636A467636601A6BC743E3DE762ABD11B71D97DCEEC27D0F039B893E7333E7F95BF4309E613D7CDBB3211E2A19E4EA2900297AF04E0FFA2B7594EE888EF4233E3611C5FF86D07EB2EBA05999F9F02021D489EF1BBCC6F8FF1DEED8E2ABAAD30581EBE3EF669] CTVPlugIn::ReturnValuePro
+
+11.495   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetAuthInfo','name':'@@000000020260109185121138254746'}][25185708][277]RCT[B65FE1786BFE1ABB4AA64D66F8126F42A663CD8B3502F34150079D13189976D011707636A467636601A6BC743E3DE762ABD11B71D97DCEEC27D0F039B893E7333E7F95BF4309E613D7CDBB3211E2A19E4EA2900297AF04E0FFA2B7594EE888EF4233E3611C5FF86D07EB2EBA05999F9F02021D489EF1BBCC6F8FF1DEED8E2ABAAD30581EBE3EF669]iReply[0]
+
+11.496   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): cts_enble=-1
+
+11.496   E/NetManager.NetManager( 4845): [1065] logcat hide Print
+
+11.496   E/NetManager.NetManager( 4845): [1003] lktestParameterKey
+
+11.496   E/NetManager.NetManager( 4845): [3960] logcat hide Print
+
+11.497   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.501   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.501   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.501   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.502   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.502   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 0%
+
+11.504   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.504   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.507   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.512   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.522   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.522   E/NetManager.AcsAgent( 4845): [2002] GetWaitAuthTimeout failed B, sleep 1S, updateState = 0, g_updateState = 0
+
+11.522   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.522   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.524   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.527   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): this product type  not support yet
+
+11.527   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248):  s_acProductID:DD100299007042000000AC00D010E78A
+01-09 18:51:24.929 E/MCSP_DLNAGEAPT.DlnaGwApt( 5248):  s_acStbIP:192.168.100.32
+01-09 18:51:24.929 E/MCSP_DLNAGEAPT.DlnaGwApt( 5248):  s_acUserAgent:
+
+11.532   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.532   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.534   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xe5df4fc0, pevt->handle:0xe5df4fc0, cb:0xea020bd5, time:10
+
+11.534   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+11.537   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.537   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.542   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.547   E/NetManager.AcsAgent( 4845): [2020] [CJ], get ACSAddress is http://MainAcs.tv.zala.by:9090/web/tr069 ,init g_ipv6 is 0 .
+
+11.547   E/NetManager.AcsAgent( 4845): [2021] [Begin to Reg], updateState = 0,g_updateState = 0
+
+11.552   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.552   E/NetManager.AcsAgent( 4845): [235] acsDownLoad = 0 
+
+11.552   E/NetManager.AcsAgent( 4845): [238] MCSP_Pref_GetInt error, cannot get name = ACSDownLoad 
+
+11.552   E/NetManager.AcsAgent( 4845): [265] getIniStringWrapper error, cannot get name = AcsUpdateTag 
+
+11.552   E/NetManager.AcsAgent( 4845): [269] getIniStringWrapper from [netmanagercfg.ini]AcsUpdateTag = 0 
+
+11.552   E/NetManager.AcsAgent( 4845): [184] MCSP_Pref_GetString error cannot get name = AcsAgentReboot 
+
+11.552   E/NetManager.AcsAgent( 4845): [2133] [Begin to AddMsg], tInfo.uiRegType == 1,g_updateState = 0
+
+11.553   I/TV_Client.TagCommon( 4819):  [4849][mcspproxy.cpp (L1135)][ServerEventCallBack]:care 8 len, MsgType[4284422] ParaLen=[8]!
+
+11.553   E/NetManager.AcsAgent( 4845): [1831] Send NetState to ZeroCfg
+
+11.554   I/TV_Client.TagTv( 4819):  [5074][tvnetmgr.cpp (L129)][OnEvent]:ptMsg->m_uiMsgType[4284422] ,ptMsg->m_iCmdType[2]
+
+11.557   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.557   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.557   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.562   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSUserName, nRet = -6
+
+11.562   E/NetManager.AcsAgent( 4845): [1355] logcat hide Print
+
+11.562   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSPassword, nRet = -6
+
+11.562   E/NetManager.AcsAgent( 4845): [1364] logcat hide Print
+
+11.563   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEUserName, nRet = -6
+
+11.563   E/NetManager.AcsAgent( 4845): [1373] logcat hide Print
+
+11.564   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEPassword, nRet = -6
+
+11.567   E/NetManager.AcsAgent( 4845): [1382] logcat hide Print
+
+11.567   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, nRet = -1
+
+11.567   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.568   E/NetManager.AcsAgent( 4845): [1243] Get STUNEnable nRet = 0, value = 
+
+11.568   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, nRet = -1
+
+11.568   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.568   E/NetManager.AcsAgent( 4845): [1252] Get STUNServerPort nRet = 0, value = 
+
+11.572   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNUsername, strBuffer=, nRet = -1
+
+11.572   E/NetManager.AcsAgent( 4845): [98] logcat hide Print
+
+11.572   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.573   E/NetManager.AcsAgent( 4845): [1262] logcat hide Print
+
+11.573   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNPassword, strBuffer=, nRet = -1
+
+11.573   E/NetManager.AcsAgent( 4845): [93] logcat hide Print
+
+11.573   E/NetManager.AcsAgent( 4845): [1272] logcat hide Print
+
+11.573   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, nRet = -1
+
+11.573   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.573   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, nRet = -1
+
+11.577   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.577   E/NetManager.AcsAgent( 4845): [1335] GetAcsString STUNMiniKeepAlivePer  return value = 60
+
+11.578   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, nRet = -1
+
+11.578   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.578   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.578   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.578   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.578   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.578   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.578   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.581   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=ManagementDomainBackup, nRet = -6
+
+11.588   E/NetManager.AcsAgent( 4845): [409] g_Is1BootRegistering = 1
+
+11.589   E/NetManager.AcsAgent( 4845): [416] MCSP_Pref_GetString error cannot get name = [Common_ext]NmgProvider 
+
+11.589   E/NetManager.AcsAgent( 4845): [420] RecvWanIfUpMsg:420  NmgProvider=0
+
+11.589   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSUserName, nRet = -6
+
+11.593   E/NetManager.AcsAgent( 4845): [1355] logcat hide Print
+
+11.593   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubACSPassword, nRet = -6
+
+11.593   E/NetManager.AcsAgent( 4845): [1364] logcat hide Print
+
+11.593   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEUserName, nRet = -6
+
+11.593   E/NetManager.AcsAgent( 4845): [1373] logcat hide Print
+
+11.593   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=SubCPEPassword, nRet = -6
+
+11.593   E/NetManager.AcsAgent( 4845): [1382] logcat hide Print
+
+11.593   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, nRet = -1
+
+11.593   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.598   E/NetManager.AcsAgent( 4845): [1243] Get STUNEnable nRet = 0, value = 
+
+11.598   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, nRet = -1
+
+11.598   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNServerPort, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.598   E/NetManager.AcsAgent( 4845): [1252] Get STUNServerPort nRet = 0, value = 
+
+11.598   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNUsername, strBuffer=, nRet = -1
+
+11.598   E/NetManager.AcsAgent( 4845): [98] logcat hide Print
+
+11.598   E/NetManager.AcsAgent( 4845): [1262] logcat hide Print
+
+11.598   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNPassword, strBuffer=, nRet = -1
+
+11.599   E/NetManager.AcsAgent( 4845): [93] logcat hide Print
+
+11.603   E/NetManager.AcsAgent( 4845): [1272] logcat hide Print
+
+11.603   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, nRet = -1
+
+11.603   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMaxKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.603   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, nRet = -1
+
+11.603   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNMiniKeepAlivePer, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.603   E/NetManager.AcsAgent( 4845): [1335] GetAcsString STUNMiniKeepAlivePer  return value = 60
+
+11.603   E/NetManager.AcsAgent( 4845): [88] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, nRet = -1
+
+11.604   E/NetManager.AcsAgent( 4845): [103] GetAcsString: pSection=netmanagercfg, pstrName=SubWaitForBindHBRespon, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/SubXml/netmanagercfg.ini
+
+11.604   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.604   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.608   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.608   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.608   E/NetManager.AcsAgent( 4845): [1574] logcat hide Print
+
+11.608   E/NetManager.AcsAgent( 4845): [1570] logcat hide Print
+
+11.609   E/NetManager.AcsAgent( 4845): [113] GetAcsString: pSection=Common_ext, pstrName=ManagementDomainBackup, nRet = -6
+
+11.609   E/NetManager.AcsAgent( 4845): [920] STUNServerPort is 0, no need to send udp timely, so return, g_MngServer.mngmntSTUNEnable=, g_MngServer.mngmntSTUNServerPort=
+
+11.609   E/NetManager.AcsAgent( 4845): [497] g_Is1BootRegistering = 0
+
+11.613   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.614   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.618   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+11.619   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.619   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.619   E/NetManager.NetManager( 4845): [2356] HTTP_EXCEPTION  ret = 0
+
+11.619   E/NetManager.NetManager( 4845): [2647] http rev fin
+
+11.619   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.624   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=ParameterKey, nRet = -1
+
+11.624   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.628   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.629   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=ParameterKey, strBuffer=SetParameterValues4933101, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.629   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNUsername, nRet = -1
+
+11.629   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.629   E/NetManager.NetManager( 4845): [334] logcat hide Print
+
+11.629   E/NetManager.NetManager( 4845): [1662] logcat hide Print
+
+11.633   E/NetManager.NetManager( 4845): [2638] logcat hide Print
+
+11.633   I/BaseComp.IEventManager( 4845): BpEventManager: checkService (From_TV_Client)
+
+11.633   I/BaseComp.EventManager( 4654): process 4845 check service From_TV_Client, found at index [45], handle = 0xe77e9f80
+
+11.633   I/BaseComp.IEventManager( 4845): BpEventManager: checkService (From_TV_Client) finish!!!!
+
+11.633   I/TV_Client.TagTv( 4819):  [5353][tvnetmgr.cpp (L714)][handleManagementServer]:TvNetMgr::handleManagementServer
+
+11.633   I/TV_Client.TagTv( 4819):  [5353][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.633   I/TV_Client.TagTv( 4819):  [5353][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+11.635   E/NetManager.NetManager( 4845): [2717] logcat hide Print
+
+11.635   I/BaseComp.IEventManager( 4845): BpEventManager: checkService (From_MCSP_NaConfig)
+
+11.639   I/BaseComp.EventManager( 4654): process 4845 check service From_MCSP_NaConfig, found at index [24], handle = 0xea2263c0
+
+11.639   I/BaseComp.IEventManager( 4845): BpEventManager: checkService (From_MCSP_NaConfig) finish!!!!
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3182]:[get] out_data->tParam[i].strName =AddressingType
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3187]:[get] g_Mtkdevice =0
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3200]:[get] eth_type =1
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3234]:[get] eth_type =DHCP
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3236]:[get] report detailed ethernet nettype : DHCP
+
+11.640   E/NetManager.NaConfig( 4845): androidHandleObjLAN [3582]:get strName = AddressingType, strValue = DHCP, fault = 0
+
+11.644   E/NetManager.NetManager( 4845): [3960] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.644   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.645   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.645   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.649   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.650   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [4000] logcat hide Print
+
+11.654   E/NetManager.NetManager( 4845): [2356] HTTP_EXCEPTION  ret = 0
+
+11.655   E/NetManager.NetManager( 4845): [2492] logcat hide Print
+
+11.659   E/NetManager.NetManager( 4845): [776]  rpc_InformResponse,g_registerState=0
+
+11.659   E/NetManager.NetManager( 4845): [3960] logcat hide Print
+
+11.659   E/NetManager.NetManager( 4845): [3971] logcat hide Print
+
+11.659   E/NetManager.NetManager( 4845): [2356] HTTP_EXCEPTION  ret = 0
+
+11.659   E/NetManager.NetManager( 4845): [2647] http rev fin
+
+11.659   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.665   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.670   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.670   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.674   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.674   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.680   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.681   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.684   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.684   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+11.684   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 80%
+
+11.685   I/TV_Client.TagTv( 4819):  [5277][tvbasepro.cpp (L2061)][OnTimerDoubleAuth]:TvBasePro::OnTimerDoubleAuth
+
+11.689   I/TV_Client.TagTv( 4819):  [5277][tvbasepro.cpp (L2068)][OnDoubleAuthErr]:TvBasePro::OnDoubleAuthErr
+
+11.689   I/TV_Client.TagTv( 4819):  [5277][tvlogin.cpp (L4883)][StopAllLoginTimer]:TvLogin::StopAllLoginTimer
+
+11.689   I/TV_Client.TagTv( 4819):  [5277][tvlogin.cpp (L1875)][StopLoginResultTimer]:TvLogin::StopLoginResultTimer
+
+11.689   I/TV_Client.TagTv( 4819):  [5277][tvlogin.cpp (L373)][SetState]:TvLogin::SetState: tLoginState=7,oldLoginState=1
+
+11.690   I/TV_Client.TagTv( 4819):  [5277][tvlogin.cpp (L2076)][IsLogin]:TvLogin::IsLogin: 0
+
+11.692   I/TV_Client.TagTv( 4819):  [5277][tvbasepro.cpp (L1522)][setProPerty]:enter [sys.zte.IptvLoginState][0]!!
+
+11.694   W/TV_Client.syslog_run( 4819):  [5277][tvlogin.cpp]:login stop
+
+11.694   E/TV_Client.tagtv_FLW( 4819):  [5277][tvloginmsgpro.cpp (L1901)][PostEvt]:<[52900]> TvLoginMsgPro::PostEvt: iType=4
+
+11.695   I/TV_Client.TagTv( 4819):  [5277][tvsetinfo.cpp (L5303)][GetEpgErroCode]:GetEpgErroCode:[].
+
+11.695   I/TV_Client.TagTv( 4819):  [5277][tvlogin.cpp (L5885)][GetSubErrorCode]:mstrSubErrorCode 002

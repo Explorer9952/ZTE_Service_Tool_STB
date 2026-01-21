@@ -1,0 +1,500 @@
+
+34.100   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.100   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+34.101   I/MCSP_Browser.webkit( 4877): CfgWrite Success : section Common, name show_pageloadingbar, value no !
+
+34.101   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"};Len:121
+
+34.101   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"}][25185708][121]RL[10240]
+
+34.101   I/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L3262)][CheckDataComeMsg]:is login page[https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp]! return 0
+
+34.101   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[1]!
+
+34.101   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4449)][SetDataComeFlag]:SetDataComeFlag[1]!
+
+34.101   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"}][25185708][4]iReply[0]
+
+34.101   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"};Len:121,Reply<, 0> imsgType:0x1804dac
+
+34.105   I/MCSP_Browser.webkit( 4877): Success_Download: main frame<0xd95cf000> url<https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp?UserID=220101086720001&Action=Login&TerminalFlag=1&TerminalOsType=0&STBID=DD100299007042000000AC00D010E78A&stbtype=B860H>
+
+34.105   I/MCSP_Browser.webkit( 4877): reportHttpInfo: firstresponse:64 ms,finish:108 ms, iHTTPStatusCode=[200], openURL:[97]
+
+34.106   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428003, msgCmd = 0, iLen = 89, iSessionId = 0 buffer = {"cmd":"ztebw_report_httpinfo","iReportType":0,"pcInfoString":"NULL","iHTTPStatusCode":0}
+
+34.110   I/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1141]:stay in EVENT_BROWSER_HTTP_REPORT_INFO
+
+34.110   I/MCSP_SQM.SQM_INFO( 4734): Qos_HandHttpInfo [2755]:ReportType 0!
+
+34.110   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+34.111   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428002, msgCmd = 0, iLen = 267, iSessionId = 0 buffer = {"cmd":"ztebw_http_rrt","lpUrl":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp?UserID=220101086720001&Action=Login&TerminalFlag=1&TerminalOsType=0&STBID=DD100299007042000000AC00D010E78A&stbtype=B860H","dRRT":0.064000,"totalTime":0.108000,"isMainResource":1}
+
+34.111   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+34.111   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+34.111   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+34.111   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xcf73c810,not registered func!!
+
+34.111   D/MCSP_Browser.webkit( 4877): <CTCSetConfig: EPGConnectState>not registered!
+
+34.112   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ;Len:84
+
+34.115   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ][25185708][84]RL[10240]
+
+34.115   E/TV_Client.TagTv( 4819):  [5353][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+34.115   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L410)][SetInfoPre]:<[354050]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=EPGConnectState
+
+34.116   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ][25185708][6]RCT[0]iReply[0]
+
+34.119   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'EPGConnectState','pszFieldValue':'1'} ;Len:84,Reply<0, 2> imsgType:0x1804dac
+
+34.119   E/TV_Client.in_FLW( 4819):  [5074][tvloginmsgpro.cpp (L815)][OnEvent]:--->[IN]  [4358146][0],In OnEvent
+
+34.120   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5385)][SupportEdgeEpgMarket]:SupportEdgeEpgMarket:[0]
+
+34.120   E/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2449)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT:not care this evt
+
+34.120   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetAuthInfo','name':'@@000000020260109185630141230240'};Len:74
+
+34.120   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetAuthInfo','name':'@@000000020260109185630141230240'}][25185708][74]RL[10240]
+
+34.120   I/TV_Client.TagTv( 4819):  [4849][loginpro.cpp (L122)][LoginPro]:CMD_TV_LOGIN_GETAUTHINFO encrytoken=[@@000000020260109185630141230240] CLoginPro::LoginPro
+
+34.122   E/TV_Client.TagTv( 4819):  [4849][tvutil.cpp (L389)][GetDataStrFromIhash]:TvUtil::GetDataFromInputHash: can't find type in hash
+
+34.122   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L3384)][GetAuthInfo]:strEncryToken=@@000000020260109185630141230240
+
+34.124   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+34.130   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.131   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.131   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+34.131   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.131   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.131   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+34.132   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.132   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.133   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+34.133   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.135   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+34.135   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+34.135   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L1480)][SetInfo]:<[354060]> TvSetInfo::SetInfo: strFiledName=EPGConnectState
+
+34.135   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2106)][IsAbilityLogin]:TvLogin::IsAbilityLogin: 0
+
+34.140   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.140   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:GWType, Value:0
+
+34.140   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.140   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+34.140   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.142   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:IPVersion, Value:0
+
+34.142   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.142   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:0
+
+34.145   I/TV_Client.TagTv( 4819):  [4849][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7001], key[], nRet=0, strRet=ETHERNET
+
+34.146   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L4937)][getNetMode]:<[354060]> getNetMode, property_get [net.zte.netmode] is[ETHERNET],len [8]
+
+34.146   I/TV_Client.TagTv( 4819):  [4849][tvbasepro.cpp (L1731)][isNetRefactor]:Net refactor version! retrun true
+
+34.147   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = false
+
+34.147   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+34.151   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.151   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.151   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.151   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.151   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.151   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.151   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.151   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.151   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.152   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.152   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.154   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+34.185   D/MCSP_Browser.webkit( 4877): first HTTP response: Frame 0xd95cf000, type<text/html>, charset<utf8>, openURL:[99]
+
+34.185   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+34.185   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,1]!
+
+34.185   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.185   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+34.185   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+34.185   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+34.185   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.185   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+34.185   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+34.186   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+34.186   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.186   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+34.186   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.186   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+34.186   I/MCSP_Browser.webkit( 4877): the window is visible[1],frame[0xd95cf000]
+
+34.186   D/MCSP_Browser.webkit( 4877): receivedFirstData and init focus settings!
+
+34.186   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+34.186   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+34.186   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.186   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+34.186   I/MCSP_Browser.webkit( 4877): setEncoding: <UTF-8>, EncodingSourceID<5>
+
+34.186   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 114,wasInsertedByParser:1
+
+34.186   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 36,this:0xcf7cd780,document:0xcf8bc600,body(0x0)
+
+34.186   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 115,wasInsertedByParser:1
+
+34.187   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 37,this:0xcf7d0fc0,document:0xcf8bc600,body(0xcf7d11a0)
+
+34.187   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 116,wasInsertedByParser:1
+
+34.187   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 38,this:0xcf7d05c0,document:0xcf8bc600,body(0xcf7d11a0)
+
+34.187   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 117,wasInsertedByParser:1
+
+34.187   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 39,this:0xcf7cdaa0,document:0xcf8bc600,body(0xcf7d11a0)
+
+34.187   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp"};Len:120
+
+34.187   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp"}][25185708][120]RL[10240]
+
+34.187   I/TV_Client.TagTv( 4819):  [4838][tvloginmsgpro.cpp (L3262)][CheckDataComeMsg]:is login page[https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp]! return 0
+
+34.187   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[1]!
+
+34.187   I/TV_Client.TagTv( 4819):  [4838][tvlogin.cpp (L4449)][SetDataComeFlag]:SetDataComeFlag[1]!
+
+34.187   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp"}][25185708][4]iReply[0]
+
+34.187   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp"};Len:120,Reply<, 0> imsgType:0x1804dac
+
+34.187   I/MCSP_Browser.webkit( 4877): Success_Download: main frame<0xd95cf000> url<https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp?easip=82.209.237.219&ipVersion=4&networkid=103>
+
+34.187   I/MCSP_Browser.webkit( 4877): reportHttpInfo: firstresponse:149 ms,finish:165 ms, iHTTPStatusCode=[200], openURL:[99]
+
+34.188   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428003, msgCmd = 0, iLen = 89, iSessionId = 0 buffer = {"cmd":"ztebw_report_httpinfo","iReportType":0,"pcInfoString":"NULL","iHTTPStatusCode":0}
+
+34.188   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428002, msgCmd = 0, iLen = 192, iSessionId = 0 buffer = {"cmd":"ztebw_http_rrt","lpUrl":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp?easip=82.209.237.219&ipVersion=4&networkid=103","dRRT":0.149000,"totalTime":0.165000,"isMainResource":1}
+
+34.188   I/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1141]:stay in EVENT_BROWSER_HTTP_REPORT_INFO
+
+34.188   I/MCSP_SQM.SQM_INFO( 4734): Qos_HandHttpInfo [2755]:ReportType 0!
+
+34.188   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+34.188   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+34.188   I/TV_Client.TagTv( 4819):  [5353][prehandle.cpp (L1215)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT,l_strRtnJson is [{"cmd":"ztebw_http_rrt","lpUrl":"https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp?easip=82.209.237.219&ipVersion=4&networkid=103","dRRT":0.149000,"totalTime":0.165000,"isMainResource":1}€Pô(Àÿÿÿ],url[https://itvepg177.tv.zala.by/iptvepg/platform/auth.jsp?easip=82.209.237.219&ipVersion=4&networkid=103]
+
+34.188   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+34.188   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+34.188   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xd69487b0,not registered func!!
+
+34.188   D/MCSP_Browser.webkit( 4877): <CTCSetConfig: UserToken>not registered!
+
+34.188   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'UserToken','pszFieldValue':'QBfUrHgAtPcznIXfW@pg@Pj146030922'} ;Len:109
+
+34.189   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'UserToken','pszFieldValue':'QBfUrHgAtPcznIXfW@pg@Pj146030922'} ][25185708][109]RL[10240]
+
+34.189   E/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+34.189   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L427)][setUserTokenPre]:<[354260]> TvSetInfo::SetInfoPre: strFiledName=UserToken, strFiledValue=QBfUrHgAtPcznIXfW@pg@Pj146030922
+
+34.189   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.189   D/BaseComp.mcspcfg( 4654): Value didn't changed [QBfUrHgAtPcznIXfW@pg@Pj146030922] = [QBfUrHgAtPcznIXfW@pg@Pj146030922]!!!!
+
+34.189   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Cfg_PutString OK
+
+34.189   E/TV_Client.CfgCInterface( 4819): [MCSP_Pref_PutString]: Component=MSC_IPTV_Plugin, Section=Temp, Key=IPTVUserToken, Value=[QBfUrHgAtPcznIXfW@pg@Pj146030922]
+
+34.189   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.189   D/BaseComp.mcspcfg( 4654): Value didn't changed [QBfUrHgAtPcznIXfW@pg@Pj146030922] = [QBfUrHgAtPcznIXfW@pg@Pj146030922]!!!!
+
+34.189   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Cfg_PutString OK
+
+34.189   E/TV_Client.CfgCInterface( 4819): [MCSP_Pref_PutString]: Component=MSC_IPTV_Plugin, Section=Common, Key=UserToken, Value=[QBfUrHgAtPcznIXfW@pg@Pj146030922]
+
+34.189   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L410)][SetInfoPre]:<[354260]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=UserToken
+
+34.189   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'UserToken','pszFieldValue':'QBfUrHgAtPcznIXfW@pg@Pj146030922'} ][25185708][6]RCT[0]iReply[0]
+
+34.189   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'UserToken','pszFieldValue':'QBfUrHgAtPcznIXfW@pg@Pj146030922'} ;Len:109,Reply<0, 2> imsgType:0x1804dac
+
+34.190   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xcf73c6f8,not registered func!!
+
+34.190   D/MCSP_Browser.webkit( 4877): <CTCSetConfig: EPGGroupNMB>not registered!
+
+34.190   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'EPGGroupNMB','pszFieldValue':'2000174'} ;Len:86
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGGroupNMB','pszFieldValue':'2000174'} ][25185708][86]RL[10240]
+
+34.190   E/TV_Client.TagTv( 4819):  [4838][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L410)][SetInfoPre]:<[354260]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=EPGGroupNMB
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'EPGGroupNMB','pszFieldValue':'2000174'} ][25185708][6]RCT[0]iReply[0]
+
+34.190   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'EPGGroupNMB','pszFieldValue':'2000174'} ;Len:86,Reply<0, 2> imsgType:0x1804dac
+
+34.190   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xcf73c760,not registered func!!
+
+34.190   D/MCSP_Browser.webkit( 4877): <CTCSetConfig: UserGroupNMB>not registered!
+
+34.190   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCSetConfig','pszFieldName':'UserGroupNMB','pszFieldValue':'2000174'} ;Len:87
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'UserGroupNMB','pszFieldValue':'2000174'} ][25185708][87]RL[10240]
+
+34.190   E/TV_Client.TagTv( 4819):  [5353][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L491)][setUserGroupNMBPre]:<[354260]> TvSetInfo::SetInfoPre: strFiledName=UserGroupNMB, strFiledValue=2000174
+
+34.190   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L410)][SetInfoPre]:<[354260]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=UserGroupNMB
+
+34.192   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'UserGroupNMB','pszFieldValue':'2000174'} ][25185708][6]RCT[0]iReply[0]
+
+34.192   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+34.192   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L1480)][SetInfo]:<[354260]> TvSetInfo::SetInfo: strFiledName=UserToken
+
+34.192   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2092)][IsManageLogin]:TvLogin::IsManageLogin: 1
+
+34.196   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 38,nScriptNodeCreate=117,this:0xcf7d1240
+
+34.196   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 37,nScriptNodeCreate=117,this:0xcf7d1b00
+
+34.196   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.196   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.198   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.198   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 36,nScriptNodeCreate=117,this:0xcf7d1ce0
+
+34.202   I/MCSP_Browser.webkit( 4877): loadURL:Frame 0xd95cf000,parent 0x0,openURL=<https://itvepg177.tv.zala.by/iptvepg/function/index.jsp?UserGroupNMB=2000174&EPGGroupNMB=2000174&UserToken=QBfUrHgAtPcznIXfW@pg@Pj146030922&UserID=220101086720001&STBID=DD100299007042000000AC00D010E78A&easip=82.209.237.219&networkid=103>,g_paintcontent_once=<1>,windowCount=<1>.[GET]
+
+34.202   D/MCSP_Browser.webkit( 4877): load frame=[0xd95cf000],begin to open the timer maxOutTime=[1.500000] to refresh fullsreen.
+
+34.202   D/MCSP_Browser.webkit( 4877): ztebw_webpage_jump_start: not registered, g_mapAPI.size is 161
+
+34.202   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.202   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.202   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.206   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.206   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.206   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.206   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0, openURL:[101]<https://itvepg177.tv.zala.by/iptvepg/function/index.jsp?UserGroupNMB=2000174&EPGGroupNMB=2000174&UserToken=QBfUrHgAtPcznIXfW@pg@Pj146030922&UserID=220101086720001&STBID=DD100299007042000000AC00D010E78A&easip=82.209.237.219&networkid=103>
+
+34.206   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+34.208   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[SubMarketCode]
+
+34.212   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-6
+
+34.218   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.218   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.218   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.220   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.222   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.222   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.223   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.223   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.228   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[CSLoginState], nRet=0, strRet=false
+
+34.231   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+34.233   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.233   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.233   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.233   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.233   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.234   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.234   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.236   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.236   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.236   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.237   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.239   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.239   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.239   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.242   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.242   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.242   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.242   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.242   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.242   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.242   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.242   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.244   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.244   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.246   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.248   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.249   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.249   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.249   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.249   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.252   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.253   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.253   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.253   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.253   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.253   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.254   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.254   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.254   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.254   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.256   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.256   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.257   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.259   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.262   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+34.262   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.262   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.262   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.264   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.264   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.264   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.265   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.266   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.266   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.270   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.270   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.270   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+34.270   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+34.270   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+34.273   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.273   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1

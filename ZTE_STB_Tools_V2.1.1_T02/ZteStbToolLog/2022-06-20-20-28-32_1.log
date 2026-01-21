@@ -1,0 +1,21 @@
+2022-06-20 20:28:50.854  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2022-06-20 20:28:52.400  |[ConnectStbProc] [418]|: Failed to read AndroidVersion
+2022-06-20 20:28:52.401  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2022-06-20 20:28:52.402  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2022-06-20 20:28:52.465  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2022-06-20 20:28:54.819  |[CConnectPage::UpdateConfigValue_Seperate] [953]|: Failed to read NETWORK_INFO
+2022-06-20 20:32:27.060  |[OpenAdbThreadProc] [425]|: Failed to Send Open ADB_ZTE
+2022-06-20 20:32:28.571  |[CAdbPage::OnAdbCmdOpened] [567]|: Open ADB failed
+2022-06-20 20:32:33.587  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2022-06-20 20:38:24.723  |[CZTE_STB_ToolsDlg::OnDisConnectToStb] [1027]|: Disconnect!
+2022-06-20 20:38:24.725  |[CMedias::OnDisConnectToStb] [85]|: success to send unlink commamd to auto test module!
+2022-06-20 20:42:11.017  |[ConnectStbProc] [409]|: Failed to read functionVerion
+2022-06-20 20:42:11.347  |[ConnectStbProc] [418]|: Failed to read AndroidVersion
+2022-06-20 20:42:11.347  |[CZTE_STB_ToolsDlg::OnConnectToStb] [917]|: m_Medias connect!
+2022-06-20 20:42:11.349  |[CZTE_STB_ToolsDlg::OnConnectToStb] [971]|: Connect success!
+2022-06-20 20:42:11.368  |[CMedias::OnConnectToStb] [56]|: Connect to auto test module success!
+2022-06-20 20:42:12.045  |[CConnectPage::UpdateConfigValue_Seperate] [953]|: Failed to read NETWORK_INFO
+2022-06-20 20:42:16.336  |[CTerminate::OnOpenTerminal] [592]|: Send open terminate command to succss!
+2022-06-20 20:46:31.447  |[CZTE_STB_ToolsDlg::OnDisConnectToStb] [1027]|: Disconnect!
+2022-06-20 20:46:31.448  |[CMedias::OnDisConnectToStb] [85]|: success to send unlink commamd to auto test module!
+2022-06-20 21:04:03.474  |[CZTE_STB_ToolsDlg::OnBnClickedBtnCls] [684]|: Do not notice the STB before closing the tool!

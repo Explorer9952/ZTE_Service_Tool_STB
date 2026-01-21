@@ -1,0 +1,892 @@
+线程:15232l	20日 21时03分35秒	[StbInterface_Ex::Stb_ConnectStb]调用
+线程:15232l	20日 21时03分35秒	V2.1.4
+线程:15232l	20日 21时03分35秒	Ready to connect STB IP: 192.168.100.8  Timeout: 3
+线程:15232l	20日 21时03分35秒	Connect STB successful - _ -
+线程:15232l	20日 21时03分35秒	申请信号锁
+线程:15232l	20日 21时03分35秒	申请信号锁成功
+线程:15232l	20日 21时03分35秒	进入关键代码区前
+线程:15232l	20日 21时03分35秒	进入关键代码
+线程:15232l	20日 21时03分35秒	清除BUFFER前
+线程:15232l	20日 21时03分35秒	清除BUFFER后
+线程:15232l	20日 21时03分35秒	Loop...
+线程:15232l	20日 21时03分35秒	离开关键代码
+线程:15232l	20日 21时03分35秒	进入关键代码区前
+线程:15232l	20日 21时03分35秒	进入关键代码
+线程:15232l	20日 21时03分35秒	清除BUFFER前
+线程:15232l	20日 21时03分35秒	清除BUFFER后
+线程:15232l	20日 21时03分35秒	Loop...
+线程:15232l	20日 21时03分35秒	离开关键代码
+线程:15232l	20日 21时03分35秒	释放信号锁3
+线程:15232l	20日 21时03分35秒	Return to the interaction : 12001
+线程:15232l	20日 21时03分35秒	申请信号锁
+线程:15232l	20日 21时03分35秒	申请信号锁成功
+线程:15232l	20日 21时03分35秒	进入关键代码区前
+线程:15232l	20日 21时03分35秒	进入关键代码
+线程:15232l	20日 21时03分35秒	清除BUFFER前
+线程:15232l	20日 21时03分35秒	清除BUFFER后
+线程:15232l	20日 21时03分35秒	Loop...
+线程:15232l	20日 21时03分35秒	离开关键代码
+线程:15232l	20日 21时03分35秒	进入关键代码区前
+线程:15232l	20日 21时03分35秒	进入关键代码
+线程:15232l	20日 21时03分35秒	清除BUFFER前
+线程:15232l	20日 21时03分35秒	清除BUFFER后
+线程:15232l	20日 21时03分35秒	Loop...
+线程:15232l	20日 21时03分35秒	离开关键代码
+线程:15232l	20日 21时03分36秒	释放信号锁3
+线程:15232l	20日 21时03分36秒	|[StbInterface_Ex::GetEnvVer] [312]| :  V4.0 STBAllow:0
+线程:15232l	20日 21时03分36秒	|[StbInterface_Ex::GetEnvVer] [413]| :  V4.0
+线程:15232l	20日 21时03分36秒	申请信号锁
+线程:15232l	20日 21时03分36秒	申请信号锁成功
+线程:15232l	20日 21时03分36秒	进入关键代码区前
+线程:15232l	20日 21时03分36秒	进入关键代码
+线程:15232l	20日 21时03分36秒	清除BUFFER前
+线程:15232l	20日 21时03分36秒	清除BUFFER后
+线程:15232l	20日 21时03分36秒	Loop...
+线程:15232l	20日 21时03分36秒	离开关键代码
+线程:15232l	20日 21时03分36秒	进入关键代码区前
+线程:15232l	20日 21时03分36秒	进入关键代码
+线程:15232l	20日 21时03分36秒	清除BUFFER前
+线程:15232l	20日 21时03分36秒	清除BUFFER后
+线程:15232l	20日 21时03分36秒	Loop...
+线程:15232l	20日 21时03分36秒	离开关键代码
+线程:15232l	20日 21时03分36秒	释放信号锁3
+线程:15232l	20日 21时03分36秒	申请信号锁
+线程:15232l	20日 21时03分36秒	申请信号锁成功
+线程:15232l	20日 21时03分36秒	进入关键代码区前
+线程:15232l	20日 21时03分36秒	进入关键代码
+线程:15232l	20日 21时03分36秒	清除BUFFER前
+线程:15232l	20日 21时03分36秒	清除BUFFER后
+线程:15232l	20日 21时03分36秒	Loop...
+线程:15232l	20日 21时03分36秒	离开关键代码
+线程:15232l	20日 21时03分36秒	进入关键代码区前
+线程:15232l	20日 21时03分36秒	进入关键代码
+线程:15232l	20日 21时03分36秒	清除BUFFER前
+线程:15232l	20日 21时03分36秒	清除BUFFER后
+线程:15232l	20日 21时03分36秒	Loop...
+线程:15232l	20日 21时03分36秒	离开关键代码
+线程:15232l	20日 21时03分37秒	释放信号锁3
+线程:3724l	20日 21时03分37秒	心跳函数启动
+线程:3724l	20日 21时03分37秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分37秒	申请信号锁
+线程:15232l	20日 21时03分37秒	申请信号锁成功
+线程:15232l	20日 21时03分37秒	进入关键代码区前
+线程:15232l	20日 21时03分37秒	进入关键代码
+线程:15232l	20日 21时03分37秒	清除BUFFER前
+线程:15232l	20日 21时03分37秒	清除BUFFER后
+线程:15232l	20日 21时03分37秒	Loop...
+线程:15232l	20日 21时03分37秒	离开关键代码
+线程:15232l	20日 21时03分37秒	进入关键代码区前
+线程:15232l	20日 21时03分37秒	进入关键代码
+线程:15232l	20日 21时03分37秒	清除BUFFER前
+线程:3724l	20日 21时03分37秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分37秒	清除BUFFER后
+线程:15232l	20日 21时03分37秒	Loop...
+线程:15232l	20日 21时03分37秒	离开关键代码
+线程:15232l	20日 21时03分37秒	释放信号锁3
+线程:15232l	20日 21时03分37秒	申请信号锁
+线程:15232l	20日 21时03分37秒	申请信号锁成功
+线程:15232l	20日 21时03分37秒	进入关键代码区前
+线程:15232l	20日 21时03分37秒	进入关键代码
+线程:15232l	20日 21时03分37秒	清除BUFFER前
+线程:15232l	20日 21时03分37秒	清除BUFFER后
+线程:15232l	20日 21时03分37秒	Loop...
+线程:15232l	20日 21时03分37秒	离开关键代码
+线程:15232l	20日 21时03分37秒	进入关键代码区前
+线程:15232l	20日 21时03分37秒	进入关键代码
+线程:15232l	20日 21时03分37秒	清除BUFFER前
+线程:3724l	20日 21时03分37秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分37秒	清除BUFFER后
+线程:15232l	20日 21时03分37秒	Loop...
+线程:15232l	20日 21时03分37秒	离开关键代码
+线程:3724l	20日 21时03分38秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	The STB type information: ZXB860H(STBAC-ANDROIDSTB-069) V81111367.0053 2020-12-08
+线程:15232l	20日 21时03分38秒	申请信号锁
+线程:15232l	20日 21时03分38秒	申请信号锁成功
+线程:15232l	20日 21时03分38秒	进入关键代码区前
+线程:15232l	20日 21时03分38秒	进入关键代码
+线程:15232l	20日 21时03分38秒	清除BUFFER前
+线程:3724l	20日 21时03分38秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分38秒	清除BUFFER后
+线程:15232l	20日 21时03分38秒	Loop...
+线程:15232l	20日 21时03分38秒	离开关键代码
+线程:15232l	20日 21时03分38秒	进入关键代码区前
+线程:15232l	20日 21时03分38秒	进入关键代码
+线程:15232l	20日 21时03分38秒	清除BUFFER前
+线程:15232l	20日 21时03分38秒	清除BUFFER后
+线程:15232l	20日 21时03分38秒	Loop...
+线程:15232l	20日 21时03分38秒	离开关键代码
+线程:3724l	20日 21时03分38秒	连接未完成、放弃本次心跳函数的发送
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:15232l	20日 21时03分38秒	释放信号锁3
+线程:3724l	20日 21时03分38秒	连接未完成、放弃本次心跳函数的发送
+线程:3724l	20日 21时03分38秒	申请ApiRunning信号锁成功
+线程:3724l	20日 21时03分38秒	send new heart bit 
+线程:3724l	20日 21时03分38秒	申请信号锁
+线程:3724l	20日 21时03分38秒	申请信号锁成功
+线程:3724l	20日 21时03分38秒	进入关键代码区前
+线程:3724l	20日 21时03分38秒	进入关键代码
+线程:3724l	20日 21时03分38秒	清除BUFFER前
+线程:3724l	20日 21时03分39秒	清除BUFFER后
+线程:3724l	20日 21时03分39秒	Loop...
+线程:3724l	20日 21时03分39秒	离开关键代码
+线程:3724l	20日 21时03分39秒	|[StbInterface_Ex::KeepAliveMsg] [138]| :  心跳函数发送成功
+线程:3724l	20日 21时03分39秒	释放信号锁3
+线程:3724l	20日 21时03分39秒	|[StbInterface_Ex::KeepAliveMsg] [185]| :  收到心跳回复
+线程:3724l	20日 21时03分39秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分39秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分39秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分39秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分39秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分39秒	[StbInterface_Ex::Stb_GetStbHWType]调用
+线程:15232l	20日 21时03分39秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分39秒	[StbInterface_Ex::Stb_GetStbIniItem]调用
+线程:15232l	20日 21时03分39秒	Parameter: Common ActiveJDBS 
+线程:15232l	20日 21时03分39秒	申请信号锁
+线程:15232l	20日 21时03分39秒	申请信号锁成功
+线程:15232l	20日 21时03分39秒	进入关键代码区前
+线程:15232l	20日 21时03分39秒	进入关键代码
+线程:15232l	20日 21时03分39秒	清除BUFFER前
+线程:15232l	20日 21时03分39秒	清除BUFFER后
+线程:15232l	20日 21时03分39秒	Loop...
+线程:15232l	20日 21时03分39秒	离开关键代码
+线程:15232l	20日 21时03分39秒	进入关键代码区前
+线程:15232l	20日 21时03分39秒	进入关键代码
+线程:15232l	20日 21时03分39秒	清除BUFFER前
+线程:15232l	20日 21时03分39秒	清除BUFFER后
+线程:15232l	20日 21时03分39秒	Loop...
+线程:15232l	20日 21时03分39秒	离开关键代码
+线程:15232l	20日 21时03分39秒	释放信号锁3
+线程:15232l	20日 21时03分39秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分39秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分39秒	[StbInterface_Ex::Stb_ReadStbConfig]调用
+线程:15232l	20日 21时03分39秒	Parameter: 1
+线程:15232l	20日 21时03分39秒	申请信号锁
+线程:15232l	20日 21时03分39秒	申请信号锁成功
+线程:15232l	20日 21时03分39秒	进入关键代码区前
+线程:15232l	20日 21时03分39秒	进入关键代码
+线程:15232l	20日 21时03分39秒	清除BUFFER前
+线程:15232l	20日 21时03分39秒	清除BUFFER后
+线程:15232l	20日 21时03分39秒	Loop...
+线程:15232l	20日 21时03分39秒	离开关键代码
+线程:15232l	20日 21时03分39秒	进入关键代码区前
+线程:15232l	20日 21时03分39秒	进入关键代码
+线程:15232l	20日 21时03分39秒	清除BUFFER前
+线程:15232l	20日 21时03分39秒	清除BUFFER后
+线程:15232l	20日 21时03分39秒	Loop...
+线程:15232l	20日 21时03分39秒	离开关键代码
+线程:15232l	20日 21时03分40秒	释放信号锁3
+线程:15232l	20日 21时03分40秒	释放信号锁3
+线程:15232l	20日 21时03分40秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分40秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分40秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: SIP ProxySvrPort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr3 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vmdrm OTTCA_VCISVRPort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vlan VLANID_Appup 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: IPV6 GateWayIPV6 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common DRMSupplier 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ProxySecurePort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common Ztemcndplus 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common Aspectratio 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Conaxdrm_IMP CA_GetoperatorvalueAddr 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr4 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Android] Key<AndroidLanguage> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common TVMSSupplier 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common IQASAddress 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common EnableCloseCaption 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common Option60_PT 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common X_MSG_SwitchCfg 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common LSPriority 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common AC3OutputMode 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ProxyFTPPort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common DuplexMode 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common KeyControlTime 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common IpAddr 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr5 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Irddrm CA_PIN 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common_ext] Key<SendingBandWidth> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: IPV6 Ipv6ACSAddress 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<WifiMacAddr> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common RtrTime 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr6 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Irddrm CA_EMMSVRAddr 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vlan VLANID_Other 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common_ext] Key<SupportSubt> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: IPV6 DNSIPV6 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: IPV6 IpAddrIPV6 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Android SysTimeZone 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common AccessPoint 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common FecPortPlus 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ArqBurstMode 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ACPFlag 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common EnableScreenSaver 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ProxyFlag 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common AcceptCookie 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<SingleSTBBandWidth> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common QOSFileFormat 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Conaxdrm_IMP GetoperatorvalueType 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: VideoPhone LinkTest 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr7 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vmdrm pVksAddrAndPort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Irddrm CA_EMMSVRPort 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vlan VLANPBIT_Drm 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vlan VLANID_Dhcp 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common_ext] Key<ChanManagementSvr> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Android ScreenUpdateInterval 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<AutoStandbyMode> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ACSAddress 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common OperatorsCode 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common EraseLastFrame 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<ProxyHttpPort> is not in xml file
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common Ztemcndpre 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common Language 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ServiceUser 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Common ProductID 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: VideoPhone Hint 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: VideoPhone AudioOut 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Icasdrm CAS_SVRAddr8 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Wvdrm CA_WV_AUTO_AUTH_SVRAddr 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vmdrm CA_Company 
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分40秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分40秒	Parameter: Vlan VLANPBIT_Multicast 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Android MonitorLogUp 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common OTTDRMSupplier 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common VLanSupplier 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common UsingWLAN 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common DCPFlag 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common AutoOutputFlag 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common Ztemcndsuf 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common MacAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Conaxdrm_IMP CA_DVSAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP ResourceSvrDomain 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Icasdrm SVR_Num 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANPBIT_Tr069 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext LogoPicLoadReportAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common EncryptionMethod 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common TimeZone 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[VideoPhone] Key<UserName> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Android SelinuxStatus 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common LocalplaySupplier 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common LSRecordTime 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Smdrm] Key<CA_AutoReg> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANPBIT_Dhcp 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANID_Multicast 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext ManagementDomainBackup 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[DVB] Key<ParentalControl> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ScreenProtection 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common VersionServer 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common HomePage 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common DNS 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP VPPassWord 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Smdrm] Key<CA_SVRAddr> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[DVB] Key<ChannelLockTime> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ErrorRecoveryMode 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common FccAddIGMPTimeout 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common RecvTimeOutLen 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common EPGSizeType 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<Licence> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Smdrm] Key<CA_SMParams> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Wvdrm CA_WV_EMMG_SVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: IPV6 PrefixLength 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[DVB] Key<AgeLimit> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common VPHSupplier 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common CPEPassword 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ACSPassword 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common WLAN_RFMode 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common DisableFlickerFilter 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ScanFreq 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common TVStandard 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common PppoePwd 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP VPUserNo 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANPBIT_Appup 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext MainITMSSuportTR111 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<aspectmode> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common STUNServAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common EncryptionKey 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common IgmpVersion 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: VideoPhone SendVideo 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vmdrm OTTCA_Company 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Irddrm CA_SProxySVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Irddrm CA_DProxySVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANID_Tr069 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common_ext] Key<ChanManagementFlag> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext SubCPEPassword 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext SubACSPassword 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Android MonitorLogURL 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common STUNServPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common NoFEC 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common DHCPPUser 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common TimeServer 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP GroupSvrAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: VideoPhone CallPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Wvdrm CA_WV_AUTH_SVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vmdrm CA_VCISVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Irddrm CA_SProxySVRPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Irddrm CA_DProxySVRPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANPBIT_Unicast 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANID_Drm 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common Version 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common WLAN_EncryKeyId 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ProxyExcept 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common MarketCode 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common MD5EncodeFlag 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common DetectNetFlag 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common SignalSendTimes 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common PppoeUser 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ConfigServer 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common GateWay 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common NetType 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Conaxdrm_IMP CA_PVSAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP GroupSvrPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP RegSvrAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: VideoPhone CallIp 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: VideoPhone CallRate 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vmdrm CA_VCISVRPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANPBIT_Other 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vlan VLANID_Unicast 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext LogoPicSrvAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[DVB] Key<LockTitle> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common CPEUserName 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ACSUserName 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common TrsfForm 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common AudioTrackLocalProc 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP RegSvrPort 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Icasdrm CAS_SVRAddr1 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Android ScreenURL 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<MenuDisplayTime> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<DVB_Type> is not in xml file
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common SegmentPlay 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common ConTimeout 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common FccReqRespTimeout 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common IPVersion 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: SIP ProxySvrAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: VideoPhone VideoBitRate 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Icasdrm CAS_SVRAddr2 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Vmdrm OTTCA_VCISVRAddr 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext SubCPEUserName 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: Common_ext SubACSUserName 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分41秒	Parameter: IPV6 MLDVersion 
+线程:15232l	20日 21时03分41秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Android] Key<SerialNo> is not in xml file
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	|[StbInterface_Ex::Stb_IsCfgInXml] [3445]| :  Sec[Common] Key<AutoStandbyTime> is not in xml file
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common WLAN_AuthMode 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common DvrSTB 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common Standbymode 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common VendorID 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common ServicePwd 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common NetMask 
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_IsCfgInXml]调用
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetIniItem]调用
+线程:15232l	20日 21时03分42秒	Parameter: Common DHCPPPw 
+线程:15232l	20日 21时03分42秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetStbInfo]调用
+线程:15232l	20日 21时03分42秒	Parameter: cmdtype=feature,cmdparams=flashsize,ddrsize,market,curtime
+线程:15232l	20日 21时03分42秒	申请信号锁
+线程:15232l	20日 21时03分42秒	申请信号锁成功
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分42秒	清除BUFFER后
+线程:15232l	20日 21时03分42秒	Loop...
+线程:15232l	20日 21时03分42秒	离开关键代码
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分42秒	清除BUFFER后
+线程:15232l	20日 21时03分42秒	Loop...
+线程:15232l	20日 21时03分42秒	离开关键代码
+线程:15232l	20日 21时03分42秒	释放信号锁3
+线程:15232l	20日 21时03分42秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分42秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetStbInfo]调用
+线程:15232l	20日 21时03分42秒	Parameter: cmdtype=FunctionVerion,cmdparams=
+线程:15232l	20日 21时03分42秒	申请信号锁
+线程:15232l	20日 21时03分42秒	申请信号锁成功
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分42秒	清除BUFFER后
+线程:15232l	20日 21时03分42秒	Loop...
+线程:15232l	20日 21时03分42秒	离开关键代码
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分42秒	清除BUFFER后
+线程:15232l	20日 21时03分42秒	Loop...
+线程:15232l	20日 21时03分42秒	离开关键代码
+线程:15232l	20日 21时03分42秒	释放信号锁3
+线程:15232l	20日 21时03分42秒	释放ApiRunning信号锁
+线程:15232l	20日 21时03分42秒	申请ApiRunning信号锁成功
+线程:15232l	20日 21时03分42秒	[StbInterface_Ex::Stb_GetStbInfo]调用
+线程:15232l	20日 21时03分42秒	Parameter: cmdtype=AndroidVersion,cmdparams=
+线程:15232l	20日 21时03分42秒	申请信号锁
+线程:15232l	20日 21时03分42秒	申请信号锁成功
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分42秒	清除BUFFER后
+线程:15232l	20日 21时03分42秒	Loop...
+线程:15232l	20日 21时03分42秒	离开关键代码
+线程:15232l	20日 21时03分42秒	进入关键代码区前
+线程:15232l	20日 21时03分42秒	进入关键代码
+线程:15232l	20日 21时03分42秒	清除BUFFER前
+线程:15232l	20日 21时03分43秒	清除BUFFER后
+线程:15232l	20日 21时03分43秒	Loop...
+线程:15232l	20日 21时03分43秒	离开关键代码
+线程:15232l	20日 21时03分43秒	释放信号锁3
+线程:15232l	20日 21时03分43秒	释放ApiRunning信号锁
+线程:8684l	20日 21时03分43秒	申请ApiRunning信号锁成功
+线程:8684l	20日 21时03分43秒	[StbInterface_Ex::Stb_GetStbInfo]调用
+线程:8684l	20日 21时03分43秒	Parameter: cmdtype=NETWORK_INFO,cmdparams=
+线程:8684l	20日 21时03分43秒	申请信号锁
+线程:8684l	20日 21时03分43秒	申请信号锁成功
+线程:8684l	20日 21时03分43秒	进入关键代码区前
+线程:8684l	20日 21时03分43秒	进入关键代码
+线程:8684l	20日 21时03分43秒	清除BUFFER前
+线程:8684l	20日 21时03分43秒	清除BUFFER后
+线程:8684l	20日 21时03分43秒	Loop...
+线程:8684l	20日 21时03分43秒	离开关键代码
+线程:8684l	20日 21时03分43秒	进入关键代码区前
+线程:8684l	20日 21时03分43秒	进入关键代码
+线程:8684l	20日 21时03分43秒	清除BUFFER前
+线程:8684l	20日 21时03分43秒	清除BUFFER后
+线程:8684l	20日 21时03分43秒	Loop...
+线程:8684l	20日 21时03分43秒	离开关键代码
+线程:8684l	20日 21时03分43秒	释放信号锁3
+线程:8684l	20日 21时03分43秒	释放ApiRunning信号锁
+线程:8684l	20日 21时03分43秒	申请ApiRunning信号锁成功
+线程:8684l	20日 21时03分43秒	申请信号锁
+线程:8684l	20日 21时03分43秒	申请信号锁成功
+线程:8684l	20日 21时03分43秒	进入关键代码区前
+线程:8684l	20日 21时03分43秒	进入关键代码
+线程:8684l	20日 21时03分43秒	清除BUFFER前
+线程:8684l	20日 21时03分43秒	清除BUFFER后
+线程:8684l	20日 21时03分43秒	Loop...
+线程:8684l	20日 21时03分43秒	离开关键代码
+线程:8684l	20日 21时03分43秒	进入关键代码区前
+线程:8684l	20日 21时03分43秒	进入关键代码
+线程:8684l	20日 21时03分43秒	清除BUFFER前
+线程:8684l	20日 21时03分44秒	清除BUFFER后
+线程:8684l	20日 21时03分44秒	Loop...
+线程:8684l	20日 21时03分44秒	离开关键代码
+线程:8684l	20日 21时03分44秒	释放信号锁3
+线程:8684l	20日 21时03分44秒	释放ApiRunning信号锁
+线程:3724l	20日 21时04分00秒	申请ApiRunning信号锁成功
+线程:3724l	20日 21时04分00秒	send new heart bit 
+线程:3724l	20日 21时04分00秒	申请信号锁
+线程:3724l	20日 21时04分00秒	申请信号锁成功
+线程:3724l	20日 21时04分00秒	进入关键代码区前
+线程:3724l	20日 21时04分00秒	进入关键代码
+线程:3724l	20日 21时04分00秒	清除BUFFER前
+线程:3724l	20日 21时04分00秒	清除BUFFER后
+线程:3724l	20日 21时04分00秒	Loop...
+线程:3724l	20日 21时04分00秒	离开关键代码
+线程:3724l	20日 21时04分00秒	|[StbInterface_Ex::KeepAliveMsg] [138]| :  心跳函数发送成功
+线程:3724l	20日 21时04分00秒	释放信号锁3
+线程:3724l	20日 21时04分00秒	|[StbInterface_Ex::KeepAliveMsg] [185]| :  收到心跳回复
+线程:3724l	20日 21时04分00秒	释放ApiRunning信号锁
+线程:3724l	20日 21时04分21秒	申请ApiRunning信号锁成功
+线程:3724l	20日 21时04分21秒	send new heart bit 
+线程:3724l	20日 21时04分21秒	申请信号锁
+线程:3724l	20日 21时04分21秒	申请信号锁成功
+线程:3724l	20日 21时04分21秒	进入关键代码区前
+线程:3724l	20日 21时04分21秒	进入关键代码
+线程:3724l	20日 21时04分21秒	清除BUFFER前
+线程:3724l	20日 21时04分22秒	清除BUFFER后
+线程:3724l	20日 21时04分22秒	Loop...
+线程:3724l	20日 21时04分22秒	离开关键代码
+线程:3724l	20日 21时04分22秒	|[StbInterface_Ex::KeepAliveMsg] [138]| :  心跳函数发送成功
+线程:3724l	20日 21时04分22秒	释放信号锁3
+线程:3724l	20日 21时04分22秒	|[StbInterface_Ex::KeepAliveMsg] [185]| :  收到心跳回复
+线程:3724l	20日 21时04分22秒	释放ApiRunning信号锁
+线程:3724l	20日 21时04分43秒	申请ApiRunning信号锁成功
+线程:3724l	20日 21时04分43秒	send new heart bit 
+线程:3724l	20日 21时04分43秒	申请信号锁
+线程:3724l	20日 21时04分43秒	申请信号锁成功
+线程:3724l	20日 21时04分43秒	进入关键代码区前
+线程:3724l	20日 21时04分43秒	进入关键代码
+线程:3724l	20日 21时04分43秒	清除BUFFER前
+线程:3724l	20日 21时04分43秒	清除BUFFER后
+线程:3724l	20日 21时04分43秒	Loop...
+线程:3724l	20日 21时04分43秒	离开关键代码
+线程:3724l	20日 21时04分43秒	|[StbInterface_Ex::KeepAliveMsg] [138]| :  心跳函数发送成功
+线程:3724l	20日 21时04分46秒	释放信号锁2
+线程:3724l	20日 21时04分46秒	|[StbInterface_Ex::KeepAliveMsg] [145]| :  接收心跳函数回复失败, 不再发送心跳函数 执行重连
+线程:3724l	20日 21时04分46秒	[StbInterface_Ex::Stb_DisconnectStb]调用
+线程:3724l	20日 21时04分46秒	释放ApiRunning信号锁
+线程:8684l	20日 21时04分47秒	[StbInterface_Ex::Stb_DisconnectStb]调用
+线程:8684l	20日 21时06分37秒	[StbInterface_Ex::Stb_DisconnectStb]调用
+线程:8684l	20日 21时06分37秒	|[StbInterface_Ex::~StbInterface_Ex] [57]| :  Success to exit heart thread

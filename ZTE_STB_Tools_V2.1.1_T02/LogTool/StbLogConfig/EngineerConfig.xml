@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Engineer>
+<McspEngineer>
+<Class Name="全部日志" NameEn="All logs" Checked="0">
+<Component Name="*" Tag="*" Level="D"/>
+</Class>
+<Class Name="播放类" NameEn="Player Class" Checked="0">
+<Component Name="MCSP_VOD" Tag="*" Level="D"/>
+<Component Name="TV_Client" Tag="*" Level="D"/>
+<Component Name="MainCtrl" Tag="*" Level="D"/>
+<Component Name="STB_MC" Tag="*" Level="D"/>
+</Class>
+<Class Name="EPG类" NameEn="EPG Class" Checked="0">
+<Component Name="MCSP_Browser" Tag="*" Level="D"/>
+</Class>
+<Class Name="网络类" NameEn="NetWork Class" Checked="0">
+<Component Name="NetManager" Tag="*" Level="D"/>
+</Class>
+<Class Name="游戏类" NameEn="Game Class" Checked="0">
+<Component Name="MCSP_JVM" Tag="*" Level="D"/>
+<Component Name="MCSP_JavaWatch" Tag="*" Level="D"/>
+<Component Name="MCSP_MIXER" Tag="*" Level="D"/>
+<Component Name="MCSP_UrlJump" Tag="*" Level="D"/>
+<Component Name="MCSP_Browser" Tag="*" Level="D"/>
+<Component Name="MainCtrl" Tag="*" Level="D"/>
+</Class>
+<Class Name="常见JAVA" NameEn="Common JAVA" Checked="0">
+<Component Name="CompCommunication" Tag="" Level="D"/>
+</Class>
+</McspEngineer>
+<MonitorEngineer>
+<Class Name="全部日志" NameEn="All Logs" Checked="0">
+<Module Name="BW" Port="5030" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="QBox" Port="5035" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="Browser" Port="5039" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="VOD" Port="10010" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="TVMS" Port="10012" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="TR069" Port="5050" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="NANO" Port="10011" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="播放类" NameEn="Player Class" Checked="0">
+<Module Name="VOD" Port="10010" Level="0x0000000f" TagValue="0xffffffff"/>
+<Module Name="BW" Port="5030" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="EPG类" NameEn="EPG Class" Checked="0">
+<Module Name="Browser" Port="5039" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="网络类" NameEn="NetWork Class" Checked="0">
+<Module Name="TR069" Port="5050" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="游戏类" NameEn="Game Class" Checked="0">
+<Module Name="NANO" Port="10011" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="可视通信类" NameEn="Visible Communication Class" Checked="0">
+<Module Name="BW" Port="5030" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+<Class Name="TVMS问题" NameEn="TVMS Issue" Checked="0">
+<Module Name="TVMS" Port="10012" Level="0x0000000f" TagValue="0xffffffff"/>
+</Class>
+</MonitorEngineer>
+</Engineer>

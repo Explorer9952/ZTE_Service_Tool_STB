@@ -1,0 +1,500 @@
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L3975)][GetInfo]:<[323150]> TvSetInfo::GetInfo: strFiledName[ErrpageReConFlag],strFiledValue=[0]
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ][25185708][6]RCT[0]iReply[0]
+
+14.795   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][52]RL[10240]
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L3975)][GetInfo]:<[323150]> TvSetInfo::GetInfo: strFiledName[IsAndroidTV],strFiledValue=[0]
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][6]RCT[0]iReply[0]
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][40]RL[10240]
+
+14.795   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][46]RCT[{"returncode":"0", "stbsystem":"Android"}]iReply[0]
+
+14.795   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.795   D/MCSP_Browser.webkit( 4877): #WebView# [setScaleXY]: currentwinname: DefaultFirstTab;need to set: scaleX:1.5,scaleY:1.5;bModifyImmediatelyAndFlush: false
+
+14.795   D/MCSP_Browser.webkit( 4877): #WebView# setScaleXY scale don't change,so do nothting! scaleX:1.5 scaleY:1.5
+
+14.795   D/MCSP_Browser.webkit( 4877): #TabControl# Finish SetEPGMode: CurrentEpgMode:4(1:PAL;2:NTSC;4:720P;6:1080I;8:1080P)
+
+14.809   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[ea48f920]tvms receive event, begin to process
+
+14.809   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[ea48f920]MsgType=[12599298]!
+
+14.809   D/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L1873)][OnEvent]:Recive MC_COMP_EVT_SET_EGP_MODE Event!!
+
+14.809   I/TV_Client.TagTv( 4819):  [5074][tv2vodcmd.cpp (L131)][SendEpgMode]:>>>--- MCSP_Media: CMD_VOD_PLAY_CTRL(0x424000) VOD_EPGSIZE_SET(0x44) nEpgMode=4
+
+14.809   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodServiceCallBack][993]:iMsgType=0x424000, datalen=24,playerId = 255, command = 68.
+
+14.809   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+14.809   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+14.809   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+14.809   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==4
+
+14.809   I/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L7543)][SetEpgModeAction_OnEvent]:strReply[{"EpgMode":4}]
+
+14.829   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xcf73c398,not registered func!!
+
+14.829   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'ReportErrCode','pszFieldValue':'1302'} ][25185708][85]RL[10240]
+
+14.829   E/TV_Client.TagTv( 4819):  [4838][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+14.829   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L410)][SetInfoPre]:<[323220]> TvSetInfo::SetInfoPre::iRet=     0, strFiledName=ReportErrCode
+
+14.829   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'ReportErrCode','pszFieldValue':'1302'} ][25185708][6]RCT[0]iReply[0]
+
+14.829   I/TV_Client.TagTv( 4819):  [5074][tvservicebase.cpp (L98)][ProcessMessage]:ASyncSrv [25184208,25184212]
+
+14.829   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L1480)][SetInfo]:<[323220]> TvSetInfo::SetInfo: strFiledName=ReportErrCode
+
+14.829   I/TV_Client.TagTv( 4819):  [5074][tvbasepro.cpp (L2111)][ReportErrCode]:ReportErrCode:strErrCode[1302]
+
+14.829   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html"}][25185708][169]RL[10240]
+
+14.829   I/TV_Client.TagTv( 4819):  [5353][tvlogin.cpp (L5429)][IsEqualsLoginUrl]:return false
+
+14.829   E/TV_Client.TagTv( 4819):  [5353][tvloginmsgpro.cpp (L3257)][CheckDataComeMsg]:local page[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html]! return -4
+
+14.830   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html"}][25185708][4]iReply[0]
+
+14.830   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+14.830   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = false
+
+14.830   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = true
+
+14.830   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.830   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.830   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+14.830   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+14.830   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+14.830   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+14.830   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+14.830   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+14.830   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+14.830   E/MCSP_SQM.SQM_ERROR( 4734): GetMEMValue [5690]:post sqm data error
+
+14.837   E/MCSP_SQM.SQM_ERROR( 4734): Sqm_GetMemRate [5741]:Find over
+
+14.837   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+14.837   E/NetManager.NetManager( 4845): [406] Fetch timer pevt:0xf1572c20, pevt->handle:0xf1572c20, cb:0xea0a8fc0, time:287
+
+14.837   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+14.837   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+14.890   I/BaseComp.mcsplog_debug( 4654): [724] add filter32: TV_Client.*:D
+
+14.890   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=TV_Client.*:D
+
+14.890   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+14.890   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=TV_Client, level=3
+
+14.890   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:TV_Client, loglevel:3
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [724] add filter33: STB_MC.*:D
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=STB_MC.*:D
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=STB_MC, level=3
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:STB_MC, loglevel:3
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [741] reach the end of string, got 33 filters
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [564] OnLogCmdStartSend: port=9022
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [615] req 192.168.100.11:9022
+
+14.895   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.895   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.895   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.895   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.895   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.895   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.895   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.895   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.895   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.895   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.895   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1252] i = 37, j = 33
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] logcat 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] -v 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] time 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] -s 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_LogServer.*:D 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] mcspcfg.*:D 
+
+14.895   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_ServiceMonitor.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_Dispatcher.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_KeyManager.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] NetManager.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_SQM.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] sqm.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MainCtrl.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] DECODER.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_Weston.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_VOD.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] GuiFacade.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_JavaWatch.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DIAL_SERVER.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_OSD_LOG.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DISKMG_LOG.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] stbcfg.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] QCS_Client.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_Browser.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] LocalServer.*:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] TVMS_Client.TVMS:D 
+
+14.896   I/BaseComp.mcsplog_debug( 4654): [1256] TVMS_Client.TVMS_FLW:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DLNAMANAGER.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] TestProxy.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] MSC_IPTV_Plugin.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] LocalPlayClient.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DLNADMP.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DLNADMR.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] MCSP_DLNAGEAPT.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] BaseComp.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] TV_Client.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1256] STB_MC.*:D 
+
+14.897   I/BaseComp.mcsplog_debug( 4654): [1332] ip=192.168.100.11, port=9022
+
+14.897   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.897   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.897   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.897   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.897   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.898   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.898   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.898   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.898   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.898   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.898   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.899   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.899   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.899   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.899   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.914   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.914   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.914   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.914   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.914   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.914   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+14.914   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.915   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.915   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.915   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.916   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.916   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.916   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.916   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.916   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.916   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.917   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.917   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.917   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.917   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.917   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.917   I/MCSP_SQM.SQM_INFO( 4734): SQMStaticsTimerCallback [1850]:[Sqm_Timer]SQMStaticsTimerCallback
+
+14.917   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6372]:g_SqmLastTime = 263800 uiNowTime = 327940
+
+14.917   I/MCSP_SQM.SQM_INFO( 4734): Sqm_HandleQosTimerEvent [6376]:uiTimeRemain = 64140 uiQFileInformTime= 300000 IsPostTime:0
+
+14.917   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.918   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.918   I/BaseComp.mcsplog_debug( 4654): [642] OnLogCmdStopSend: 
+
+14.918   I/BaseComp.mcsplog_debug( 4654): [1175] LogSession is running, stop it!
+
+14.918   I/NetManager.AcsAgent( 4845): [450] master_fetch_evt: select pwait->tv_secis 200000 
+
+14.918   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.918   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.918   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.918   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.919   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.919   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+14.919   I/BaseComp.mcsplog_debug( 4654): [1272] logtoolsend session end, thread_logtoolsend exit.
+
+14.919   I/BaseComp.mcsplog_debug( 4654): [470] OnLogCmdDisConnect
+
+14.919   I/BaseComp.mcsplog_debug( 4654): [126] DestroyOutput, iHandle=0
+
+14.938   I/BaseComp.mcsplog_debug( 4654): [180] done freeing argv
+
+14.938   I/BaseComp.mcsplog_debug( 4654): [189] done freeing output
+
+14.938   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+14.938   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+14.938   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+14.938   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.938   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+14.938   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.938   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+14.938   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.938   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+14.938   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+14.938   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+14.938   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]

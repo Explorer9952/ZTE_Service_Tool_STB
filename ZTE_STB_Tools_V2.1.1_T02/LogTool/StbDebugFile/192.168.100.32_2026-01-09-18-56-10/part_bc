@@ -1,0 +1,500 @@
+33.573   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.574   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.583   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.583   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5343)][GetLoginFlag]:GetLoginFlag:0
+
+33.586   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.589   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.684   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.687   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.689   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+33.689   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+33.690   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.690   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.690   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.690   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.691   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.693   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.693   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.695   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:memory is no szPrefName:netmanagercfg
+
+33.697   D/BaseComp.mcspcfg( 4654): MCSP_Pref_XmlFileLoad:netmanagercfg.xml is not exist.
+
+33.697   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:MCSP_Pref_XmlFileLoad is err.
+
+33.697   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-5
+
+33.699   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L471)][GetConfig]:nokey[netmanagercfg][WaitAuthTimeout], RET[4]
+
+33.700   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L1622)][GetSTBAdminStatus]:TvBaseConfigs::GetSTBAdminStatus not exist
+
+33.702   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.703   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:FccSwitch, Value:0
+
+33.707   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.708   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+33.710   I/TV_Client.TagTv( 4819):  [5074][tvutil.cpp (L1428)][GetHostFromURL]:Get Host success!l_strUrl=http://tv.zala.by:8080/iptvepg/platform/index.jsp, strHost=tv.zala.by
+
+33.710   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.714   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:HomePage, Value:http://tv.zala.by:8080/iptvepg/platform/index.jsp
+
+33.715   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.717   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=http://tv.zala.by:8080/iptvepg/platform/index.jsp --MCSP_Pref_GetString OK
+
+33.734   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[CSLoginState], nRet=0, strRet=false
+
+33.734   I/TV_Client.TagTv( 4819):  [5074][tvmainpage.cpp (L425)][OpenMainPage]:#TV#==>OpenHomePage:cmd : ztebw_open_url;handle : [174936731];url : [http://tv.zala.by:8080/iptvepg/platform/index.jsp];!bCloseFloatWin[1], bclearScreen[1]
+
+33.736   D/MCSP_Browser.webkit( 4877): [OperationService]:mcspReportJsonCmd:{'cmd':'ztebw_open_url','handle':174936731,'url':'http://tv.zala.by:8080/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login','clearScreen':'true'};len:1024;Reply:<, 2048>
+
+33.737   I/TV_Client.TagTv( 4819):  [5074][tvmainpage.cpp (L1427)][CloseAllFloatWin]:l_acReq={'cmd':'zebra_close_all_float_window','iNotifyClose':0}
+
+33.744   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [browserOpenURL]: not get recordHistoryIndex and set recordHistoryIndex to default value:false; InBWSceneChange: false
+
+33.794   D/MCSP_Browser.webkit( 4877): ## clearScreen:true
+
+33.794   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.795   D/MCSP_Browser.webkit( 4877): [OperationService]:mcspReportJsonCmd:{'cmd':'zebra_close_all_float_window','iNotifyClose':0};len:512;Reply:<, 2048>
+
+33.799   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.799   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.799   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1201 --MCSP_Pref_GetString OK
+
+33.799   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L1901)][PostEvt]:<[353780]> TvLoginMsgPro::PostEvt: iType=5
+
+33.799   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{MarketCode}; returnvalue{1201}; defaultvalue{fail}.
+
+33.800   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L1858)][StartLoginResultTimer]:TvLogin::StartLoginResultTimer
+
+33.805   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L593)][ReSetLRTStartTime]:TvLogin::ReSetLRTStartTime
+
+33.805   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.805   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.805   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.810   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1 --MCSP_Pref_GetString OK
+
+33.810   I/STB_MC.STB_MC( 4861): 6003[COMP_NotifyCallBack]: notify 0x18057d0!
+01-09 30.533 I/STB_MC.STB_MC( 4861): 
+
+33.810   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{OperatorsCode}; returnvalue{1}; defaultvalue{fail}.
+
+33.819   D/MCSP_Browser.webkit( 4877): #Controller# [loadUrl]:send HANDLE_SEND_OPENURL Message mIsOpenUrls=false,mIsOnNewIntented=false,tab.GetHeartBit=0,isTopTab_=true
+
+33.825   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L2788)][MiniLogin]:TvLogin::MiniLogin: success to send login request to browser, iType is: 1
+
+33.830   I/MCSP_SQM.SQM_INFO( 4734): Qos_HandIPTVEvent [2189]:EVENT_TVMINILOGIN_START
+
+33.830   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L1845)][Login]:TvLogin::Start AllLoginResultTimer!
+
+33.841   I/MCSP_SQM.SQM_INFO( 4734): Sqm_RecordBeginLoginEpg [8832]:[QosInfo] DomainFlag:1, OperMarCode:0 ipaddr:tv.zala.by lTime = 353780
+
+33.841   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[5353]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+33.841   I/MCSP_Browser.webkit( 4877): load: frame 0xd95cf000,parent 0x0,openURL=<http://tv.zala.by:8080/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login>,g_paintcontent_once=<1>,windowCount=<1>.
+
+33.841   D/MCSP_Browser.webkit( 4877): load frame=[0xd95cf000],begin to open the timer maxOutTime=[1.500000] to refresh fullsreen.
+
+33.841   D/MCSP_Browser.webkit( 4877): ztebw_webpage_jump_start: not registered, g_mapAPI.size is 161
+
+33.841   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0, openURL:[95]<http://tv.zala.by:8080/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login>
+
+33.841   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.841   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.841   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.841   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.841   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.841   D/MCSP_Browser.webkit( 4877): #Connection# get controlTimeout=15000ms
+
+33.841   I/NetManager.NetManager( 4845): [1262] Tr069EventCallBack ,ptMsg->iMsgType = 0x18057d0 
+
+33.841   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188309
+
+33.842   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.842   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.947   I/MCSP_Browser.webkit( 4877): #Tab# CloseAllTabsExceptSelf start! Self= {DefaultFirstTab} mTabs total count=1
+
+33.947   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[ea48f920]tvms receive event, begin to process
+
+33.947   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[ea48f920]MsgType=[25188304]!
+
+33.951   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.975   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.975   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.975   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.975   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+33.976   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.976   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.976   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.976   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 100%
+
+33.976   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.976   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-6
+
+33.976   E/TV_Client.tagtv_FLW( 4819):  [4924][ServerServiceCallBack]:[{'fieldname':'loginstate'}}][25184208][34]RL[1024]
+
+33.976   E/TV_Client.TagTv( 4819):  [4924][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184210
+
+33.976   I/TV_Client.TagTv( 4819):  [4924][tvlogin.cpp (L407)][iGetState]:TvLogin::GetState: m_tLoginState=1
+
+33.976   E/TV_Client.tagtv_FLW( 4819):  [4924][tvsetinfo.cpp (L3975)][GetInfo]:<[353800]> TvSetInfo::GetInfo: strFiledName[loginstate],strFiledValue=[1]
+
+33.977   E/TV_Client.tagtv_FLW( 4819):  [4924][ServerServiceCallBack]:[{'fieldname':'loginstate'}}][25184208][54]RCT[{"fieldvalue":"1","reserve":"","returncode":"0"}
+01-09 30.559 E/TV_Client.tagtv_FLW( 4819): ]iReply[0]
+
+33.977   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0,[301] openURL:[95]<https://tv.zala.by/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login>.
+
+33.977   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.977   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.977   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.977   D/MCSP_Browser.webkit( 4877): #Connection# get controlTimeout=15000ms
+
+33.977   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.978   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetString err, return number is:-6
+
+33.978   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.978   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.978   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.982   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.982   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:AutoStartIptv, Value:1
+
+33.982   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.982   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.982   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+33.982   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+33.984   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+33.984   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.984   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+33.984   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.984   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+33.987   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.987   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+33.987   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+33.987   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+33.987   D/MCSP_Browser.webkit( 4877): first HTTP response: Frame 0xd95cf000, type<text/html>, charset<utf8>, openURL:[95]
+
+33.988   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+33.988   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,1]!
+
+33.989   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.989   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+33.992   D/MCSP_Browser.webkit( 4877): m_shouldRecordOpenedUrls:0,m_RecordStateChanged:0,m_IncludeOpenedUrlOnce:95,m_EntryAddedTime:0,m_ExcludedAddedTime:0,timerfired:0
+
+33.992   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+33.992   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+33.992   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.992   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+33.992   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+33.992   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+33.994   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.994   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+33.994   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.994   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+33.994   I/MCSP_Browser.webkit( 4877): the window is visible[1],frame[0xd95cf000]
+
+33.995   D/MCSP_Browser.webkit( 4877): receivedFirstData and init focus settings!
+
+33.997   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+33.997   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+33.998   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+33.998   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+33.998   I/MCSP_Browser.webkit( 4877): setEncoding: <UTF-8>, EncodingSourceID<5>
+
+34.002   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 107,wasInsertedByParser:1
+
+34.002   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 34,this:0xcf7cf080,document:0xcf8bc600,body(0x0)
+
+34.002   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 108,wasInsertedByParser:1
+
+34.002   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 35,this:0xcf7cfb20,document:0xcf8bc600,body(0x0)
+
+34.002   D/MCSP_Browser.webkit( 4877): <ztebw_device_config_write: show_pageloadingbar>not registered!
+
+34.002   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+34.002   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.002   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.002   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.002   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.004   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.004   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.004   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.004   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.007   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.008   D/BaseComp.mcspcfg( 4654): Value didn't changed [no] = [no]!!!!
+
+34.008   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Cfg_PutString OK
+
+34.008   E/STB_MC.CfgCInterface( 4861): [MCSP_Pref_PutString]: Component=AndroidProComp, Section=Common, Key=show_pageloadingbar, Value=[no]
+
+34.008   I/MCSP_Browser.webkit( 4877): CfgWrite Success : section Common, name show_pageloadingbar, value no !
+
+34.011   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 109,wasInsertedByParser:1
+
+34.011   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 36,this:0xcf7d00c0,document:0xcf8bc600,body(0x0)
+
+34.011   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 110,wasInsertedByParser:1
+
+34.011   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 37,this:0xcf7d02a0,document:0xcf8bc600,body(0xcf7d0160)
+
+34.011   D/MCSP_Browser.webkit( 4877): <ztebw_device_config_write: show_pageloadingbar>not registered!
+
+34.011   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+34.011   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.012   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.014   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.014   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.014   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.014   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.014   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.018   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.018   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.018   D/BaseComp.mcspcfg( 4654): Value didn't changed [no] = [no]!!!!
+
+34.018   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Cfg_PutString OK
+
+34.018   E/STB_MC.CfgCInterface( 4861): [MCSP_Pref_PutString]: Component=AndroidProComp, Section=Common, Key=show_pageloadingbar, Value=[no]
+
+34.018   I/MCSP_Browser.webkit( 4877): CfgWrite Success : section Common, name show_pageloadingbar, value no !
+
+34.018   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/index.jsp"};Len:111
+
+34.020   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/index.jsp"}][25185708][111]RL[10240]
+
+34.020   I/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L3262)][CheckDataComeMsg]:is login page[https://tv.zala.by/iptvepg/platform/index.jsp]! return 0
+
+34.020   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[1]!
+
+34.021   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4449)][SetDataComeFlag]:SetDataComeFlag[1]!
+
+34.021   I/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L732)][OnService]:CMD_TV_LOGIN_CONN_DATACOME_ZEBRA
+
+34.021   E/TV_Client.tagtv_FLW( 4819):  [4849][tvloginmsgpro.cpp (L1901)][PostEvt]:<[353910]> TvLoginMsgPro::PostEvt: iType=13
+
+34.024   I/TV_Client.TagTv( 4819):  [4849][tv2apk.cpp (L983)][postEvtJni]:End  msgType[7300], cmdType[7303], nRet=[0]
+
+34.038   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/index.jsp"}][25185708][4]iReply[0]
+
+34.042   I/STB_MC.STB_MC( 4861): 6003[COMP_NotifyCallBack]: notify 0x18057d0!
+01-09 30.664 I/STB_MC.STB_MC( 4861): 
+
+34.042   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/index.jsp"};Len:111,Reply<, 0> imsgType:0x1804dac
+
+34.042   I/MCSP_Browser.webkit( 4877): Success_Download: main frame<0xd95cf000> url<https://tv.zala.by/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login>
+
+34.042   I/MCSP_Browser.webkit( 4877): reportHttpInfo: firstresponse:104 ms,finish:126 ms, iHTTPStatusCode=[200], openURL:[95]
+
+34.042   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428003, msgCmd = 0, iLen = 89, iSessionId = 0 buffer = {"cmd":"ztebw_report_httpinfo","iReportType":0,"pcInfoString":"NULL","iHTTPStatusCode":0}
+
+34.042   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.045   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.050   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.052   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.054   D/MCSP_Browser.webkit( 4877): PostEvent start! msgType = 428002, msgCmd = 0, iLen = 172, iSessionId = 0 buffer = {"cmd":"ztebw_http_rrt","lpUrl":"https://tv.zala.by/iptvepg/platform/index.jsp?UserID=220101086720001&Action=Login","dRRT":0.104000,"totalTime":0.126000,"isMainResource":1}
+
+34.060   I/NetManager.NetManager( 4845): [1262] Tr069EventCallBack ,ptMsg->iMsgType = 0x18057d0 
+
+34.060   D/MCSP_Browser.webkit( 4877): <ztebw_device_customsize_read: infoHWSN>not registered!
+
+34.060   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[4838]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+34.060   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.060   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.060   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.060   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.062   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+34.065   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): the tv login event cmd is 25188317
+
+34.070   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0597920]tvms receive event, begin to process
+
+34.070   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0597920]MsgType=[25188304]!
+
+34.070   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.070   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+34.070   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.070   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+34.070   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+34.072   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.072   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+34.072   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.074   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+34.080   I/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1141]:stay in EVENT_BROWSER_HTTP_REPORT_INFO
+
+34.080   I/MCSP_SQM.SQM_INFO( 4734): Qos_HandHttpInfo [2755]:ReportType 0!
+
+34.080   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+34.080   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+34.080   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+34.080   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+34.080   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.081   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:ProductID, Value:DD100299007042000000AC00D010E78A
+
+34.081   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+34.081   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=DD100299007042000000AC00D010E78A --MCSP_Pref_GetString OK
+
+34.085   I/MCSP_Browser.webkit( 4877): CfgRead Success : section Common, name infoHWSN, buf DD100299007042000000AC00D010E78A !
+
+34.085   I/MCSP_Browser.webkit( 4877): func_STBType: acStbType=[B860H] !
+
+34.087   I/MCSP_Browser.webkit( 4877): appendString dst is:B860H 
+
+34.087   D/MCSP_Browser.webkit( 4877): CTCGetConfig [STBType]=[B860H] from browser.
+
+34.091   D/MCSP_Browser.webkit( 4877): Page Jump: frame :0xd95cf000,parent null:0x0,url=<https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp?UserID=220101086720001&Action=Login&TerminalFlag=1&TerminalOsType=0&STBID=DD100299007042000000AC00D010E78A&stbtype=B860H>.
+
+34.091   D/MCSP_Browser.webkit( 4877): scheduleLocationChange set noRedirect=1
+
+34.091   D/MCSP_Browser.webkit( 4877): Document has not focused node. setInitialFocus is FocusDirectionForward for 2nd time!
+
+34.091   D/MCSP_Browser.webkit( 4877): advanceFocus: not setFocusedNode! framenew:0xd95cf000 frame:0xd95cf000 focusedNodeNew:0x0
+
+34.091   D/MCSP_Browser.webkit( 4877): setInitialFocus End! set focused node to Frame {:0xd95cf000} in Node {NULL:0x0}.
+
+34.091   D/MCSP_Browser.webkit( 4877): main frame[0xd95cf000] check completed!
+
+34.091   D/MCSP_Browser.webkit( 4877): ztebw_webpage_jump_over: not registered, g_mapAPI.size is 161
+
+34.091   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+34.092   I/MCSP_Browser.webkit( 4877): didFinishLoading: frame 0xd95cf000, resourceDatasize:[5458B], HTTPStatusCode 200, protocol HTTPS, openURL:[95]
+
+34.092   E/TV_Client.in_FLW( 4819):  [5074][tvloginmsgpro.cpp (L815)][OnEvent]:--->[IN]  [4358146][0],In OnEvent
+
+34.094   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5385)][SupportEdgeEpgMarket]:SupportEdgeEpgMarket:[0]
+
+34.094   E/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2449)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT:not care this evt
+
+34.095   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 36,nScriptNodeCreate=110,this:0xcf7cd780
+
+34.100   I/MCSP_Browser.webkit( 4877): loadURL:Frame 0xd95cf000,parent 0x0,openURL=<https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp?UserID=220101086720001&Action=Login&TerminalFlag=1&TerminalOsType=0&STBID=DD100299007042000000AC00D010E78A&stbtype=B860H>,g_paintcontent_once=<1>,windowCount=<1>.[GET]
+
+34.100   D/MCSP_Browser.webkit( 4877): load frame=[0xd95cf000],begin to open the timer maxOutTime=[1.500000] to refresh fullsreen.
+
+34.100   D/MCSP_Browser.webkit( 4877): ztebw_webpage_jump_start: not registered, g_mapAPI.size is 161
+
+34.100   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0, openURL:[97]<https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp?UserID=220101086720001&Action=Login&TerminalFlag=1&TerminalOsType=0&STBID=DD100299007042000000AC00D010E78A&stbtype=B860H>

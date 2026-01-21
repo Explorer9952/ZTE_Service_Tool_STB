@@ -1,0 +1,5 @@
+线程:9460l	19日 20时42分41秒	[StbInterface_Ex::Stb_ConnectStb]调用
+线程:9460l	19日 20时42分42秒	The 1 times to connect STB failed
+线程:9460l	19日 20时42分43秒	The 2 times to connect STB failed
+线程:9460l	19日 20时42分44秒	The 3 times to connect STB failed
+线程:9460l	19日 20时42分44秒	[StbInterface_Ex::Stb_DisconnectStb]调用

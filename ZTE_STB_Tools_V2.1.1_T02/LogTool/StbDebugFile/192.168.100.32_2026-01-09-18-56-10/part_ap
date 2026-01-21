@@ -1,0 +1,500 @@
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.064   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.064   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.064   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.064   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.065   E/MCSP_SQM.SQM_UP_INFO( 4734): handleUploadTaskMsg [62]:[CJ] handleUploadTaskMsg inter 
+
+15.065   E/MCSP_SQM.SQM_INFO( 4734): LogUpload [1332]:[CJ] LogUpload inter 
+
+15.065   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): the key need enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MacAddr, Value:AC:00:D0:10:E7:8A
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=AC:00:D0:10:E7:8A --MCSP_Pref_GetString OK
+
+15.065   I/MCSP_SQM.SQM_INFO( 4734): Sqm_GetNetIpAddr [4442]:strgatewayBuildin=0
+
+15.065   I/MCSP_SQM.SQM_INFO( 4734): Sqm_GetNetIpAddr [4451]:ipaddress:192.168.100.32
+
+15.065   I/MCSP_SQM.SQM_INFO( 4734): GetUplodeName [1417]:[GetUplodeName] cNetAddr=192.168.100.32
+
+15.065   I/MCSP_SQM.SQM_INFO( 4734): GetUplodeName [1420]:[GetUplodeName] ip1=192, ip2=168, ip3=100, ip4=32
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1201 --MCSP_Pref_GetString OK
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.065   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.065   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:QOSFileFormat, Value:3
+
+15.066   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:3
+
+15.066   I/MCSP_SQM.SQM_INFO( 4734): GetUplodeName [1473]:pFileNameOut=220101086720001_192-168-100-032_0301_2601091851_000210.csv
+
+15.066   I/MCSP_SQM.SQM_INFO( 4734): LogUpload [1342]:[upload_thread]pLogupload->Url=http://iqas.tv.zala.by:31088/webAccess/upload 
+
+15.066   I/MCSP_SQM.SQM_UP_INFO( 4734): gethost_ipaddress [626]:addr =iqas.tv.zala.by
+
+15.066   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.066   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.066   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.066   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.066   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.066   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.066   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.066   I/MCSP_SQM.SQM_UP_INFO( 4734): gethost_ipaddress [636]:status error
+
+15.066   E/MCSP_SQM.SQM_UP_ERR( 4734): HttpUpload [507]:ip is wrong
+
+15.067   I/MCSP_SQM.SQM_UP_INFO( 4734): handleUploadTaskMsg [247]:[upload_thread]nMsgID:UPLOAD_URL iRet:-1
+
+15.067   I/MCSP_SQM.SQM_INFO( 4734): Qos_Logupload_ProcessSocketMsg [2219]:receive UPLOAD_RSP result:-1
+
+15.067   I/MCSP_SQM.SQM_INFO( 4734): Sqm_ResetPostStat [6514]:flag=1 
+
+15.067   I/MCSP_SQM.SQM_INFO( 4734): Sqm_IncRetryPosttimes [6553]:g_retryposttimes:3
+
+15.067   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.067   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.067   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.067   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.067   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.067   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.068   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.068   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.068   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.068   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.068   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.068   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.074   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.074   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 99%
+
+15.074   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.074   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.074   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.074   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.075   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.075   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.075   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.075   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.075   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [435] OnLogCmdConnect: 
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [512] OnLogCmdAuthen: 7A2758748C80B90BB0B313EA250D7DA8
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [1051] encry=7A2758748C80B90BB0B313EA250D7DA8
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [531] authen OK
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [793] OnLogCmdGetModules: 
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [822] OnLogCmdGetModules: BaseComp,MCSP_KeyManager,MCSP_SQM,NetManager,STB_MC,TV_Client,MCSP_VOD,MCSP_Browser,MCSP_DLNA,MCSP_DLNAGEAPT,TVMS_Client,
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: BaseComp
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, BaseComp@eventmanager,mcspcfg,dispatcher,logsvr,mcsplog_debug,
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_KeyManager
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_KeyManager@wirelesskey,libiwirelesskey,Hotkey_comp,
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_SQM
+
+15.075   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_SQM@SQM_INFO,SQM_UP_INFO,SQM_WARN,SQM_ERROR,SQM_UP_ERR,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: NetManager
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, NetManager@NetManager,HttpServer,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: STB_MC
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, STB_MC@MC_CORE,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: TV_Client
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, TV_Client@TV_Client.TagTv,TV_Client.tagtv_FLW,TV_Client.timeperf_FLW,TV_Client.TagCommon,TV_Client.TAGQCS,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_VOD
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_VOD@RTSP_DEBUG_OUT,RTP_DEBUG_OUT,HTTP_DEBUG_OUT,QOSU_DEBUG_OUT,ASF_DEBUG_OUT,MPEG_DEBUG_OUT,MEMP_DEBUG_OUT,TIMER_DEBUG_OUT,IGMP_DEBUG_OUT,VOD_DEBUG_OUT,OSD_DEBUG_OUT,MEDIA_DATA_OUT,MDATA_DEBUG_OUT,DECODER_DEBUG_OUT,LOCAL_DEBUG_OUT,VOD_DRM_OUT,VOD_LUNBO_OUT,VOD_NETSTAT_OUT,VOD_RETRAN_OUT,RTCP_DEBUG_OUT,FEC_DEBUG_OUT,VOD_ERROR_OUT,IUDP_DEBUG_OUT,FCC_DEBUG_OUT,FCC_DATA_OUT,ZTESC_DEBUG_OUT,APPLEHTTP_DEBUG_OUT,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_Browser
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_Browser@webkit,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_DLNA
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_DLNA@DMR,DMS,DMP,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: MCSP_DLNAGEAPT
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, MCSP_DLNAGEAPT@DlnaGwApt,
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [834] OnLogCmdGetTags: TVMS_Client
+
+15.089   I/BaseComp.mcsplog_debug( 4654): [846] OnLogCmdGetTags: TAGs, TVMS_Client@TVMS_Client.TVMS,TVMS_FLW,
+
+15.089   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.089   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.090   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.090   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.090   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.090   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.090   I/BaseComp.mcsplog_debug( 4654): [758] OnLogCmdClearFilter: 
+
+15.090   I/BaseComp.mcsplog_debug( 4654): [1188] tool LogSession is not running, no need to stop!
+
+15.090   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+15.090   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+15.090   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+15.090   I/BaseComp.mcsplog_debug( 4654): [664] OnLogCmdAddFilter: MCSP_LogServer.*:D,mcspcfg.*:D,MCSP_ServiceMonitor.*:D,MCSP_Dispatcher.*:D,MCSP_KeyManager.*:D,NetManager.*:D,MCSP_SQM.*:D,sqm.*:D,MainCtrl.*:D,DECODER.*:D,MCSP_Weston.*:D,MCSP_VOD.*:D,GuiFacade.*:D,MCSP_JavaWatch.*:D,MCSP_DIAL_SERVER.*:D,MCSP_OSD_LOG.*:D,MCSP_DISKMG_LOG.*:D,stbcfg.*:D,QCS_Client.*:D,MCSP_Browser.*:D,LocalServer.*:D,TVMS_Client.TVMS:D,TVMS_Client.TVMS_FLW:D,MCSP_DLNAMANAGER.*:D,TestProxy.*:D,MSC_IPTV_Plugin.*:D,LocalPlayClient.*:D,MCSP_DLNADMP.*:D,MCSP_DLNADMR.*:D,MCSP_DLNAGEAPT.*:D,BaseComp.*:D,TV_Client.*:D,STB_MC.*:D,
+
+15.090   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.091   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+15.091   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.091   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [724] add filter1: MCSP_LogServer.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_LogServer.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_LogServer, level=3
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [724] add filter2: mcspcfg.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=mcspcfg.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=mcspcfg, level=3
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [724] add filter3: MCSP_ServiceMonitor.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_ServiceMonitor.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_ServiceMonitor, level=3
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [724] add filter4: MCSP_Dispatcher.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_Dispatcher.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_Dispatcher, level=3
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [724] add filter5: MCSP_KeyManager.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_KeyManager.*:D
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_KeyManager, level=3
+
+15.091   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:MCSP_KeyManager, loglevel:3
+
+15.092   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.092   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+15.092   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+15.092   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [724] add filter6: NetManager.*:D
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=NetManager.*:D
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=NetManager, level=3
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:NetManager, loglevel:3
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [724] add filter7: MCSP_SQM.*:D
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_SQM.*:D
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_SQM, level=3
+
+15.092   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:MCSP_SQM, loglevel:3
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [724] add filter8: sqm.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=sqm.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=sqm, level=3
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [724] add filter9: MainCtrl.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MainCtrl.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MainCtrl, level=3
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [724] add filter10: DECODER.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=DECODER.*:D
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.093   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=DECODER, level=3
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [724] add filter11: MCSP_Weston.*:D
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_Weston.*:D
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_Weston, level=3
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [724] add filter12: MCSP_VOD.*:D
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_VOD.*:D
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_VOD, level=3
+
+15.105   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:MCSP_VOD, loglevel:3
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [724] add filter13: GuiFacade.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=GuiFacade.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=GuiFacade, level=3
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [724] add filter14: MCSP_JavaWatch.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_JavaWatch.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_JavaWatch, level=3
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [724] add filter15: MCSP_DIAL_SERVER.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_DIAL_SERVER.*:D
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_DIAL_SERVER, level=3
+
+15.119   I/BaseComp.mcsplog_debug( 4654): [724] add filter16: MCSP_OSD_LOG.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_OSD_LOG.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_OSD_LOG, level=3
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [724] add filter17: MCSP_DISKMG_LOG.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_DISKMG_LOG.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_DISKMG_LOG, level=3
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [724] add filter18: stbcfg.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=stbcfg.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=stbcfg, level=3
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [724] add filter19: QCS_Client.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=QCS_Client.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=QCS_Client, level=3
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [724] add filter20: MCSP_Browser.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=MCSP_Browser.*:D
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=MCSP_Browser, level=3
+
+15.120   I/BaseComp.mcsplog_debug( 4654): [737] entering [NotifyLogLevelUpdate], update module:MCSP_Browser, loglevel:3
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [724] add filter21: LocalServer.*:D
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=LocalServer.*:D
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [185] entering SetLogModuleSwitch
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [191] SetLogModuleSwitch: mod=LocalServer, level=3
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [724] add filter22: TVMS_Client.TVMS:D
+
+15.126   I/BaseComp.mcsplog_debug( 4654): [204] AddOutputFilter, iHandle=0, filter=TVMS_Client.TVMS:D

@@ -1,0 +1,92 @@
+常见命令指引：
+
+远程连接
+adb connect 192.168.1.5:5557
+
+查看版本
+$ adb version
+
+查看连接设备
+$ adb devices
+
+从设备上下载文件到电脑
+adb pull <远程路径> <本地路径>
+
+传送文件到手机中,如：
+adb push recovery.img /sdcard/recovery.img
+
+进入shell
+adb shell
+
+显示帮助信息
+adb help
+
+获取设备的ROOT权限
+adb remount
+
+重启设备
+adb reboot [bootloader|recovery] adb reboot-bootloader 
+重启有三种方式：
+直接重启设备回到使用界面adb reboot即可
+重启设备到bootloader引导模式：adb reboot-bootloader或adb reboot bootloader
+重启到recovery刷机模式：adb reboot recovery
+
+安装一个apk，执行以下命令：
+adb install <apkfile>
+// 如: adb install demo.apk
+如果不是当前目录，则后面要跟路径名：
+adb install /Users/storm/temp/demo.apk
+保留数据和缓存文件，重新安装apk：
+adb install -r demo.apk
+安装apk到sd卡：
+adb install -s demo.apk
+
+直接卸载：
+adb uninstall <package>
+// 如：adb uninstall com.stormzhang.demo
+卸载 app 但保留数据和缓存文件：
+adb uninstall -k com.stormzhang.demo
+
+列出所有app的包名：
+adb shell pm list packages
+
+列出系统应用的所有包名：
+adb shell pm list packages -s
+
+列出除了系统应用的第三方应用包名：
+adb shell pm list packages -3
+
+使用 grep 来过滤：
+adb shell pm list packages | grep qq
+
+清除应用数据与缓存
+有些时候我们测试需要清除数据与缓存，则需要用到如下命令：
+adb shell pm clear <packagename>
+// 如：adb shell pm clear com.stormzhang.demo
+
+启动应用
+如果我们想要通过 adb 来启动应用
+adb shell am start -n com.stormzhang.demo/.ui.SplashActivity
+
+强制停止应用
+有些时候应用卡死了，需要强制停止，则执行以下命令：
+adb shell am force-stop <packagename>
+// 如：adb shell am force-stop cn.androidstar.demo
+
+查看日志
+adb logcat
+
+重启
+adb reboot
+
+获取序列号
+$adb get-serialno
+
+获取 MAC 地址
+$adb shell  cat /sys/class/net/wlan0/address
+
+查看设备型号
+$adb shell getprop ro.product.model
+
+查看 Android 系统版本
+$adb shell getprop ro.build.version.release

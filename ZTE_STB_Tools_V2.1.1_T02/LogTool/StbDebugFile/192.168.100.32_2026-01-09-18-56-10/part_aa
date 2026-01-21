@@ -1,0 +1,500 @@
+11.162   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (TV_Client) finish!!!!
+
+11.164   E/TV_Client.tagtv_FLW( 4819):  [4924][ServerServiceCallBack]:[{'fieldname':'isloginsucc'}][25184208][35]RL[1024]
+
+11.164   E/TV_Client.TagTv( 4819):  [4924][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184210
+
+11.164   E/TV_Client.tagtv_FLW( 4819):  [4924][tvsetinfo.cpp (L3975)][GetInfo]:<[42580]> TvSetInfo::GetInfo: strFiledName[isloginsucc],strFiledValue=[0]
+
+11.169   E/TV_Client.tagtv_FLW( 4819):  [4924][ServerServiceCallBack]:[{'fieldname':'isloginsucc'}][25184208][54]RCT[{"fieldvalue":"0","reserve":"","returncode":"0"}
+01-01 03:00:45.775 E/TV_Client.tagtv_FLW( 4819): ]iReply[0]
+
+11.200   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [NetGetStbIPRefactor][1983]:Curr netmode:Ethernet!!!!
+
+11.200   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [NetGetStbIPRefactor][1986]:netmode is ethernet--get  ethernet ip!!!!!!!
+
+11.202   I/MCSP_VOD.JNIKit.getCurStbIp( 4763): iIpVersion = 4  nettype =  0
+
+11.202   D/MCSP_VOD.VodService( 4763): start get the strJson!!!!
+
+11.215   I/BaseComp.EventManager( 4654): add service MCSP_DLNA(4804), handle = 0xf153bf80(0x44)
+
+11.219   I/BaseComp.IEventManager( 4804): BpEventManager: addService (MCSP_DLNA)
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_CanUpdateDRM][15074]:last update DRM time is 0, current time is 42640
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_CanUpdateDRM][15078]:One hour has passed, can update drm
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [VodSendMsg_initDRM][14789]:VOD:drmtype is not  VERIMATRIX_DRM !
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [VodSendMsg_initDRM][14798]:VOD:CONAX IPTV DRM !
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [VodSendMsg_initDRM][14908]:VOD:drmtype is not  UNITEND_DRM !
+
+11.232   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [vodOttDrmInit][14454]:VOD:VERIMATRIX_OTT_DRM !
+
+11.233   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [vodOttDrmInit][14475]:VOD:VERIMATRIX_OTT_DRM tVMClientObj.pfOttDrmSysInit NULL!
+
+11.241   I/BaseComp.EventManager( 4654): add service logclt_MCSP_DLNA(4804), handle = 0xf153bc80(0x45)
+
+11.243   I/MCSP_VOD.CONAXDRM_DEBUG_OUT( 4763): [InitializeCONAXDRM][257]:there is a callback transferred to here
+
+11.243   I/MCSP_VOD.CONAXDRM_DEBUG_OUT( 4763): [InitializeCONAXDRM][280]:CONAX PVS ADDR: https://p.anycast.nagra.com/provisioning/device/v1!
+
+11.244   I/MCSP_VOD.CONAXDRM_DEBUG_OUT( 4763): [InitializeCONAXDRM][288]:CONAX DVS ADDR: http://MainConaxDVS.tv.zala.by:8098/online/uniqueEntitlement/v1!
+
+11.246   I/MCSP_VOD.CONAXDRM_DEBUG_OUT( 4763): [InitializeCONAXDRM][296]:CONAX Operator Value ADDR: http://MainConaxOpvault.tv.zala.by:8098/offline/opvault/v1!
+
+11.246   I/MCSP_VOD.CONAXDRM_DEBUG_OUT( 4763): [InitializeCONAXDRM][307]:CONAX   use default operator value data!
+
+11.251   I/BaseComp.IEventManager( 4804): BpEventManager: addService (logclt_MCSP_DLNA)
+
+11.251   I/BaseComp.IEventManager( 4804): BpEventManager: checkService (MCSP_LogServer)
+
+11.251   E/TV_Client.in_FLW( 4819):  [5074][tvloginmsgpro.cpp (L815)][OnEvent]:--->[IN]  [25186808][0],In OnEvent
+
+11.253   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L1017)][OnNetConnect]:<[42650]> TvLoginMsgPro::OnNetConnect
+
+11.253   I/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L3321)][StopNetConnectTimer]:OnNetConnect,stop m_NetConnectTimer!
+
+11.254   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser)
+
+11.259   I/BaseComp.EventManager( 4654): process 4804 check service MCSP_LogServer, found at index [5], handle = 0xe77dc544
+
+11.259   I/BaseComp.EventManager( 4654): process 4819 check service MCSP_Browser, found at index [56], handle = 0xf153bf40
+
+11.261   I/BaseComp.IEventManager( 4804): BpEventManager: checkService (MCSP_LogServer) finish!!!!
+
+11.263   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser) finish!!!!
+
+11.263   I/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L1046)][OnNetConnect]:Login start
+
+11.264   E/TV_Client.tagtv_FLW( 4819):  [5074][tvloginmsgpro.cpp (L427)][ReadyForLogin]:<[42650]> #TV#==>TvLoginMsgPro::ReadyForLogin
+
+11.266   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3515)][ClearTVChannelini]:strChannelPath[]
+
+11.266   I/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3522)][ClearTVChannelini]:fail to open file[]
+
+11.272   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3538)][DelTVChanneliniDir]:strChannelPathPre[]
+
+11.272   D/MCSP_VOD.VodService( 4763): strKey=ip,iNetType=9,strRet=192.168.100.32,strJson={"nettype":9,"LinkProperties":[{"ip":"192.168.100.32","dns2":"","gateway":"192.168.100.1","mask":"255.255.255.0","ver":4,"dns1":"192.168.100.108"},{"ip":"","prefixlength":0,"dns2":"","gateway":"","ver":6,"dns1":""}]}
+
+11.272   D/MCSP_VOD.VodService( 4763): IpVersion = 4  nettype:9 ip:192.168.100.32
+
+11.272   D/MCSP_VOD.jni( 4763): [getCurStbIp][1038]getCurStbIp return CurIp =  192.168.100.32
+
+11.272   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [NetGetStbIPRefactor][1989]:get ip !!!!urrent ip:192.168.100.32!!!!!
+
+11.272   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [NetGetStbIPRefactor][1993]:vod get stb ip,strIP = 192.168.100.32 !!!
+
+11.272   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [NetGetStbIPRefactor][2033]:netmode:Ethernet, IpAddr is 192.168.100.32 len=14!
+
+11.272   I/MCSP_VOD.ZTESC_DEBUG_OUT( 4763): [ztesc_GetSTBLocalIpAddr][5756]:Local IpAddr is: 192.168.100.32!
+
+11.273   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [Local_SetLocalIP][6369]:[CFG DEBUG] Set Local IP :192.168.100.32!
+
+11.273   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetHostIP][10799]:[CFG DEBUG] Set host IP :, aux ip:!
+
+11.274   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetHostIP][10806]:[CFG DEBUG] Set host IP :192.168.100.32!
+
+11.276   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetHostIP][10831]:[CFG DEBUG] Set acHostIP IP :192.168.100.32!
+
+11.276   I/MCSP_VOD.ZTESC_DEBUG_OUT( 4763): [ztesc_GetSTBLocalIpAddr][5777]:NetType = 1, ETH0 IP is 192.168.100.32!
+
+11.276   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [Local_SetEth0IP][6406]:[CFG DEBUG] Set Eth0 IP :192.168.100.32!
+
+11.281   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [Local_SetEth0IP][6411]:[CFG DEBUG] Set Eth0 IP Local IP :192.168.100.32,192.168.100.32!
+
+11.281   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [Local_SetEth0IP][6456]:[CFG DEBUG] Set Eth0 IP  Local IP :192.168.100.32,192.168.100.32!
+
+11.281   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetAuxIP][10859]:[CFG DEBUG] Set host IP :192.168.100.32, aux ip:!
+
+11.281   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetAuxIP][10867]:[CFG DEBUG] Set Eth0 IP :192.168.100.32!
+
+11.281   I/MCSP_VOD.RTSP_DEBUG_OUT( 4763): [SetAuxIP][10892]:[CFG DEBUG] Set host IP :192.168.100.32, aux ip:192.168.100.32!
+
+11.282   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_MaybeIpChange][25483]:IP not changed, last ip:, current ip:192.168.100.32
+
+11.282   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[4000], cmdType[4019], key[IsStopLoginState], nRet=0, strRet=false
+
+11.282   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser)
+
+11.282   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodGetCfgDispatch][2071]:##Get modetype = 8
+
+11.282   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [ReadVersionInfo][79]:/data/data/com.zte.zteplayer/files/gitinfo.txt read eof.
+
+11.282   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [InitCommonTaskMsgManager][32]:InitCommonTaskMsgManager successfully!
+
+11.282   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [StartCommonTaskThread][193]:created StartCommonTaskThread!.
+
+11.283   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [Probe_EvtProcess][389]:Probe_EvtProcess,usMsg=0!
+
+11.284   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SendMsgToBW][2408]:VOD:Send to Subt success,usMsg=2140,lParam=0,mediaType=0!
+
+11.286   I/MCSP_VOD.VOD_STATE_OUT( 4763): [MP_MC_SendControlMsg][184]:SendMsgToBW: usCommand=[2140] : parameter=[0] 
+
+11.287   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [HAL_GetHDMIInfo][2015]:pfHAL_GetHDMIInfo in.
+
+11.297   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [HAL_GetHDMIInfo][2017]:pfHAL_GetHDMIInfo ret=0.
+
+11.297   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MP_MC_SendControlMsg][2241]:VOD_GET_HDMI_INFO lparam is:,576*720
+
+11.297   I/MCSP_VOD.TIMER_DEBUG_OUT( 4763): [GetTimeQueue][54]:Timer Inited!
+
+11.302   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.302   I/BaseComp.EventManager( 4654): process 4819 check service MCSP_Browser, found at index [56], handle = 0xf153bf40
+
+11.302   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SendMsgToBW][2408]:VOD:Send to Subt success,usMsg=2092,lParam=0,mediaType=0!
+
+11.302   I/MCSP_VOD.VOD_STATE_OUT( 4763): [MP_MC_SendControlMsg][184]:SendMsgToBW: usCommand=[2092] : parameter=[0] 
+
+11.302   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MP_MC_SendControlMsg][2283]:send EVT_VOD_PREPARE_SUCCESSFUL!
+
+11.302   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (MCSP_Browser) finish!!!!
+
+11.304   I/MCSP_VOD.VOD_STATE_OUT( 4763): [MP_MC_SendControlMsg][184]:SendMsgToBW: usCommand=[2061] : parameter=[4763] 
+
+11.307   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MP_MC_SendControlMsg][1710]:vod:VOD_CLEAR_IPTV_PLAYERS
+
+11.307   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+11.307   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+11.307   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+11.307   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==6
+
+11.307   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+11.307   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+11.309   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+11.311   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==6
+
+11.311   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [0],iCmdType = 72,iSessionID=0
+
+11.311   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [startDecThread][98]:startDecThread success ,id = 0.
+
+11.311   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L471)][GetConfig]:nokey[Common][ShowFirstUpFlag], RET[4]
+
+11.311   E/TV_Client.TagTv( 4819):  [5074][tvbaseconfigs.cpp (L3034)][GetShowFirstUpFlag]:TvBaseConfigs::GetShowFirstUpFlag not exist
+
+11.313   E/MCSP_SQM.SQM_INFO( 4734): Qos_HandVODEvent [1747]:EVT_SEND_HDMI_INFO!!!iMsgType : 2092
+
+11.323   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [DecThreadLoop][441]:DecThreadLoop begins, iThreadId = 0, threadName is DEC_THREAD_0.
+
+11.324   I/MCSP_VOD.TIMER_DEBUG_OUT( 4763): [GetTimeQueue][54]:Timer Inited!
+
+11.327   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcAppASyncEvt][4621]:VOD:Recv BW EVT, cmd=VOD_EVT_CMD
+
+11.327   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcAppASyncEvt][4631]:VOD:Recv BW EVT iCmdType = 20987911
+
+11.327   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_CanUpdateDRM][15074]:last update DRM time is 42640, current time is 42700
+
+11.327   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_CanUpdateDRM][15083]:less than One hour, cannot update drm
+
+11.327   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [SC_Get_CpuRateInfo][21107]:[SC_Get_CpuRateInfo]:first enter
+
+11.328   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 0%
+
+11.332   I/BaseComp.EventManager( 4654): add service MCSP_DLNADMR(4804), handle = 0xea226ac0(0x46)
+
+11.332   I/BaseComp.IEventManager( 4804): BpEventManager: addService (MCSP_DLNADMR)
+
+11.338   I/TV_Client.TagTv( 4819):  [5074][tv2apk.cpp (L1016)][getInfoFromTVApk]:End msgType[7000], cmdType[7001], key[], nRet=0, strRet=ETHERNET
+
+11.338   E/TV_Client.tagtv_FLW( 4819):  [5074][tvsetinfo.cpp (L4937)][getNetMode]:<[42710]> getNetMode, property_get [net.zte.netmode] is[ETHERNET],len [8]
+
+11.343   I/BaseComp.EventManager( 4654): No component subscribe event [0x10425001]!
+
+11.343   I/BaseComp.IEventManager( 4819): BpEventManager: checkService (AP_C_UP)
+
+11.343   I/BaseComp.EventManager( 4654): process 4819 check service AP_C_UP, found at index [34], handle = 0xea226840
+
+11.343   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.348   I/BaseComp.IEventManager( 4734): BpEventManager: checkService (MCSP_NetManager)
+
+11.348   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/index.jsp"}][25185708][4]iReply[0]
+
+11.348   I/BaseComp.EventManager( 4654): process 4734 check service MCSP_NetManager, found at index [37], handle = 0xea226700
+
+11.353   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.353   I/BaseComp.IEventManager( 4734): BpEventManager: checkService (MCSP_NetManager) finish!!!!
+
+11.353   I/BaseComp.EventManager( 4654): add service MCSP_DLNAGEAPT(5248), handle = 0xf153bfc0(0x48)
+
+11.353   E/NetManager.NetManager( 4845): [511] ptMsg->iMsgType=4309249=0x41c101
+
+11.353   E/NetManager.NetManager( 4845): [517] MSG_NM_MODEL_DISP_REG
+
+11.358   I/BaseComp.IEventManager( 5248): BpEventManager: addService (MCSP_DLNAGEAPT)
+
+11.358   I/MSC_IPTV_Plugin.DLNA( 4819): [msciptvpluginimp.cpp (L356)][ServerEventCallBack]:[4838]:<<<<<<<< MsgType=[25188304] >>>>>>>>
+
+11.363   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.363   D/MCSP_Browser.webkit( 4877): #WebView# [setScaleXY]: currentwinname: DefaultFirstTab;need to set: scaleX:1.5,scaleY:1.5;bModifyImmediatelyAndFlush: false
+
+11.363   D/MCSP_Browser.webkit( 4877): #TabControl# Finish SetEPGMode: CurrentEpgMode:4(1:PAL;2:NTSC;4:720P;6:1080I;8:1080P)
+
+11.363   E/MCSP_Browser.webkit( 4877): [setSTBConfigByBrowser] value is:0xd09e2078,not registered func!!
+
+11.363   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.363   I/BaseComp.EventManager( 4654): No component subscribe event [0x118057d0]!
+
+11.364   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.368   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 0%
+
+11.368   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'SetEpgMode','pszFieldValue':'720P'} ][25185708][82]RL[10240]
+
+11.368   E/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L910)][OnPreAsyncSrv]:OnPreAsyncSrv start 25184212
+
+11.368   W/TV_Client.TagTv( 4819):  [4849][tvsetinfo.cpp (L402)][SetInfoPre]:FiledName[SetEpgMode][4] is out of define, so set in hash
+
+11.368   E/TV_Client.tagtv_FLW( 4819):  [4849][tvsetinfo.cpp (L410)][SetInfoPre]:<[43790]> TvSetInfo::SetInfoPre::iRet=101010, strFiledName=SetEpgMode
+
+11.368   I/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L953)][OnPreAsyncSrv]:SetInfoPre ret immediately!SetEpgMode
+
+11.373   I/TV_Client.TagTv( 4819):  [4849][tvplugin.cpp (L1332)][OnService]:ServicePreTra immediately [999], return!!!
+
+11.373   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{'cmd':'CTCSetConfig','pszFieldName':'SetEpgMode','pszFieldValue':'720P'} ][25185708][6]RCT[0]iReply[0]
+
+11.373   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+11.374   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+11.374   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+11.374   E/NetManager.NetManager( 4845): [1814] logcat hide Print
+
+11.374   E/TV_Client.in_FLW( 4819):  [5074][tvloginmsgpro.cpp (L815)][OnEvent]:--->[IN]  [4358146][0],In OnEvent
+
+11.378   I/TV_Client.TagTv( 4819):  [5074][tvlogin.cpp (L5385)][SupportEdgeEpgMarket]:SupportEdgeEpgMarket:[0]
+
+11.378   E/TV_Client.TagTv( 4819):  [5074][tvloginmsgpro.cpp (L2449)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT:not care this evt
+
+11.378   E/NetManager.NetManager( 4845): [1831] logcat hide Print
+
+11.378   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.379   I/BaseComp.EventManager( 4654): add service logclt_MCSP_DLNAGEAPT(5248), handle = 0xf153bac0(0x49)
+
+11.381   E/MCSP_SQM.SQM_INFO( 4734): SQMEventCallBack [1126]:stay in EVENT_BROWSER_HTTP_RRT
+
+11.381   E/MCSP_SQM.SQM_ERROR( 4734): Qos_HandHttpRrt [2691]:Qos_HandHttpRrtEvent  iRet[0]
+
+11.381   I/BaseComp.IEventManager( 5248): BpEventManager: addService (logclt_MCSP_DLNAGEAPT)
+
+11.381   I/BaseComp.IEventManager( 5248): BpEventManager: checkService (MCSP_LogServer)
+
+11.384   I/TV_Client.TagTv( 4819):  [4849][prehandle.cpp (L1215)][OnEvtBrowserHttpRRT]:OnEvtBrowserHttpRRT,l_strRtnJson is [{"cmd":"ztebw_http_rrt","lpUrl":"https://tv.zala.by/iptvepg/js/setConfig.js","dRRT":0.395000,"totalTime":0.396000,"isMainResource":0}],url[https://tv.zala.by/iptvepg/js/setConfig.js]
+
+11.384   I/BaseComp.EventManager( 4654): process 5248 check service MCSP_LogServer, found at index [5], handle = 0xe77dc544
+
+11.384   E/STB_MC.CfgCInterface( 4861): [MCSP_Pref_PutString]: Component=AndroidProComp, Section=Common, Key=show_pageloadingbar, Value=[no]
+
+11.389   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.389   E/NetManager.AcsAgent( 4845): [2002] GetWaitAuthTimeout failed B, sleep 1S, updateState = 0, g_updateState = 0
+
+11.389   D/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L1873)][OnEvent]:Recive MC_COMP_EVT_SET_EGP_MODE Event!!
+
+11.394   I/TV_Client.TagTv( 4819):  [5074][tv2vodcmd.cpp (L131)][SendEpgMode]:>>>--- MCSP_Media: CMD_VOD_PLAY_CTRL(0x424000) VOD_EPGSIZE_SET(0x44) nEpgMode=4
+
+11.394   I/BaseComp.IEventManager( 5248): BpEventManager: checkService (MCSP_LogServer) finish!!!!
+
+11.394   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+11.394   E/NetManager.NetManager( 4845): [1848] logcat hide Print
+
+11.394   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodServiceCallBack][993]:iMsgType=0x424000, datalen=24,playerId = 255, command = 68.
+
+11.394   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+11.395   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+11.395   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+11.395   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==4
+
+11.395   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.399   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+11.399   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+11.399   I/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L7543)][SetEpgModeAction_OnEvent]:strReply[{"EpgMode":4}]
+
+11.399   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428003]!
+
+11.399   E/NetManager.NetManager( 4845): [1865] logcat hide Print
+
+11.399   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNEnable, nRet = -1
+
+11.400   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.400   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=STUNEnable, strBuffer=1, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.403   E/NetManager.NetManager( 4845): [1629] Get STUNEnable nRet = 0, value = 1
+
+11.403   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNServerAddress, nRet = -1
+
+11.403   I/BaseComp.EventManager( 4654): No component subscribe event [0x10428002]!
+
+11.403   E/STB_MC.CfgCInterface( 4861): [MCSP_Pref_PutString]: Component=AndroidProComp, Section=Common, Key=show_pageloadingbar, Value=[no]
+
+11.403   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+11.406   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+11.406   D/MCSP_Browser.webkit( 4877): #WebView# pinScrollTo: need to scroll dx = 0; dy = 0; animate = false
+
+11.409   D/MCSP_Browser.webkit( 4877): #WebView# changing resolution, so don't refresh screen now
+
+11.409   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.409   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=STUNServerAddress, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.409   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNServerPort, nRet = -1
+
+11.409   D/MCSP_Browser.webkit( 4877): #WebView# waiting for new picture, just draw background color!
+
+11.414   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.414   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=STUNServerPort, strBuffer=3478, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.414   E/NetManager.NetManager( 4845): [1645] Get STUNServerPort nRet = 0, value = 3478
+
+11.415   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNUsername, nRet = -1
+
+11.415   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.415   D/MCSP_Browser.webkit( 4877): #Connection# get controlTimeout=15000ms
+
+11.415   D/MCSP_Browser.webkit( 4877): #WebView# waiting for new picture, just draw background color!
+
+11.415   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.415   E/NetManager.NetManager( 4845): [334] logcat hide Print
+
+11.415   E/NetManager.NetManager( 4845): [1662] logcat hide Print
+
+11.415   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNPassword, nRet = -1
+
+11.416   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+11.420   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.420   E/NetManager.NetManager( 4845): [329] logcat hide Print
+
+11.420   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNMaxKeepAlivePer, nRet = -1
+
+11.420   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.420   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=STUNMaxKeepAlivePer, strBuffer=180, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.420   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=STUNMiniKeepAlivePer, nRet = -1
+
+11.420   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.420   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=STUNMiniKeepAlivePer, strBuffer=60, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.420   E/NetManager.NetManager( 4845): [1781] GetAcsString STUNMiniKeepAlivePer  return value = 60
+
+11.420   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=WaitForBindHBRespon, nRet = -1
+
+11.424   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.424   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=WaitForBindHBRespon, strBuffer=0, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+11.424   E/NetManager.NetManager( 4845): [2638] logcat hide Print
+
+11.425   E/NetManager.NetManager( 4845): [2634] logcat hide Print
+
+11.425   E/NetManager.NetManager( 4845): [2638] logcat hide Print
+
+11.425   E/NetManager.NetManager( 4845): [2634] logcat hide Print
+
+11.425   E/NetManager.NetManager( 4845): [2638] logcat hide Print
+
+11.425   E/NetManager.NetManager( 4845): [2634] logcat hide Print
+
+11.425   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.430   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+11.430   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.430   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+11.430   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.430   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+11.430   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.430   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.430   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+11.430   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+11.434   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodTimeFunc][4087]:ERROR Zte_probe does not exist.
+
+11.434   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.435   I/MCSP_VOD.VOD-STAT( 4763): lost_rate 0, recv_rate 0kbps, coding_rate 0kbps, jitter_ 0ms, time_delay 0ms, system_cpu_percent 0%
+
+11.435   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+11.437   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.440   E/MCSP_DLNAGEAPT.DlnaGwApt( 5248): ReInitMcspLog INIT OK
+
+11.440   I/BaseComp.IEventManager( 5248): BpEventManager: checkService (mcspcfg)
+
+11.440   W/BaseComp.EventManager( 4654): process 4654 check service STB_MAINCENTER failed, didn't find
+
+11.440   I/BaseComp.EventManager( 4654): process 5248 check service mcspcfg, found at index [1], handle = 0xe77dc404
+
+11.444   E/NetManager.NetManager( 4845): [349] GetAcsString: pSection=Common_ext, pstrName=SubACSUserName, nRet = -6
+
+11.444   E/NetManager.NetManager( 4845): [1809] logcat hide Print
+
+11.444   I/BaseComp.IEventManager( 5248): BpEventManager: checkService (mcspcfg) finish!!!!
+
+11.445   E/NetManager.NetManager( 4845): [349] GetAcsString: pSection=Common_ext, pstrName=SubACSPassword, nRet = -6
+
+11.445   E/NetManager.NetManager( 4845): [1826] logcat hide Print
+
+11.449   E/STB_MC.CfgCInterface( 4861): [MCSP_Pref_PutString]: Component=AndroidProComp, Section=Common, Key=show_pageloadingbar, Value=[no]
+
+11.451   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"}][25185708][121]RL[10240]
+
+11.451   I/TV_Client.TagTv( 4819):  [4849][tvloginmsgpro.cpp (L3262)][CheckDataComeMsg]:is login page[https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp]! return 0
+
+11.451   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4461)][SetNowLoginDatacom]:SetNowLoginDatacom[1]!
+
+11.451   I/TV_Client.TagTv( 4819):  [4849][tvlogin.cpp (L4449)][SetDataComeFlag]:SetDataComeFlag[1]!
+
+11.451   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"https://tv.zala.by/iptvepg/platform/getencrypttoken.jsp"}][25185708][4]iReply[0]
+
+11.451   E/NetManager.NetManager( 4845): [349] GetAcsString: pSection=Common_ext, pstrName=SubCPEUserName, nRet = -6
+
+11.451   E/NetManager.NetManager( 4845): [1843] logcat hide Print
+
+11.454   E/NetManager.NetManager( 4845): [349] GetAcsString: pSection=Common_ext, pstrName=SubCPEPassword, nRet = -6
+
+11.454   E/NetManager.NetManager( 4845): [1860] logcat hide Print
+
+11.456   E/NetManager.NetManager( 4845): [324] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, nRet = -1
+
+11.459   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+11.460   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=SubSTUNEnable, strBuffer=0, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini

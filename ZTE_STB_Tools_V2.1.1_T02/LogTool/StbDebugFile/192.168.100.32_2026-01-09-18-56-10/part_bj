@@ -1,0 +1,500 @@
+
+43.906   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.906   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.906   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.906   I/BaseComp.EventManager( 4654): process 4819 check service Disp_From_MCSP_Browser, found at index [57], handle = 0xe8a32e80
+
+43.907   D/MCSP_Browser.webkit( 4877): BWCfgDispCallBack start! op{1:READ}, section = Common, key = GetEpgMode
+
+43.907   I/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [ztebw_getenv]: quest cmdJson :{"cmd":"ztebw_getenv","name":"GetEpgMode"}; return : 4
+
+43.907   I/TV_Client.TagTv( 4819):  [13061][tvutil.cpp (L977)][ConvertEpgModeToIntValue]:End: strEpgMode=4, strOut=4, nEpgMode=4
+
+43.907   I/TV_Client.TagTv( 4819):  [13061][tvutil.cpp (L1056)][GetStrEpgMode]:End: nEpgMode=4, strEpgMode=720P
+
+43.907   I/TV_Client.TagTv( 4819):  [13061][tvbasepro.cpp (L1375)][GetConfigEpgModeStr]:strEpgMode=720P, nEpgMode=4
+
+43.907   E/TV_Client.TagTv( 4819):  [13061][tvlogin.cpp (L3941)][ShowErrPage]:TvLogin::ShowErrPage,iType[2],url[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1]
+
+43.907   I/TV_Client.TagTv( 4819):  [13061][tvmainpage.cpp (L425)][OpenMainPage]:#TV#==>OpenHomePage:cmd : ztebw_open_url;handle : [174936731];url : [file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html];!bCloseFloatWin[0], bclearScreen[0]
+
+43.912   D/MCSP_Browser.webkit( 4877): [OperationService]:mcspReportJsonCmd:{'cmd':'ztebw_open_url','handle':174936731,'url':'file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1'};len:1024;Reply:<, 2048>
+
+43.912   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+43.912   E/NetManager.NetManager( 4845): [1031] logcat hide Print
+
+43.912   I/NetManager.NetManager( 4845): [1032] Result:-6, File:/data/user/0/com.zte.netmanager/files/xml/netmanagercfg.eini, Get [netmanagercfg]ErrorCodeInterval=******
+
+43.912   E/NetManager.NetManager( 4845): [339] GetAcsString: pSection=netmanagercfg, pstrName=ErrorCodeInterval, strBuffer=, g_acNMcfgPath = /data/user/0/com.zte.netmanager/files/xml/netmanagercfg.ini
+
+43.912   E/NetManager.NetManager( 4845): [823] no need send Errorcode,iErrorCodeSwitch=0,iErrorCodeInterval=0
+
+43.913   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [browserOpenURL]: not get clearscreen and set clearscreen to default value: false; InBWSceneChange: false
+
+43.913   D/MCSP_Browser.webkit( 4877): #BrowserInterface.helper# [browserOpenURL]: not get recordHistoryIndex and set recordHistoryIndex to default value:false; InBWSceneChange: false
+
+43.913   D/MCSP_Browser.webkit( 4877): ## clearScreen:false
+
+43.913   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.913   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+43.913   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.913   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1201 --MCSP_Pref_GetString OK
+
+43.913   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{MarketCode}; returnvalue{1201}; defaultvalue{fail}.
+
+43.913   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.913   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+43.913   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.913   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=1 --MCSP_Pref_GetString OK
+
+43.913   I/MCSP_Browser.webkit( 4877): #IptvKitBridge# [ReadStrFromCfgmanager]:read section{Common}; name{OperatorsCode}; returnvalue{1}; defaultvalue{fail}.
+
+43.913   D/MCSP_Browser.webkit( 4877): #Controller# [loadUrl]:send HANDLE_SEND_OPENURL Message mIsOpenUrls=false,mIsOnNewIntented=false,tab.GetHeartBit=0,isTopTab_=true
+
+43.913   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.914   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.914   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.914   I/MCSP_Browser.webkit( 4877): load: frame 0xd95cf000,parent 0x0,openURL=<file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1>,g_paintcontent_once=<1>,windowCount=<1>.
+
+43.914   D/MCSP_Browser.webkit( 4877): load frame=[0xd95cf000],begin to open the timer maxOutTime=[1.500000] to refresh fullsreen.
+
+43.914   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0, openURL:[103]<file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1>
+
+43.914   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.914   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.914   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.914   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.914   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+43.914   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.914   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+43.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.915   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+43.915   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.915   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+43.915   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.915   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.918   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.919   D/MCSP_Browser.webkit( 4877): first HTTP response: Frame 0xd95cf000, type<text/html>, charset<>, openURL:[103]
+
+43.919   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.920   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,1]!
+
+43.920   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.920   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.920   D/MCSP_Browser.webkit( 4877): m_shouldRecordOpenedUrls:0,m_RecordStateChanged:0,m_IncludeOpenedUrlOnce:95,m_EntryAddedTime:0,m_ExcludedAddedTime:0,timerfired:0
+
+43.920   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.920   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.929   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.929   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.930   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.930   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.930   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.930   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.930   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.930   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.930   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.930   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.930   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.930   I/MCSP_Browser.webkit( 4877): the window is visible[1],frame[0xd95cf000]
+
+43.930   D/MCSP_Browser.webkit( 4877): receivedFirstData and init focus settings!
+
+43.931   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.932   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.932   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.932   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.932   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.932   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.932   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.932   I/MCSP_Browser.webkit( 4877): setEncoding: <UTF-8>, EncodingSourceID<1>
+
+43.932   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 120,wasInsertedByParser:1
+
+43.932   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 35,this:0xcf7d0ca0,document:0xcf8bc600,body(0x0)
+
+43.932   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 121,wasInsertedByParser:1
+
+43.933   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 36,this:0xcf7d07a0,document:0xcf8bc600,body(0x0)
+
+43.933   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.933   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.933   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.934   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"GetStbType","session":0};Len:40
+
+43.934   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][40]RL[10240]
+
+43.934   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][46]RCT[{"returncode":"0", "stbsystem":"Android"}]iReply[0]
+
+43.934   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"GetStbType","session":0};Len:40,Reply<{"returncode":"0", "stbsystem":"Android"}, 42> imsgType:0x0
+
+43.934   I/MCSP_Browser.webkit( 4877): JS alert: GetStbSystem=Android 
+
+43.935   I/MCSP_Browser.webkit( 4877): JS alert: Loginerror===>userEpgMode:720P|errorType:2|marketCode:1201|operatorCode:1|sendParam:type=2&marketcode=1201&operatorscode=1 
+
+43.935   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+43.935   D/MCSP_Browser.webkit( 4877): <CTCGetConfig: IsAndroidTV>not registered!
+
+43.935   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ;Len:52
+
+43.935   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][52]RL[10240]
+
+43.935   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L3975)][GetInfo]:<[365110]> TvSetInfo::GetInfo: strFiledName[IsAndroidTV],strFiledValue=[0]
+
+43.935   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][6]RCT[0]iReply[0]
+
+43.935   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.935   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.935   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.935   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ;Len:52,Reply<0, 2> imsgType:0x1804dac
+
+43.935   I/MCSP_Browser.webkit( 4877): JS alert: ==============IsAndroidTV:0 
+
+43.936   D/MCSP_Browser.webkit( 4877): scheduleLocationChange set noRedirect=0
+
+43.936   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"};Len:160
+
+43.938   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"}][25185708][160]RL[10240]
+
+43.938   I/TV_Client.TagTv( 4819):  [5353][tvlogin.cpp (L5429)][IsEqualsLoginUrl]:return false
+
+43.939   E/TV_Client.TagTv( 4819):  [5353][tvloginmsgpro.cpp (L3257)][CheckDataComeMsg]:local page[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html]! return -4
+
+43.939   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"}][25185708][4]iReply[0]
+
+43.939   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"zebra_conn_data_come","handle":174936731,"url":"file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html"};Len:160,Reply<, 0> imsgType:0x1804dac
+
+43.939   I/MCSP_Browser.webkit( 4877): Success_Download: main frame<0xd95cf000> url<file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/common/page/loginerror.html?EPGMode=720P&type=2&marketcode=1201&operatorscode=1>
+
+43.939   I/MCSP_Browser.webkit( 4877): reportHttpInfo: firstresponse:2 ms,finish:36 ms, iHTTPStatusCode=[200], openURL:[103]
+
+43.939   D/MCSP_Browser.webkit( 4877): Document has not focused node. setInitialFocus is FocusDirectionForward for 2nd time!
+
+43.939   D/MCSP_Browser.webkit( 4877): advanceFocus: not setFocusedNode! framenew:0xd95cf000 frame:0xd95cf000 focusedNodeNew:0x0
+
+43.940   D/MCSP_Browser.webkit( 4877): setInitialFocus End! set focused node to Frame {:0xd95cf000} in Node {NULL:0x0}.
+
+43.940   D/MCSP_Browser.webkit( 4877): main frame[0xd95cf000] check completed!
+
+43.940   D/MCSP_Browser.webkit( 4877): ztebw_webpage_jump_over: not registered, g_mapAPI.size is 161
+
+43.940   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :notify_mainframe_checkcompleted,JsonArgs:null
+
+43.940   I/MCSP_Browser.webkit( 4877): didFinishLoading: frame 0xd95cf000, resourceDatasize:[3607B], HTTPStatusCode 200, protocol FILE, openURL:[103]
+
+43.940   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.940   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.940   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.941   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 35,nScriptNodeCreate=121,this:0xcf7d0480
+
+43.941   D/MCSP_Browser.webkit( 4877): [webkit] -- crash HTMLScriptElement -- n = 34,nScriptNodeCreate=121,this:0xd6414000
+
+43.941   I/MCSP_Browser.webkit( 4877): loadURL:Frame 0xd95cf000,parent 0x0,openURL=<file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html?type=2&marketcode=1201&operatorscode=1>,g_paintcontent_once=<1>,windowCount=<1>.[GET]
+
+43.941   D/MCSP_Browser.webkit( 4877): load frame=[0xd95cf000],begin to open the timer maxOutTime=[1.500000] to refresh fullsreen.
+
+43.941   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.942   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.942   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.942   I/MCSP_Browser.webkit( 4877): willSendRequest: frame 0xd95cf000,parent 0x0, openURL:[105]<file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html?type=2&marketcode=1201&operatorscode=1>
+
+43.942   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.942   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.942   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.951   D/MCSP_Browser.webkit( 4877): first HTTP response: Frame 0xd95cf000, type<text/html>, charset<>, openURL:[105]
+
+43.951   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.953   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,1]!
+
+43.953   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.953   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.953   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.953   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,1]!
+
+43.953   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.953   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.953   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.953   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.953   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.953   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.953   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.953   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.953   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.954   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.954   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.954   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.954   I/MCSP_Browser.webkit( 4877): the window is visible[1],frame[0xd95cf000]
+
+43.954   D/MCSP_Browser.webkit( 4877): receivedFirstData and init focus settings!
+
+43.954   D/MCSP_Browser.webkit( 4877): #WebView# scrollx:0,scrolly:0,clipLeft:0,clipTop:0,right:1920,bottom:1080,canvas.isHardwareAccelerated():false,getLayerType:0
+
+43.954   D/MCSP_Browser.webkit( 4877): #BrowserFrame# [dealFunFromWebCoreToJava]: cmd :getCurrentSceneState,JsonArgs:null
+
+43.954   D/MCSP_Browser.webkit( 4877): FrameLoader::setisComplete currSceneState[front,0]!
+
+43.954   I/MCSP_Browser.webkit( 4877): #Tab# Tab::isWinVisible,Win{DefaultFirstTab}, isWinVisible res=true
+
+43.954   I/MCSP_Browser.webkit( 4877): isWinVisible res is { 1 }
+
+43.955   I/MCSP_Browser.webkit( 4877): setEncoding: <UTF-8>, EncodingSourceID<3>
+
+43.955   I/MCSP_Browser.webkit( 4877): <meta name='page-view-size' content='1280*720'>,URL[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html?type=2&marketcode=1201&operatorscode=1]
+
+43.955   D/MCSP_Browser.webkit( 4877): <ztebw_device_config_write: SetEpgMode>not registered!
+
+43.955   E/BaseComp.dispatcher( 4654): [FindSectionFromCfgDispList](347) FindSectionFromCfgDispList error, none registered pKey is SetEpgMode, when sec is Common
+
+43.955   E/BaseComp.dispatcher( 4654): [DispatcherCfgWrite](630) DispatcherCfgWrite error, search can not find key = SetEpgMode, section = Common
+
+43.955   E/MCSP_Browser.libdispatcher( 4877): [CfgWrite](433) [DispLib] CfgWrite, MCSP_InvokeService error
+
+43.955   E/MCSP_Browser.webkit( 4877): Error_CfgWrite: section Common,name SetEpgMode, value 720P, retVal -1!
+
+43.955   D/MCSP_Browser.webkit( 4877): Current mainFrame[0xd95cf000],DisplayMode=8,WidthRate=1.500000,HeightRate=1.500000,Url[file:///data/user/0/com.itv.android.iptv.tvclient/files/qcs/res/ui/localepg_1201_1/720P/loginerror.html?type=2&marketcode=1201&operatorscode=1]
+
+43.955   D/MCSP_Browser.webkit( 4877): #WebView# [setScaleXY]: currentwinname: DefaultFirstTab;need to set: scaleX:1.5,scaleY:1.5;bModifyImmediatelyAndFlush: false
+
+43.955   D/MCSP_Browser.webkit( 4877): #WebView# setScaleXY scale don't change,so do nothting! scaleX:1.5 scaleY:1.5
+
+43.955   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 122,wasInsertedByParser:1
+
+43.955   D/MCSP_Browser.webkit( 4877): #TabControl# Finish SetEPGMode: CurrentEpgMode:4(1:PAL;2:NTSC;4:720P;6:1080I;8:1080P)
+
+43.956   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 35,this:0xcf7d02a0,document:0xcf8ba800,body(0x0)
+
+43.956   I/MCSP_Browser.webkit( 4877): Post Event: EventId:0xc04002;pContentlength:264;cmdType:0x1;sessionid:0;content:{"type":"MAINCTRL_EPG_MODE_CHNGE","EpgMode":"4"}.
+
+43.956   I/TVMS_Client.TVMS( 4748):  [tvmsrvbase.cpp (L668)][OnEvent]:[f0597920]tvms receive event, begin to process
+
+43.956   I/TVMS_Client.TVMS( 4748):  [interfacetoclient.cpp (L538)][ServerEventCallBack]:[f0597920]MsgType=[12599298]!
+
+43.956   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.956   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.956   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.956   D/MCSP_Browser.webkit( 4877): <ztebw_device_config_read: Language>not registered!
+
+43.956   D/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L1873)][OnEvent]:Recive MC_COMP_EVT_SET_EGP_MODE Event!!
+
+43.956   I/TV_Client.TagTv( 4819):  [5074][tv2vodcmd.cpp (L131)][SendEpgMode]:>>>--- MCSP_Media: CMD_VOD_PLAY_CTRL(0x424000) VOD_EPGSIZE_SET(0x44) nEpgMode=4
+
+43.957   I/BaseComp.EventManager( 4654): process 4877 check service Disp_From_AndroidProComp, found at index [30], handle = 0xe8a321c0
+
+43.957   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [McspVodServiceCallBack][993]:iMsgType=0x424000, datalen=24,playerId = 255, command = 68.
+
+43.957   I/TV_Client.TagTv( 4819):  [5074][playermgr.cpp (L7543)][SetEpgModeAction_OnEvent]:strReply[{"EpgMode":4}]
+
+43.957   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [MCSP_VodEvtProcess][743]:playerid = [255],iCmdType = 68,iSessionID=0
+
+43.957   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [vodGetThreadInstance][7745]:VOD:VOD ID is invalid, id = 255.
+
+43.957   I/MCSP_VOD.VOD_DEBUG_OUT( 4763): [OnMcSetEPGMode][402]:VOD:Recv Data,cmd=GetMode:sc id =255.
+
+43.957   E/MCSP_VOD.VOD_ERROR_OUT( 4763): [OnMcSetEPGMode][403]:epgMode==4
+
+43.957   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.957   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+43.957   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.957   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+43.957   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.957   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+43.957   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.958   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+43.958   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.958   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:Language, Value:4
+
+43.958   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.958   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:4
+
+43.958   I/MCSP_Browser.webkit( 4877): CfgRead Success : section Common, name Language, buf 4 !
+
+43.958   I/MCSP_Browser.webkit( 4877): JS alert: ===============Language:4 
+
+43.959   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+43.959   D/MCSP_Browser.webkit( 4877): <CTCGetConfig: ErrpageReConFlag>not registered!
+
+43.959   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ;Len:57
+
+43.959   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ][25185708][57]RL[10240]
+
+43.959   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.959   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:ErrpageReConFlag, Value:0
+
+43.960   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.960   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:value=0 --MCSP_Pref_GetString OK
+
+43.960   E/TV_Client.tagtv_FLW( 4819):  [4838][tvsetinfo.cpp (L3975)][GetInfo]:<[365160]> TvSetInfo::GetInfo: strFiledName[ErrpageReConFlag],strFiledValue=[0]
+
+43.960   E/TV_Client.tagtv_FLW( 4819):  [4838][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ][25185708][6]RCT[0]iReply[0]
+
+43.960   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'ErrpageReConFlag'} ;Len:57,Reply<0, 2> imsgType:0x1804dac
+
+43.960   I/MCSP_Browser.webkit( 4877): JS alert: ==============ErrpageReConFlag:0 
+
+43.960   E/MCSP_Browser.webkit( 4877): [getSTBConfigByBrowser] not registered func!!
+
+43.960   D/MCSP_Browser.webkit( 4877): <CTCGetConfig: IsAndroidTV>not registered!
+
+43.960   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ;Len:52
+
+43.960   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][52]RL[10240]
+
+43.960   E/TV_Client.tagtv_FLW( 4819):  [5353][tvsetinfo.cpp (L3975)][GetInfo]:<[365160]> TvSetInfo::GetInfo: strFiledName[IsAndroidTV],strFiledValue=[0]
+
+43.960   E/TV_Client.tagtv_FLW( 4819):  [5353][ServerServiceCallBack]:[{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ][25185708][6]RCT[0]iReply[0]
+
+43.960   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.960   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.960   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.960   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{'cmd':'CTCGetConfig','name':'IsAndroidTV'} ;Len:52,Reply<0, 2> imsgType:0x1804dac
+
+43.961   I/MCSP_Browser.webkit( 4877): JS alert: ==============IsAndroidTV:0 
+
+43.961   D/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"GetStbType","session":0};Len:40
+
+43.961   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][40]RL[10240]
+
+43.961   E/TV_Client.tagtv_FLW( 4819):  [4849][ServerServiceCallBack]:[{"cmd":"GetStbType","session":0}][0][46]RCT[{"returncode":"0", "stbsystem":"Android"}]iReply[0]
+
+43.961   I/MCSP_Browser.webkit( 4877): Browser invoke TV_Client service:{"cmd":"GetStbType","session":0};Len:40,Reply<{"returncode":"0", "stbsystem":"Android"}, 42> imsgType:0x0
+
+43.961   I/MCSP_Browser.webkit( 4877): JS alert: GetStbSystem=Android 
+
+43.965   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 123,wasInsertedByParser:1
+
+43.965   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 36,this:0xcf7d0160,document:0xcf8ba800,body(0x0)
+
+43.965   I/MCSP_Browser.webkit( 4877): setEncoding: <UTF-8>, EncodingSourceID<1>
+
+43.965   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.965   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.965   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:OperatorsCode, Value:1
+
+43.965   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.965   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1
+
+43.966   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.966   D/BaseComp.mcspcfg( 4654): [MCSP_Cfg_GetString] Section:Common, Key:MarketCode, Value:1201
+
+43.966   D/BaseComp.mcspcfg( 4654): the key needn't enc !!!
+
+43.966   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt OK,get value is:1201
+
+43.966   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetString:SearchTKey is err,szKey:[ServiceType]
+
+43.966   D/BaseComp.mcspcfg( 4654): MCSP_Pref_GetInt:MCSP_Pref_GetString is err.
+
+43.966   D/BaseComp.mcspcfg( 4654): [MCSP_SyncOperation]:MCSP_Pref_GetInt err, return number is:-1
+
+43.966   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement create ++ nScriptNodeCreate = 124,wasInsertedByParser:1
+
+43.966   D/MCSP_Browser.webkit( 4877): [webkit] ++ crash HTMLScriptElement ++ n = 37,this:0xcf7d0660,document:0xcf8ba800,body(0x0)

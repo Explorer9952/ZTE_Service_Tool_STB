@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Common>
+<LastIP Value="192.168.100.32"/>
+<HistoryIP Value="192.168.100.32;192.168.100.21;0359569346:;0359569346:;;"/>
+<IpList Value=""/>
+<LastType Value="0"/>
+<LastMode Value="1"/>
+<LastLanguage Value="1"/>
+<DebugLevel Value="0"/>
+<BadStatisticsLine Value="7471201"/>
+<LogPath Value="F:\tool_4pda\ZTE_STB_Tools_V2.1.1_T02\LogTool\StbDebugFile"/>
+</Common>
